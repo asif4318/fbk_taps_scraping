@@ -1,0 +1,5381 @@
+year,semester,first_name,last_name,suffix,honorary_status
+1923,Fall,Gerald,Bee,,False
+1923,Fall,John,Blatt,,False
+1923,Fall,Carrol,Fussell,,False
+1923,Fall,Lester,Jennings,,False
+1923,Fall,John,Logan,Sr.,False
+1923,Fall,George,Milam,,False
+1923,Fall,Albert,Murphree,Sr.,True
+1923,Fall,Bert,Riley,,True
+1923,Fall,Henry,Salley,,False
+1923,Fall,William,Shafer,,False
+1924,Spring,Cyril,Bratley,,False
+1924,Spring,Orville,Davis,,False
+1924,Spring,John,Gracy,,False
+1924,Spring,K.,Hansen,,False
+1924,Spring,John,Usher,Jr.,False
+1924,Spring,Milton,Yeats,,False
+1924,Fall,Erwin,Clayton,,False
+1924,Fall,George,Clegg,,False
+1924,Fall,Robert,Earnest,Jr.,False
+1924,Fall,James,Farr,,True
+1924,Fall,Thomas,Ferguson,,False
+1924,Fall,Kenneth,Hait,,False
+1924,Fall,Kenneth,Harris,,False
+1924,Fall,Elmer,Hinckley,,False
+1924,Fall,Harry,Johnston,Sr.,False
+1924,Fall,Edgar,Jones,,False
+1924,Fall,F.,Langworthy,,False
+1924,Fall,Frank,Oâ€™Byrne,,False
+1924,Fall,Murray,Overstreet,Sr.,False
+1924,Fall,David,Rambo,,False
+1924,Fall,Charles,Regero,,False
+1924,Fall,Thomas,Sale,Sr.,False
+1924,Fall,Hubert,Weeks,,False
+1924,Fall,Jacob,Wise,,False
+1924,Fall,Robert,Wray,,False
+1925,Fall,Robert,Barfield,,False
+1925,Fall,Preston,Bishop,,False
+1925,Fall,Arthur,Black,,False
+1925,Fall,Reeves,Bowen,,False
+1925,Fall,Marvin,Brooker,,False
+1925,Fall,Raymond,Burr,,False
+1925,Fall,Edgar,Busbee,,False
+1925,Fall,William,Carter,,False
+1925,Fall,Lawrence,Case,,False
+1925,Fall,Charles,Clough,,False
+1925,Fall,Henry,Connell,,False
+1925,Fall,Warren,Cowell,,True
+1925,Fall,Silas,Creech,,False
+1925,Fall,Lucius,Cushman,,False
+1925,Fall,Thomas,Edwards,Jr.,False
+1925,Fall,John Hall,Jr.,,False
+1925,Fall,Robert,Hodges,,False
+1925,Fall,Hugh,Knight,,False
+1925,Fall,Joseph,Markham,,False
+1925,Fall,Virgil,Newton,Jr.,False
+1925,Fall,T.,Parham,,False
+1925,Fall,Robert,Parker,Sr.,False
+1925,Fall,Ellis,Piper,,False
+1925,Fall,Ernest,Sarra,,False
+1925,Fall,Harold,Sebring,,False
+1926,Spring,Paul,Barnes,,True
+1926,Spring,Austin,Chadwick,Jr.,True
+1926,Spring,Henry,Hamilton,,False
+1926,Spring,W.,Hendry,,False
+1926,Spring,Lemuel,Woods,,True
+1926,Fall,Alto,Adams,,True
+1926,Fall,Burton,Ames,,False
+1926,Fall,Henry,Baynard,,False
+1926,Fall,Frank,Boggs,,False
+1926,Fall,Curtis,Chillingworth,,True
+1926,Fall,Joe,Dillon,,True
+1926,Fall,J. Farrior,Sr.,,True
+1926,Fall,Erving,Goldstein,,False
+1926,Fall,Harald,Hammar,,False
+1926,Fall,Robert,Hughes,,False
+1926,Fall,Angus,Laird,,False
+1926,Fall,Ernest,Mason,,False
+1926,Fall,Edmund,McGill,,False
+1926,Fall,George,McKean,,True
+1926,Fall,Alton,Morris,,False
+1926,Fall,Romero,Sealy,,True
+1926,Fall,William,Sears,,False
+1926,Fall,Ralph,Stoutamire,,True
+1926,Fall,George,Usher,,False
+1926,Fall,Fuller,Warren,,False
+1926,Fall,Olin,Watts,,False
+1926,Fall,Frank,Wright,,False
+1926,Fall,Milton,Wyatt,,False
+1927,Spring,Thomas,Barrineau,,False
+1927,Fall,Clyde,Atkinson,,False
+1927,Fall,Charles,Ausley,,False
+1927,Fall,Donald,Baird,,False
+1927,Fall,Cecil,Beck,,False
+1927,Fall,Ernest,Bowyer,,False
+1927,Fall,Robert Brown,Jr.,,False
+1927,Fall,William,Carleton,,False
+1927,Fall,Carlos,Edwards,,False
+1927,Fall,Bernard,English,,False
+1927,Fall,Thomas,Fuller,,False
+1927,Fall,Ernest,Jerome,,False
+1927,Fall,James,Keegel,,False
+1927,Fall,David,Lanier,,False
+1927,Fall,Edward,Lewis,Jr.,False
+1927,Fall,Robert,Majors,,False
+1927,Fall,Donald,Matthews,,False
+1927,Fall,William,Middlekauff,,False
+1927,Fall,Bascom,Mizell,Sr.,False
+1927,Fall,Andrew,Pattillo,,False
+1927,Fall,Bonny,Roberts,,False
+1927,Fall,John,Thompson,,False
+1927,Fall,Edgard,Todd,,True
+1928,Spring,Horace,Aikin,,False
+1928,Spring,William,Bond,,False
+1928,Spring,John,Culpepper,,False
+1928,Spring,William,Duckwall,,False
+1928,Spring,Joe,Goldsby,,False
+1928,Spring,Charles,Mathis,,False
+1928,Spring,Attel,Morgan,,False
+1928,Spring,Carl,Owenby,,False
+1928,Spring,Thomas,Owens,Jr.,False
+1928,Spring,Carlos,Parsons,,False
+1928,Spring,William,Pepper,Jr.,False
+1928,Spring,Harvey,Pheil,,False
+1928,Spring,David,Smith,,False
+1928,Spring,Dennis,Stanley,,False
+1928,Spring,Royal,Untreiner,,False
+1928,Spring,Samuel,Wallace,,False
+1928,Spring,Everett Ho,Yon,,False
+1928,Fall,Robert,Mixson,,False
+1928,Fall,Marcus,Rosin,,False
+1928,Fall,Ion,Walker,,False
+1929,Spring,Alfred,Airth,,False
+1929,Spring,Stanmore,Clawthon,,False
+1929,Spring,Jerome,Connor,,False
+1929,Spring,Cecil,Curry,,False
+1929,Spring,Edgar,Curry,,False
+1929,Spring,William,Dinning,,False
+1929,Spring,William,Dishong,,False
+1929,Spring,William,Herin,,False
+1929,Spring,Mike,Houser,,False
+1929,Spring,Selwyn,Ives,,False
+1929,Spring,Richard,Knight,,True
+1929,Spring,John,McNatt,,False
+1929,Spring,Stephen,Montgomery,,False
+1929,Spring,John,Murphree,,False
+1929,Spring,Albert,Murphree,Jr.,False
+1929,Spring,Phillip,Oâ€™Connell,,False
+1929,Spring,Joseph,Price,,False
+1929,Spring,Richard,Trogdon,,False
+1929,Spring,Walter,Troxler,,False
+1929,Spring,Dale,Vansickle,,False
+1929,Spring,Hervey Yancey,III,,False
+1929,Fall,James,Boyd,Jr.,False
+1929,Fall,Thaddeus,Carlton,,False
+1929,Fall,Raymond,Carter,,False
+1929,Fall,Turner,Cason,,True
+1929,Fall,Clyde,Crabtree,,False
+1929,Fall,Manning,Dauer,,False
+1929,Fall,George,Enham,,False
+1929,Fall,Arthur,Gibbons,,False
+1929,Fall,Daniel,Kelley,Jr.,False
+1929,Fall,Raymer,Maguire,,True
+1929,Fall,John,Mizell,,False
+1929,Fall,Frank,Rogers,,False
+1929,Fall,Arthur,Simpson,,False
+1929,Fall,John,Stadler,Sr.,False
+1929,Fall,James,Steele,Jr.,False
+1929,Fall,Benjamin,Thornal,,False
+1929,Fall,Edgar,Wartmann,,True
+1929,Fall,Arnold,Welch,,False
+1929,Fall,Joe,Windham,,False
+1929,Fall,Philip,Yonge,,True
+1930,Spring,James,Anthony,Jr.,False
+1930,Spring,Winston,Arnow,,False
+1930,Spring,Albert,Barker,,False
+1930,Spring,Kermit,Black,,False
+1930,Spring,Martin,Caraballo,Jr.,False
+1930,Spring,Charles,Chaplin,,False
+1930,Spring,Walter,Clemons,,False
+1930,Spring,Gustave,Click,,False
+1930,Spring,George,Crofton,,False
+1930,Spring,Norman,Davis,,False
+1930,Spring,Joseph,Davis,,False
+1930,Spring,Luke,Dorsett,,False
+1930,Spring,Robert,Edsall,,False
+1930,Spring,William,Fifield,,False
+1930,Spring,Jo,Gill,,False
+1930,Spring,Durward,Hawkins,,True
+1930,Spring,George,Patten,,False
+1930,Spring,Harry,Stewart,,False
+1930,Spring,Carey,Thomas,,False
+1930,Spring,Lawrence,Walrath,,False
+1930,Fall,John,Alsop,Jr.,True
+1930,Fall,Robert,Archibald,,False
+1930,Fall,William,Bivens,,True
+1930,Fall,Sam,Butz,,True
+1930,Fall,William,Dunkle,Jr.,False
+1930,Fall,Chester,Ferguson,,False
+1930,Fall,Ben,Fuoua,,False
+1930,Fall,George,Hamilton,,False
+1930,Fall,Murphy,Henson,,True
+1930,Fall,Pat,Johnston,,True
+1930,Fall,Joe,Kirton,,False
+1930,Fall,Gorden,Knowles,,True
+1930,Fall,Granvile,Larimore,,False
+1930,Fall,Richard,Mack,,False
+1930,Fall,William,Madison,,True
+1930,Fall,William,McCrory,,True
+1930,Fall,Norris,McElya,,True
+1930,Fall,John,Minardi,,False
+1930,Fall,Charles,Norton,,True
+1930,Fall,Charles,Overman,,True
+1930,Fall,William,Powers,,True
+1930,Fall,John,Richards,,False
+1930,Fall,R.,Shackelford,,True
+1930,Fall,Thurman,Whiteside,,False
+1930,Fall,Leo,Wilson,,True
+1930,Fall,Paul,Zimmerman,,False
+1931,Spring,John,Carter,Jr.,True
+1931,Spring,Raymond,Ford,,False
+1931,Spring,Frank,Frazier,Jr.,False
+1931,Spring,John,Maddox,,False
+1931,Spring,Horace,Marsh,,False
+1931,Spring,William,Mehrtens,,False
+1931,Spring,James,Montgomery,,False
+1931,Spring,Edward,Parnell,Sr.,False
+1931,Spring,Kenneth,Skaggs,,False
+1931,Spring,Wilton,Sturges,Jr.,False
+1931,Fall,Charles,Andrews,Jr.,False
+1931,Fall,E.,Baxter,,True
+1931,Fall,Byron,Butler,,False
+1931,Fall,John,Butler,,False
+1931,Fall,H.,Cherry,Jr.,True
+1931,Fall,George,Coulter,,False
+1931,Fall,Ralph,Davis,,False
+1931,Fall,John,Donahoo,,False
+1931,Fall,Harry,Fifield,,False
+1931,Fall,Hamilton,Foster,,False
+1931,Fall,Gardner,Gillette,,False
+1931,Fall,John,Greenman,,False
+1931,Fall,Everett,Johns,,True
+1931,Fall,William,Joubert,,False
+1931,Fall,John,Larsen,,True
+1931,Fall,Louis,McQuitty,,False
+1931,Fall,Wilbur,Miller,,False
+1931,Fall,Jackson,Mizell,,False
+1931,Fall,Marshall,Musser,,False
+1931,Fall,Clarence,Pheil,,False
+1931,Fall,Owen,Rice,II,False
+1931,Fall,Joseph,Roemer,,True
+1931,Fall,Albert,Rogers,,False
+1931,Fall,Thomas,Shackelford,,True
+1932,Spring,William,Charles,,False
+1932,Spring,Robert,Driscoll,,False
+1932,Spring,Hugh,Embry,,False
+1932,Spring,Klein,Graham,,True
+1932,Spring,Harvey,Haseker,,False
+1932,Spring,William,Sherril,,False
+1932,Spring,Robert,Underwood,,False
+1932,Spring,John,Wilkes,,False
+1932,Spring,Reginald,Williams,,False
+1932,Spring,Walter,Woodward,,False
+1932,Fall,Alexander,Akerman,,False
+1932,Fall,John,Barnum,,False
+1932,Fall,Elmore,Beggs,,False
+1932,Fall,Charles,Bennett,,False
+1932,Fall,Letroy,Berthea,,False
+1932,Fall,H.,Browne,,False
+1932,Fall,Robert,Cole,,False
+1932,Fall,Judosn,Deloach,,False
+1932,Fall,WiIliam,Dungwody,,False
+1932,Fall,George,Dykes,,False
+1932,Fall,Lawrence,Emmanuel,,False
+1932,Fall,Edgar,Emmelhainz,,False
+1932,Fall,William,Fairbanks,,False
+1932,Fall,Duncan,Fletcher,,True
+1932,Fall,Donald,Forsyth,,False
+1932,Fall,Truman,Futch,,False
+1932,Fall,Benjamin,Grant,,False
+1932,Fall,Josiah,Hall,,False
+1932,Fall,William,Halsey,,False
+1932,Fall,Charles,Hardee,,True
+1932,Fall,O.,Harris,,False
+1932,Fall,Alfred,Higgins,,True
+1932,Fall,John,James,,False
+1932,Fall,B.,Johansen,,False
+1932,Fall,Oliver,Johnson,,False
+1932,Fall,Arthur,Jones,,False
+1932,Fall,Richard,Juoy,,False
+1932,Fall,James,Landon,,False
+1932,Fall,Richard,Lawrence,,False
+1932,Fall,Melbourne,Martin,,False
+1932,Fall,Walter,Matherly,,True
+1932,Fall,Broward,McClellan,,False
+1932,Fall,James,McEwen,,False
+1932,Fall,Donald,McGovern,,False
+1932,Fall,Andrew,McLean,,False
+1932,Fall,William,McRae,,False
+1932,Fall,George,Miller,,False
+1932,Fall,J.,Miller,,False
+1932,Fall,Forest,Munger,,False
+1932,Fall,Robert,Pitman,,False
+1932,Fall,John,Prunty,,False
+1932,Fall,Henry,Sinclair,,False
+1932,Fall,Kenneth,Smith,,False
+1932,Fall,Gerald,Smith,,False
+1932,Fall,Lauren,Somprayrac,,False
+1932,Fall,Charles,Summerall,,True
+1932,Fall,Clarence,Teselle,,True
+1932,Fall,John,Tigert,,True
+1932,Fall,Benjamin,Tolbert,,True
+1932,Fall,Harold,Wahl,,False
+1932,Fall,Dale,Waters,,False
+1932,Fall,Tom,Watrous,,False
+1932,Fall,Wilbur,Wells,,False
+1932,Fall,John,Wiggington,,False
+1932,Fall,Richard,Williams,,False
+1932,Fall,William,Wilson,,True
+1932,Fall,John,Wilsair,,False
+1932,Fall,Chester,Yates,,False
+1932,Fall,Thomas,York,,False
+1933,Spring,Julian,Alford,,False
+1933,Spring,John,Ausley,,False
+1933,Spring,Paul,Best,,False
+1933,Spring,Edwin,Clark,,False
+1933,Spring,Francis,Conroy,,False
+1933,Spring,Raymond,Crabtree,,False
+1933,Spring,Harry,Dale,,False
+1933,Spring,Sam,Davis,,False
+1933,Spring,Sam,Dell,Jr.,False
+1933,Spring,Owen,Duffy,,False
+1933,Spring,Charles,Durrance,Jr.,False
+1933,Spring,Fred,Flipse,,False
+1933,Spring,Richard,Gardner,,False
+1933,Spring,Gerald,Hostetler,,False
+1933,Spring,Joe,Jenkins,,False
+1933,Spring,T. Paine,Kelly,Jr.,False
+1933,Spring,William,Kemp,,False
+1933,Spring,James,Knott,,False
+1933,Spring,Edgar,Lambert,,False
+1933,Spring,Frank,Messari,,False
+1933,Spring,Daniel,McCarty,,False
+1933,Spring,Terry,Patterson,,False
+1933,Spring,Ned,Patton,,False
+1933,Spring,Jack,Peters,,False
+1933,Spring,Charles,Raulerson,,False
+1933,Spring,Ernest,Schirmer,,False
+1933,Spring,James,Shackleford,,False
+1933,Spring,William,Simmons,Jr.,False
+1933,Spring,Nolan,Williams,,False
+1933,Fall,Williard,Ayres,,False
+1933,Fall,Scott,Loftin,,False
+1934,Spring,Henry,Berg,,False
+1934,Spring,Orayton,Bernhard,,False
+1934,Spring,John,Brown,,False
+1934,Spring,M.,Cogburn,,False
+1934,Spring,Herman,Edwards,,False
+1934,Spring,Elmer,Griffin,,False
+1934,Spring,Baya,Harrison,Jr.,False
+1934,Spring,Byron,Herlong,,False
+1934,Spring,James,Horrell,,False
+1934,Spring,William,Jackson,,False
+1934,Spring,Harold,Kinsey,,False
+1934,Spring,William,Lantaff,,False
+1934,Spring,John,Lavin,,False
+1934,Spring,James,Love,Jr.,False
+1934,Spring,Joseph,Mathis,,False
+1934,Spring,Douglas,Overoorfer,,False
+1934,Spring,Jule,Patterson,,False
+1934,Spring,Kalell,Rizk,,False
+1934,Spring,Charles,Rogers,III,False
+1934,Spring,Welcome,Shearer,,False
+1934,Spring,Charles,Stallings,,False
+1934,Spring,Walter,Taylor,,False
+1934,Spring,William,Voight,,False
+1934,Spring,Ralph,Walker,,False
+1934,Fall,Carl,Anthony,,False
+1934,Fall,Doyle,Carlton,,True
+1934,Fall,Robed,Moore,,False
+1934,Fall,Frank,Robson,,False
+1934,Fall,John,Werthheimer,,False
+1934,Fall,Broward,Williams,,False
+1935,Spring,William,Anderson,Jr.,False
+1935,Spring,Carl,Atkins,,False
+1935,Spring,Jack,Beckwith,Jr.,False
+1935,Spring,Jean,Bush,,False
+1935,Spring,Leonard,Chapman,Jr.,False
+1935,Spring,Everett,Clay,,False
+1935,Spring,William,Cohoe,,False
+1935,Spring,Raymond,Einhorn,,False
+1935,Spring,Estill,Embry,,False
+1935,Spring,David,Fee,,False
+1935,Spring,Mac,Grigsby,,False
+1935,Spring,Frederick,Hedrick,,False
+1935,Spring,Dowling Leather,wood,,False
+1935,Spring,Claude,Lee,,False
+1935,Spring,H.,Lester,Jr.,False
+1935,Spring,Gordon,Lovejoy,,False
+1935,Spring,Woodrow,Lynn,,False
+1935,Spring,Earnest,Lytle,Jr.,False
+1935,Spring,Charles,McKown,Jr.,True
+1935,Spring,Walter,Midolekauff,Jr.,False
+1935,Spring,Gordon,Moyer,Jr.,False
+1935,Spring,Alexander,Pillsbury,,False
+1935,Spring,Hubert,Schucht,,False
+1935,Spring,Hansell,Sculenberger,,False
+1935,Spring,George,Smathers,,False
+1935,Spring,William,Terry,,False
+1935,Spring,Lonnie,Wurn,,False
+1935,Spring,William,Zewaoski,Jr.,False
+1935,Fall,Walter,Arnold,,True
+1935,Fall,David,Batey,,False
+1935,Fall,Robert,Cockrell,,True
+1935,Fall,Joesph,Duncan,,False
+1935,Fall,Robert,Futch,,False
+1935,Fall,Robert,Hoag,,False
+1935,Fall,Ely,Katz,,False
+1935,Fall,William,Lines,,False
+1935,Fall,John,Lloyd,,False
+1935,Fall,Garland,Powell,,True
+1935,Fall,Clarence,Reinschmidt,,False
+1935,Fall,Chester,Treadway,Jr.,True
+1936,Spring,Walter,Barker,,False
+1936,Spring,Robert,Barton,,False
+1936,Spring,Franklin,Bennett,,False
+1936,Spring,William,Boring,,False
+1936,Spring,Guy,Botts,,False
+1936,Spring,James,Bryant,,False
+1936,Spring,Jack,Bush,,False
+1936,Spring,William,Chambers,Jr.,False
+1936,Spring,Henry,Dozier,Jr.,False
+1936,Spring,Kenneth,Eppert,,False
+1936,Spring,John,Fly,Sr.,False
+1936,Spring,William,Gaither,,False
+1936,Spring,Robert,Gardner,,False
+1936,Spring,Philip,Graham,,False
+1936,Spring,Randolph,Jones,,False
+1936,Spring,John,Jones,Jr.,False
+1936,Spring,Jesse,Jones,,False
+1936,Spring,Issac,Krentzman,Jr.,False
+1936,Spring,Juilian,Lane,,False
+1936,Spring,Charles,Matheny,Jr.,False
+1936,Spring,Brian,McCarty,,False
+1936,Spring,John,McCarty,,False
+1936,Spring,Victor,Nettles,,False
+1936,Spring,William,Obryan,,False
+1936,Spring,Mercer,Parrish,Jr.,False
+1936,Spring,Robert,Rickett,,False
+1936,Spring,Charles,Root,,False
+1936,Spring,David,Scott,,False
+1936,Spring,William,Smith,,False
+1936,Spring,Robert,Specht,,False
+1936,Spring,Selden,Waldo,,False
+1936,Spring,Henry,Ware,,False
+1936,Fall,Albert,Buzell,Jr.,False
+1936,Fall,Floyd,Christian,,False
+1936,Fall,Herbert,Gregory,,False
+1936,Fall,Herbert,McNeal,,False
+1936,Fall,Frederick,Meatyard,Jr.,False
+1936,Fall,Paul,Pope,Jr.,False
+1936,Fall,John,Scott,Jr.,False
+1936,Fall,John,Stembler,,False
+1936,Fall,Emmett,Tally,Jr.,False
+1936,Fall,Frank,Walrath,Jr.,False
+1936,Fall,George,Walsh,,False
+1937,Spring,George,Anderson,,False
+1937,Spring,Wilmer,Bassett,Jr.,False
+1937,Spring,Philip,Beall,,False
+1937,Spring,Clifford,Beasley,,False
+1937,Spring,Robert,Beaty,,True
+1937,Spring,Edward,Boardman,,False
+1937,Spring,Robert,Collins,,False
+1937,Spring,Henry,Constans,,True
+1937,Spring,Lawrence,Edwards,Jr.,False
+1937,Spring,Jess,Ferrill,Jr.,False
+1937,Spring,William,Glass,,False
+1937,Spring,Joseph,Grigsby,,False
+1937,Spring,William,Hamilton,Jr.,False
+1937,Spring,William,Norwood,Jr.,False
+1937,Spring,Stephen,Oâ€™Connell,,False
+1937,Spring,Earl,Powers,,False
+1937,Spring,Harold,Riker,,False
+1937,Spring,Grover,Robinson,Jr.,False
+1937,Spring,Henry,Tolano,,False
+1937,Spring,Dexter,Webb,,False
+1937,Spring,Sidney,Williams,,False
+1937,Spring,George,Young,,False
+1937,Fall,Harry,Bower,,False
+1937,Fall,R.,Burress,,False
+1937,Fall,Richard,Ezzard,,False
+1937,Fall,Thomas,Flemming,Jr.,False
+1937,Fall,Delbridge,Gibbs,Jr.,False
+1937,Fall,Fred,Gilbert,Jr.,False
+1937,Fall,William,Jibs,,False
+1937,Fall,Thomas,Leonard,,False
+1937,Fall,Alfred,Parker,,False
+1937,Fall,William,Shelley,Jr.,False
+1938,Spring,George,Allen,,False
+1938,Spring,Albert,Barry,,False
+1938,Spring,Roy,Benjamin,Jr.,False
+1938,Spring,Rainey,Cawthon,,False
+1938,Spring,William,Crown,Jr.,False
+1938,Spring,James,Driggers,,False
+1938,Spring,Donn,Gregory,,False
+1938,Spring,Charles,Henry,,False
+1938,Spring,Chester,Holloway,Jr.,False
+1938,Spring,Lloyd,Johnson,,False
+1938,Spring,Wallace,Joplin,Jr.,False
+1938,Spring,Sidney,Marshall,,False
+1938,Spring,Sidney,Mendelson,,False
+1938,Spring,Waring,Miller,,False
+1938,Spring,John,Pinkerson,,False
+1938,Spring,Edward,Rood,,False
+1938,Spring,George,Simonson,,False
+1938,Spring,Howard,Skipper,,False
+1938,Spring,Lawrence,Smith,,False
+1938,Spring,Louis,Snetman,,False
+1938,Spring,Theodore,Turnball,Jr.,False
+1938,Spring,Thomas Van,Brunt,,False
+1938,Spring,Sam,Warren,,False
+1938,Spring,Patrick,Watson,,False
+1938,Fall,Hudson,Burr,Jr.,False
+1938,Fall,Herbert,Graham,,False
+1938,Fall,John,Jyman,Jr.,False
+1939,Spring,William,Arnold,,False
+1939,Spring,John,Avant,,False
+1939,Spring,Harry,Brown,,False
+1939,Spring,Nixon,Butt,Jr.,False
+1939,Spring,Kenneth,Clark,,False
+1939,Spring,William,Grimes,,False
+1939,Spring,Walter,Liddell,,False
+1939,Spring,Robert,McCann,,False
+1939,Spring,Malcolm,McGlasson,,False
+1939,Spring,Dwight,Rogers,,False
+1939,Spring,Merle,Wadsworth,,False
+1939,Spring,Julian,Williams,,False
+1939,Fall,David,Avant,Jr.,False
+1939,Fall,Samuel,Carson,,False
+1939,Fall,Barney,Colson,,True
+1939,Fall,Virgil,Conkling,,False
+1939,Fall,Raymond,Ehrlich,,False
+1939,Fall,John,Hamilton,,False
+1939,Fall,Maynard,Ramsey,,False
+1939,Fall,Stuart,Simon,,False
+1939,Fall,Emmett,Smith,,False
+1939,Fall,Tom,Walker,,False
+1940,Spring,Richard,Anderson,,False
+1940,Spring,Robed,Cooy,,False
+1940,Spring,Davisson,Dunlap,,False
+1940,Spring,Gibson,Finley,,False
+1940,Spring,Wilson,Freeman,,False
+1940,Spring,Joseph,Geiger,,False
+1940,Spring,Gregory,Hobbs,,False
+1940,Spring,Jack,Jones,,False
+1940,Spring,Randolph,Matheny,,False
+1940,Spring,Benjamin,McGahey,,False
+1940,Spring,Allen,Poucher,,False
+1940,Spring,Joseph,Rood,,False
+1940,Spring,Fletcher,Rush,Jr.,False
+1940,Spring,Curtis,Stanton,,False
+1940,Spring,William,Stewert,,False
+1940,Spring,John,Sweger,,False
+1940,Spring,Richard,Tench,,False
+1940,Spring,Thomas,Wakefield,,False
+1940,Fall,William,Goza,Jr.,False
+1940,Fall,Albert,Litschgi,Sr.,False
+1940,Fall,Henry,Robinson,,False
+1941,Spring,Ralph,Blank,Jr.,False
+1941,Spring,Alan,Brackett,,False
+1941,Spring,John,Brown,,False
+1941,Spring,Charles,Brown,,False
+1941,Spring,John,Flemming,,False
+1941,Spring,Weaver,Gaines,,False
+1941,Spring,James,Garland,,False
+1941,Spring,Leland,Hiatt,,True
+1941,Spring,Louis,Moculler,Jr.,False
+1941,Spring,William,McRae,,False
+1941,Spring,Dean,Miller,,False
+1941,Spring,James,Norman,Jr.,False
+1941,Spring,Paul,Rogers,,False
+1941,Spring,Charles,Sherman,Jr.,False
+1941,Spring,Homer,Still,Jr.,False
+1941,Spring,Ralph,Turlington,Sr.,False
+1941,Spring,Robert,Tylander,,False
+1941,Spring,Donald,Weiss,,False
+1941,Spring,Frank,Yinshanis,,False
+1941,Spring,William,Zachry,Jr.,False
+1941,Fall,George,Avant,,False
+1941,Fall,William,Branoon,,False
+1941,Fall,Ralph,Engle,Jr.,False
+1941,Fall,John,Joca,,False
+1941,Fall,Ralph,Martin,,False
+1941,Fall,William,Robinson,,False
+1941,Fall,Carl,Squires,,False
+1942,Spring,Sidney,Aronovitz,,False
+1942,Spring,Charles,Brokaw,,False
+1942,Spring,King,Caddoo,III,False
+1942,Spring,Oliver,Carter,Jr.,False
+1942,Spring,William,Corry,,False
+1942,Spring,Philip,Craig,,False
+1942,Spring,Benjamin,Fogelson,,False
+1942,Spring,Homer,Hooks,Jr.,False
+1942,Spring,Peyton,Jordan,Jr.,False
+1942,Spring,Edward,Lang,,False
+1942,Spring,Harald,Neff,,False
+1942,Spring,Daniel,Roberts,,False
+1942,Spring,Champion,Teutsch,,False
+1942,Spring,William,Whellock,Jr.,False
+1942,Spring,Philip,Younge,Jr.,False
+1942,Fall,John,Agner,,False
+1942,Fall,Volney,Bearosley,,False
+1942,Fall,Robert,Bishop,,False
+1942,Fall,Alexander,Brown,,False
+1942,Fall,William,Christie,,False
+1942,Fall,Albertus,Cone,,False
+1942,Fall,Frank,Duckworth,,False
+1942,Fall,Thomas,Economou,,False
+1942,Fall,Edward,Flood,,False
+1942,Fall,William,Gay,Jr.,False
+1942,Fall,Mark,Husley,Jr.,False
+1942,Fall,William,Mahoney,,False
+1942,Fall,Morgan,Mcjunkin,,False
+1942,Fall,John,Morris,Jr.,False
+1942,Fall,Ray,Pearson,,False
+1942,Fall,Robert,Tench,,False
+1942,Fall,Thomas,Triplett,,False
+1942,Fall,Idus,Wicker,,False
+1943,Spring,Oaniel,Bearosley,,False
+1943,Spring,Clayton,Codrington,Jr.,False
+1943,Spring,John,Cox,,False
+1943,Spring,James,Duncan,,False
+1943,Spring,Warren,Goodrich,,False
+1943,Spring,Woodford,Hayes,,False
+1943,Spring,William,Lasarow,,False
+1943,Spring,Thomas,McEwen,,False
+1943,Spring,Wilmon,Newell,,True
+1946,Spring,Jerry,Bssett,,False
+1946,Spring,Thomas,Bryant,,True
+1946,Spring,William,Calowell,,False
+1946,Spring,William,Chandler,,False
+1946,Spring,William,Colson,,False
+1946,Spring,Donald,Eanett,,False
+1946,Spring,Patrick,Emmanuel,,False
+1946,Spring,Jerry,Gaddum,,False
+1946,Spring,Myron,Gibbons,Jr.,False
+1946,Spring,Sam,Gibbons,,False
+1946,Spring,Alonzo,Green,,False
+1946,Spring,Albert,Herlong,Jr.,True
+1946,Spring,Harold,Hume,,True
+1946,Spring,Edward,Kelly,,False
+1946,Spring,Walter,Kelly,,False
+1946,Spring,George,Kowkabany,,False
+1946,Spring,Herman,Lee,Jr.,False
+1946,Spring,David,Martin,,False
+1946,Spring,George,Moss,,False
+1946,Spring,John,Murray,,False
+1946,Spring,Talmadge,Murray,,False
+1946,Spring,Harry,Parham,,False
+1946,Spring,William,Rion,,False
+1946,Spring,Louis,Safer,,False
+1946,Spring,Wilke,Schell,,False
+1946,Spring,John,Walker,,False
+1946,Spring,Fred,White,,False
+1946,Fall,Charles,Boyd,Jr.,False
+1946,Fall,Edgar,Davis,,False
+1946,Fall,William,Durden,Jr.,False
+1946,Fall,Robert,Eaton,,False
+1946,Fall,Solomon,Folks,,False
+1946,Fall,Morton,Freedman,,False
+1946,Fall,William,Harrell,,False
+1946,Fall,David,Hedrick,,False
+1946,Fall,Jack,Lucas,,False
+1946,Fall,Raymer,Maguire,Jr.,False
+1946,Fall,Joseph,McLaughlin,Jr.,False
+1946,Fall,Ben,Moss,,False
+1946,Fall,Horace,Richardson,,False
+1946,Fall,James,Robinson,,False
+1946,Fall,Herbert,Stallworth,,False
+1946,Fall,Ford,Thompson,,False
+1946,Fall,Thomas,Wood,,False
+1947,Spring,John,Chowning,,False
+1947,Spring,John,Crews,Jr.,False
+1947,Spring,Robert,Ervin,,False
+1947,Spring,George,Garrett,,True
+1947,Spring,Patrick,Oneal,,False
+1947,Spring,Walter,Timberlake,Jr.,False
+1947,Spring,Edward,Wyke,,False
+1947,Fall,Albert,Brewer,,False
+1947,Fall,Robert,Brooks,,False
+1947,Fall,Clarence,Broome,,False
+1947,Fall,Paul,Bryan,,False
+1947,Fall,Richard,Crago,,False
+1947,Fall,Harold,Crosby,,False
+1947,Fall,Carl,Durrance,,False
+1947,Fall,Abraham,Fink,,False
+1947,Fall,Linton,Floyd,III,False
+1947,Fall,Autha,Forehand,,False
+1947,Fall,Pendelton,Gaines,,False
+1947,Fall,Henry,Gardner,,False
+1947,Fall,Robert,Ghiotto,,False
+1947,Fall,Edward,Grafton,,False
+1947,Fall,Charles,Hardee,Jr.,False
+1947,Fall,Roger,Holmes,,False
+1947,Fall,Kenneth,Jones,,False
+1947,Fall,Gerald,Klein,,False
+1947,Fall,William,Mahon,Jr.,False
+1947,Fall,William,Oâ€™Neill,,False
+1947,Fall,Harold,Smith,,False
+1947,Fall,Frank,Stanley,Jr.,False
+1948,Spring,Grover,Baker,,False
+1948,Spring,William,Bracken,,False
+1948,Spring,William,Carlton,,False
+1948,Spring,James,Day,,True
+1948,Spring,Conrad,Demeo,Jr.,False
+1948,Spring,Herbert,Doherty,Jr.,False
+1948,Spring,William,Faircloth,,False
+1948,Spring,Thomas,Henderson,,False
+1948,Spring,George,Hills,Jr.,False
+1948,Spring,Guentin,Long,,False
+1948,Spring,Robert,Lyle,,False
+1948,Spring,Walter,McRae,Sr.,True
+1948,Spring,Hillis,Miller,,True
+1948,Spring,William,Moor,,False
+1948,Spring,Leonard,Mosby,Jr.,False
+1948,Spring,Frazier,Rogers,,True
+1948,Spring,James,Rush,,False
+1948,Spring,William,Scruggs,Jr.,False
+1948,Spring,Chesterfield,Smith,,False
+1948,Spring,Royal,Terry,,True
+1948,Spring,W.,Turner,,False
+1948,Spring,William,Walker,III,False
+1948,Spring,B.,Winegeart,Jr.,False
+1948,Fall,Douglas,Belden,,False
+1948,Fall,Andrew,Bracken,Jr.,False
+1948,Fall,William,Byrd,,False
+1948,Fall,Marwin,Cassei,,False
+1948,Fall,William,Castagna,,False
+1948,Fall,Eugene,Doss,,False
+1948,Fall,Jessie,Lee,,False
+1948,Fall,Samuel,Love,,False
+1948,Fall,Al,Schneider,,False
+1948,Fall,Edward,Shurtleff,,False
+1948,Fall,Nick,Stamathis,,False
+1948,Fall,Leon,Whitehurst,Jr.,False
+1948,Fall,James,Young,,True
+1949,Spring,Pete,Brock,,False
+1949,Spring,William,Bryan,,False
+1949,Spring,Julian,Clarkson,,False
+1949,Spring,David,Clements,,False
+1949,Spring,Albert,Crabtree,,False
+1949,Spring,Charles,Davis,Jr.,False
+1949,Spring,Edward,Fluker,Jr.,False
+1949,Spring,Sanford,Freed,,False
+1949,Spring,Melvyn,Frumkes,,False
+1949,Spring,Ulysses,Goroon,,True
+1949,Spring,James,Griffin,Jr.,False
+1949,Spring,Byron,Groves,,False
+1949,Spring,Leon,Handley,,False
+1949,Spring,Laure,Harrell,,False
+1949,Spring,William,Henry,,False
+1949,Spring,Howard,Hooper,,False
+1949,Spring,Pete,House,,False
+1949,Spring,Jack,Humhries,,False
+1949,Spring,Sandy,Johnson,,False
+1949,Spring,John,Jones,,False
+1949,Spring,Tomas,McCaul,Sr.,True
+1949,Spring,Jeremiah,Omahoney,,True
+1949,Spring,James,Richards,Jr.,False
+1949,Spring,Doyle,Rogers,,False
+1949,Spring,Bernard,Shiell,Jr.,False
+1949,Spring,John,Shoemaker,,False
+1949,Spring,Jerry,Simmons,Jr.,False
+1949,Spring,William,Smith,Jr.,False
+1949,Spring,Richard,Stanley,,False
+1949,Spring,John,Trinkle,,False
+1949,Spring,John,Warrington,Jr.,False
+1949,Spring,Ted,Wittner,,False
+1949,Fall,Phillip,Anderson,,False
+1949,Fall,Lewis,Ansbacher,,False
+1949,Fall,Marshall,Criser,,False
+1949,Fall,William,Daniel,,False
+1949,Fall,Harold,Dillinger,,False
+1949,Fall,James,Hendrie,,False
+1949,Fall,Mallory,Horne,,False
+1949,Fall,James,King,,False
+1949,Fall,James,Kynes,Sr.,False
+1949,Fall,Edward,Resnick,,False
+1949,Fall,Roy,Rhodes,Jr.,False
+1949,Fall,John,Straughn,,False
+1949,Fall,Lewis,Vickers,Jr.,False
+1950,Spring,Walter,Apfelbaum,,False
+1950,Spring,Raymond,Blacklock,,True
+1950,Spring,Millard,Calowell,,False
+1950,Spring,John,Carter,,False
+1950,Spring,Harley,Chandler,,True
+1950,Spring,Benjamin,Cooper,,False
+1950,Spring,Emory,Diamond,,False
+1950,Spring,Charles,Early,,False
+1950,Spring,J.,Farrior,Jr.,False
+1950,Spring,Leo,Foster,,True
+1950,Spring,Albert,Gammage,Jr.,False
+1950,Spring,James,Gurney,,True
+1950,Spring,Henry,Kittleson,,False
+1950,Spring,James,Leake,,True
+1950,Spring,Woodie,Liles,,False
+1950,Spring,William,McCoy,III,False
+1950,Spring,Fred,Montsdeoca,,False
+1950,Spring,Donald,Nichols,,False
+1950,Spring,Clarence,Nuckols,Jr.,False
+1950,Spring,Alfred,Posey,,False
+1950,Spring,Andrew,Rizner,,False
+1950,Spring,John,Rogerson,Jr.,False
+1950,Spring,William,Rose,,False
+1950,Spring,William,Rutledge,Jr.,False
+1950,Spring,Sanford,Scheir,,False
+1950,Spring,Leonard,Voight,,False
+1950,Spring,Joseph,Weil,,True
+1950,Spring,John,Williford,,False
+1950,Fall,Frank,Akerman,,False
+1950,Fall,Loren,Broadus,Jr.,False
+1950,Fall,Tom,Brown,,False
+1950,Fall,Robert,Busse,,False
+1950,Fall,Charles,Damsel,Jr.,False
+1950,Fall,William,Douglas,Jr.,False
+1950,Fall,Abraham,Freed,,False
+1950,Fall,Joe,Garcia,Jr.,False
+1950,Fall,James,Gay,,False
+1950,Fall,Mandell,Glicksberg,,False
+1950,Fall,Hoke,James,Jr.,False
+1950,Fall,Walter,Matherly,Jr.,False
+1950,Fall,Joseph,Nesbitt,,False
+1950,Fall,Harry,Powell,,False
+1950,Fall,Frederick,Prior,,False
+1950,Fall,Frank,Pruitt,,False
+1950,Fall,Marvin,Ramber,,False
+1950,Fall,Archibald,Ryan,,False
+1950,Fall,Angus,Williams,Jr.,False
+1951,Spring,Stanley,Barchan,Jr.,False
+1951,Spring,Alvin,Black,,True
+1951,Spring,Etheridge,Boone,,False
+1951,Spring,Robert,Gibson,,False
+1951,Spring,Stephen,Grimes,,False
+1951,Spring,Lester,Hale,,True
+1951,Spring,Charles,Jones,,False
+1951,Spring,Dayton,Logue,,False
+1951,Spring,Walter,Marshall,,False
+1951,Spring,Benjamin,Nichols,,False
+1951,Spring,Richard,Pettigrew,,False
+1951,Spring,Gordon,Poucher,,False
+1951,Spring,Charles,Pruitt,Jr.,False
+1951,Spring,John,Reynolds,,False
+1951,Spring,William,Reynolds,,False
+1951,Spring,Thomas,Sessums,,False
+1951,Spring,William,Shanos,,True
+1951,Spring,Gerald,Sohn,,False
+1951,Spring,Thomas,Stringer,Jr.,False
+1951,Spring,Hans,Tanzler,Jr.,False
+1951,Spring,John,Terry,,False
+1951,Spring,Charles,Wofford,,False
+1951,Spring,Leo,Wotitzky,,False
+1951,Fall,Robert,Baueh,,False
+1951,Fall,Edward,Booth,,False
+1951,Fall,Bill,Fleming,,False
+1951,Fall,Joseph,Horton,Jr.,False
+1951,Fall,Joseph,Mims,,False
+1951,Fall,Edward,Siegal,,False
+1951,Fall,MacDonald,Wiggins,,False
+1951,Fall,Ralph,Wilson,,False
+1952,Spring,Harold,Bachman,,True
+1952,Spring,Robert,Billingsley,Jr.,False
+1952,Spring,Doyle,Conner,,False
+1952,Spring,Clifford,Crandall,,True
+1952,Spring,Lawrence,Crary,Jr.,False
+1952,Spring,Arlemus,Davis,,True
+1952,Spring,Julian,Dominick,,False
+1952,Spring,Richard,Ervin,Jr.,True
+1952,Spring,Leroy,Gilbert,,False
+1952,Spring,Jose,Gonzalez,Jr.,False
+1952,Spring,David,Hoffman,,False
+1952,Spring,Franklin,Kokomoor,,True
+1952,Spring,William,Marshall,,False
+1952,Spring,James,McGinley,,False
+1952,Spring,Jack,Shorestein,,False
+1952,Spring,Eugene,Spellman,,False
+1952,Fall,Charles,Abbott,,False
+1952,Fall,George,Bayless,,False
+1952,Fall,John,Bethea,,False
+1952,Fall,Dana Bullen,II,,False
+1952,Fall,Hal,Davis,,False
+1952,Fall,James,Dimmick,,False
+1952,Fall,Robert,Edwards,,False
+1952,Fall,Harold,Haimowitz,,False
+1952,Fall,John,Hall,Jr.,False
+1952,Fall,Thomas,Henderson,,False
+1952,Fall,Robert,Huffman,,False
+1952,Fall,Benjamin,Hyman,,False
+1952,Fall,Richard,Keating,,False
+1952,Fall,Jack,Kimbrough,,False
+1952,Fall,Thomas,Macdonald,Jr.,False
+1952,Fall,David,McCain,,False
+1952,Fall,Jackson Miller,III,,False
+1952,Fall,Murray,Overstreet,Jr.,False
+1952,Fall,Andrew,Paitillo,Jr.,False
+1952,Fall,Richard,Petry,,False
+1952,Fall,Jack,Plisco,,False
+1953,Spring,Clyde,Anderson,,True
+1953,Spring,Robert,Bauer,,False
+1953,Spring,Homer,Bain,,False
+1953,Spring,William,Benson,,False
+1953,Spring,Donald,Rolling,,False
+1953,Spring,Edward,Booth,,False
+1953,Spring,Bill,Fleming,,False
+1953,Spring,J. Velma,Keen,,True
+1953,Spring,Charles,LaPrado,,False
+1953,Spring,Joseph,Mims,,False
+1953,Spring,Thomas,Moore,Jr.,False
+1953,Spring,George,Owen,,True
+1953,Spring,Hugh,Price,,False
+1953,Spring,Charles,Robertson,,True
+1953,Spring,George,Schilens,,False
+1953,Spring,William,Shuuz,,False
+1953,Spring,Richard,Simpson,,True
+1953,Spring,Paris Singer,III,,False
+1953,Spring,Herbert,Wadsworth,Jr.,False
+1953,Spring,Louis,Weissing,,False
+1953,Spring,Alvin,Zalla,,False
+1953,Fall,Thomas,Biggs,Jr.,False
+1953,Fall,James,Borland,Jr.,False
+1953,Fall,Tyrie,Boyer,,False
+1953,Fall,Edward,Brannon,Jr.,False
+1953,Fall,Walter,Carry,,False
+1953,Fall,Lawrence,Fay,,False
+1953,Fall,Irwin,Kishner,,False
+1953,Fall,Burton,Michaels,,False
+1953,Fall,John,Pattillo,,False
+1953,Fall,Orin,Patton,,False
+1953,Fall,Charles,Rowe,,False
+1953,Fall,George,Teeters,Jr.,False
+1953,Fall,David,Thomas,,False
+1953,Fall,George,Vega,Jr.,False
+1954,Spring,Henry,Adair,,True
+1954,Spring,Milton,Adkins,,False
+1954,Spring,George,Albright,Jr.,False
+1954,Spring,John,Allen,,True
+1954,Spring,John,Baker,,False
+1954,Spring,Edward,Bentley,,False
+1954,Spring,Donald,Bock,,False
+1954,Spring,Louis,Bosanquet,,False
+1954,Spring,Arch,Cassidy,Jr.,False
+1954,Spring,Douglas,Dickey,,False
+1954,Spring,Lehman,Fletcher,,False
+1954,Spring,Ike,Ganey,,False
+1954,Spring,Mercer,Henry,Sr.,False
+1954,Spring,William,Ives,,False
+1954,Spring,John,McClure,,False
+1954,Spring,Francis,McNeil,III,False
+1954,Spring,Bruce,Noland,,False
+1954,Spring,William,Ogden,,False
+1954,Spring,Dean,Robinson,,False
+1954,Spring,Robert,Shevin,,False
+1954,Spring,Herman,Shields,,False
+1954,Spring,R. Jack,Shreve,,False
+1954,Spring,Arthur,Smith,,False
+1954,Spring,Courtney,Stephens,,False
+1954,Spring,Charles,Thebaut,Jr.,True
+1954,Spring,Frederick,Wagner,,False
+1954,Spring,Gerald,Wilson,,False
+1954,Fall,William,Basford,Jr.,False
+1954,Fall,James,Blow,,False
+1954,Fall,Adrian,Brown,,False
+1954,Fall,Thomas,Byrd,,False
+1954,Fall,Lawton,Chiles,,False
+1954,Fall,Martin,Goodman,,False
+1954,Fall,Donald,Hatch,,False
+1954,Fall,C. Harold,Hippler,Jr.,False
+1954,Fall,Thomas,Ives,,False
+1954,Fall,Stanley,Kantor,,False
+1954,Fall,E. Snow,Martin,,False
+1954,Fall,Aurist,May,Jr.,False
+1954,Fall,Stanley,Rosenkranz,,False
+1954,Fall,Lawrence,Sands,,False
+1954,Fall,Raymond,Simpson,Jr.,False
+1954,Fall,Clyde,Stagg,,False
+1955,Spring,Edward,Amor,,False
+1955,Spring,Lloyd,Brown,,False
+1955,Spring,Henry,Forer,,False
+1955,Spring,John,Frye,III,False
+1955,Spring,Robert,Gray,,True
+1955,Spring,James,Greene,,False
+1955,Spring,William,Herlong,Jr.,False
+1955,Spring,James,Jackson,,False
+1955,Spring,Don,Moore,,False
+1955,Spring,George,Phillips,Jr.,False
+1955,Spring,Raymond,Poucher,,False
+1955,Spring,Albert,Quentel,,False
+1955,Spring,Lawrence,Scott,,False
+1955,Spring,Stephen,Sessums,,False
+1955,Spring,Thurston,Shell,,False
+1955,Spring,Allen,Skaggs,Jr.,True
+1955,Fall,Donald,Bain,,False
+1955,Fall,Joseph,Block,,False
+1955,Fall,George,Bradoock,,False
+1955,Fall,Lawrence,Carroll,Jr.,False
+1955,Fall,James,Fleming,,False
+1955,Fall,William,Gunter,Jr.,False
+1955,Fall,Philip,Hill,,False
+1955,Fall,Lawrence,Shackleford,,False
+1956,Spring,William,Adams,,True
+1956,Spring,Robert,Barrett,,False
+1956,Spring,Edward,Bearosley,III,False
+1956,Spring,Pierce,Bullen,,False
+1956,Spring,Donald,Carroll,,True
+1956,Spring,James,Crosier,,False
+1956,Spring,Robert,Davenport,,False
+1956,Spring,Stephen,Delatorre,,False
+1956,Spring,Henry,Fenn,,True
+1956,Spring,Leon,Fleming,,False
+1956,Spring,John,Gray,,False
+1956,Spring,Alan,Hovey,Jr.,False
+1956,Spring,John,Hudson,,False
+1956,Spring,Daniel,Hunter,,False
+1956,Spring,Clarence,Jones,Jr.,False
+1956,Spring,Peter,Kinsey,,False
+1956,Spring,William,McCollough,,False
+1956,Spring,Frank,Newman,Jr.,False
+1956,Spring,Robert,Nims,Jr.,False
+1956,Spring,Henry,Oppenborn,Jr.,False
+1956,Spring,Henry,Perritt,Jr.,False
+1956,Spring,Julius,Reitz,,True
+1956,Spring,Bruce,Robertson,,False
+1956,Spring,Joseph,Stine,,False
+1956,Spring,Irwin,Swichkow,,False
+1956,Spring,William,Thomas,Sr.,True
+1956,Spring,Donald,Tuttle,,False
+1956,Fall,Donald,Bacon,,False
+1956,Fall,James,Eaton,Jr.,False
+1956,Fall,Joe,Everett,,False
+1956,Fall,Walter,Frederickson,,False
+1956,Fall,John,Hierlihy,,False
+1956,Fall,Robert,Jackson,,False
+1956,Fall,Norman,Kapner,,False
+1956,Fall,James,Kaufman,,False
+1956,Fall,Richard,Kerrins,,False
+1956,Fall,Charles,Larson,III,False
+1956,Fall,Frank,Logan,,False
+1956,Fall,Hubert,Martin,Jr.,False
+1956,Fall,Thomas,McAliley,Jr.,False
+1956,Fall,Owen,McGovern,Jr.,False
+1956,Fall,Richard,McRae,,False
+1956,Fall,Pat,Thomas,,False
+1957,Spring,Claude,Allen,Jr.,False
+1957,Spring,Stanley,Barchan,Jr.,False
+1957,Spring,William,Birchfield,,False
+1957,Spring,George,Edwards,,False
+1957,Spring,Edward,Heller,,False
+1957,Spring,James,Hicks,,False
+1957,Spring,Edward,Johnson,,False
+1957,Spring,Joseph,Lazonby,,True
+1957,Spring,Richard,Lim,,False
+1957,Spring,Raymond,Lindsey,,False
+1957,Spring,George,Pennington,Jr.,False
+1957,Spring,Hollis,Rinehart,,True
+1957,Spring,Delton,Scudder,,True
+1957,Fall,John,Bierly,,False
+1957,Fall,Richard,Burk,,False
+1957,Fall,Gilbert,Goshorn,Jr.,False
+1957,Fall,Joseph,Heyck,Jr.,False
+1957,Fall,Richard,Leslie,,False
+1957,Fall,Richard,Masington,,False
+1957,Fall,Ronald,McCall,,False
+1957,Fall,George,McKendree,,False
+1957,Fall,Leslie,McLaughlin,,False
+1957,Fall,Albert,Millar,Jr.,False
+1957,Fall,Robert,Odare,,False
+1957,Fall,Michael,Segal,,False
+1957,Fall,Samuel,Shorestein,,False
+1957,Fall,David,Strawn,,False
+1957,Fall,Richard,Wintersteen,,False
+1958,Spring,James,Ade,,False
+1958,Spring,Pearcy,Beard,,True
+1958,Spring,William,Brice,,False
+1958,Spring,James,Cobb,,False
+1958,Spring,James,Crews,,False
+1958,Spring,Phillip,Drake,,False
+1958,Spring,Adolph,Eisner,,False
+1958,Spring,John,Fennimore,Jr.,False
+1958,Spring,Daniel,Graham,,False
+1958,Spring,Robert,Gunn,,False
+1958,Spring,Joe,Hobbs,,False
+1958,Spring,Lewis,Kapner,,False
+1958,Spring,Ralph,Lambert,,False
+1958,Spring,Norman,Lipoff,,False
+1958,Spring,Harry,Mahon,,False
+1958,Spring,Robert,Paterno,,False
+1958,Spring,Nelson,Poynter,,True
+1958,Spring,John,Price,,False
+1958,Spring,Samuel,Proctor,,True
+1958,Spring,Raymond,Royce,,False
+1958,Spring,Joseph,Schwartz,,False
+1958,Spring,Robert,Shaffer,,False
+1958,Spring,John,Totty,,False
+1958,Spring,James,Fleet,,False
+1958,Spring,Joel,Wahlberg,,False
+1958,Spring,Hugh,Waters,,False
+1958,Fall,Lee,Fennell,,False
+1958,Fall,Donald,Fleming,,False
+1958,Fall,Harold,Klapper,,False
+1958,Fall,George,Levy,,False
+1958,Fall,George,Lew,,False
+1958,Fall,Randolph,McLaughlin,,False
+1958,Fall,Robert,Park,,False
+1958,Fall,Carroll,Rich,Jr.,False
+1958,Fall,Ralph,Swanson,,False
+1958,Fall,William,Trickel,Jr.,False
+1958,Fall,Emory,Weatherly,Jr.,False
+1959,Spring,George,Baldwin,,False
+1959,Spring,James,Brown,,False
+1959,Spring,Ronald,Cacciatore,,False
+1959,Spring,David,Calkin,,False
+1959,Spring,John,Culpepper,,False
+1959,Spring,Guy,Fulton,,True
+1959,Spring,Arthur,Ginsburg,,False
+1959,Spring,William,Hollingsworth,,False
+1959,Spring,Robed,Kreimer,,False
+1959,Spring,George,Ling,Jr.,False
+1959,Spring,Donald,Lucey,,False
+1959,Spring,Geary,Martin,,False
+1959,Spring,Nathan,Mayo,,True
+1959,Spring,Edward,Nolan,,False
+1959,Spring,William,Norris,Jr.,False
+1959,Spring,Eugene,Peek,Jr.,True
+1959,Spring,Cash,Pollard,,True
+1959,Spring,James,Rinaman,,False
+1959,Spring,Martin,Shapiro,,False
+1959,Spring,Richard,Shirley,,False
+1959,Fall,Bobby,Alligood,,False
+1959,Fall,Alvin,Alsobrook,,False
+1959,Fall,Emmet,Anderson,,False
+1959,Fall,Bruce,Bateman,,False
+1959,Fall,James,Baur,,False
+1959,Fall,Carter,Bradford,,False
+1959,Fall,Jackson,Brownlee,,False
+1959,Fall,William,Crickenberger,,False
+1959,Fall,Edward,Davis,,False
+1959,Fall,Richard,Forster,,False
+1959,Fall,Arthur,Foster,Jr.,False
+1959,Fall,Walter,Haroesty,III,False
+1959,Fall,Roderic,Magie,,False
+1959,Fall,Perry,McGriff,Jr.,False
+1959,Fall,Clarence,Porch,,False
+1959,Fall,John,Raney,,False
+1959,Fall,Joseph,Ripley,Jr.,False
+1959,Fall,David,Willing,,False
+1960,Spring,Cephas,Allen,,False
+1960,Spring,Chester,Allen,,True
+1960,Spring,Thomas,Bailey,,True
+1960,Spring,Sydney,Beaver,,False
+1960,Spring,Allan,Bork,,False
+1960,Spring,Leroy,Collins,,True
+1960,Spring,Raymond,Ferrero,Jr.,False
+1960,Spring,Stephen,Gardner,,False
+1960,Spring,Richard,Hill,,False
+1960,Spring,Jon,Johnson,,False
+1960,Spring,Richard,Johnson,,True
+1960,Spring,Richard,Kelly,,False
+1960,Spring,Harold,McCart,Jr.,False
+1960,Spring,John,Moyle,Sr.,False
+1960,Spring,William,Owens,Jr.,False
+1960,Spring,Ralph,Page,,True
+1960,Spring,Reid,Poole,,True
+1960,Spring,James,Quincey,,False
+1960,Spring,John,Robinson,Jr.,False
+1960,Spring,Lawrence,Stewart,,False
+1960,Spring,William,Swain,,False
+1960,Spring,Glenn,Terrell,,True
+1960,Spring,Charles,Wells,,False
+1960,Spring,Kendrick,Williamson,,False
+1960,Fall,William,Ade,,False
+1960,Fall,James,Alderman,,False
+1960,Fall,Fred,Berger,,False
+1960,Fall,Lenvil,Crews,,False
+1960,Fall,John,Edmunson,,False
+1960,Fall,William,Hood,,False
+1960,Fall,Tonquin,LaGrone,,False
+1960,Fall,James,Larche,Jr.,False
+1960,Fall,William,Lester,,False
+1960,Fall,Kenneth,MacKay,Jr.,False
+1960,Fall,Donald,McCreary,,False
+1960,Fall,Edward,Page,Jr.,False
+1960,Fall,Robert,Perry,,False
+1960,Fall,S. Allen,Poole,Jr.,False
+1960,Fall,G. Edward,Shafer,,False
+1960,Fall,Homer,Spence,,False
+1960,Fall,Graham,Stikelether,Jr.,False
+1961,Spring,Caleb,Adams,,False
+1961,Spring,Frank,Biglow,,False
+1961,Spring,Bruce,Bullock,,False
+1961,Spring,Joseph,Chapman,III,False
+1961,Spring,Wayne,Cobb,,False
+1961,Spring,Donald,Cohen,,False
+1961,Spring,Robert,Gibson,Jr.,False
+1961,Spring,Luis,Gomez,,False
+1961,Spring,Robert,Hendry,,False
+1961,Spring,Michael,Jamieson,,False
+1961,Spring,Dennis,Keegan,,False
+1961,Spring,David,Levy,,False
+1961,Spring,Rodney,Mank,,False
+1961,Spring,Thomas,McClane,Jr.,True
+1961,Spring,Holmes,Melton,Jr.,True
+1961,Spring,Marlin,Mershon,,True
+1961,Spring,James,Norman,Sr.,True
+1961,Spring,Gavin,O'Brien,,False
+1961,Spring,Stewart,Parsons,,False
+1961,Spring,Harry,Philpott,,True
+1961,Spring,Gordon,Poucher,,False
+1961,Spring,Kenneth,Renner,,False
+1961,Spring,James,Richardson,,True
+1961,Spring,Edwin,Rumberger,,False
+1961,Spring,David,Stanley,,False
+1961,Spring,John,Trekell,,False
+1961,Spring,Enoch,Williams,,False
+1961,Fall,Scott,Anselmo,,False
+1961,Fall,Herbert,D'Alemberte,,False
+1961,Fall,Joseph,Fleming,,False
+1961,Fall,James,Gordon,,False
+1961,Fall,William,Hamilton,Jr.,False
+1961,Fall,Kenneth,Henderson,,False
+1961,Fall,Wallace,Kennedy,,False
+1961,Fall,Jack,Mahaffrey,,False
+1961,Fall,A. Clarence,O'Neill,Jr.,False
+1961,Fall,James,Shapo,,False
+1961,Fall,J. Ron,Smith,,False
+1961,Fall,Michael,Thier,,False
+1962,Spring,Alvaro,Aguirre,,False
+1962,Spring,Gary,Brooks,,False
+1962,Spring,J. Francis,Cooper,,True
+1962,Spring,Michael,Crews,,False
+1962,Spring,Anthony,Cunningham,,False
+1962,Spring,William,Curry,Jr.,False
+1962,Spring,Thomas,Donahoo,,False
+1962,Spring,Selig,Goldin,,False
+1962,Spring,Frank,Harris,,True
+1962,Spring,Paul,Hendrick,,False
+1962,Spring,Alexander,Irvin,,False
+1962,Spring,Robert,Kent,,False
+1962,Spring,Harry,Kersey,Jr.,False
+1962,Spring,Robert,Mautz,,True
+1962,Spring,Charles,Pillans,III,False
+1962,Spring,Russell,Poor,,True
+1962,Spring,Fred,Pope,Jr.,False
+1962,Spring,Ervin,Shames,,False
+1962,Spring,Walter,Sharron,Jr.,False
+1962,Spring,Harry,Shoresrein,,False
+1962,Spring,Robert,Sikes,,True
+1962,Spring,Jan,Smith,,False
+1962,Spring,Worley,Springfield,,True
+1962,Spring,Harold,Stephens,,False
+1962,Spring,Philip,Wahlbom,Jr.,False
+1962,Fall,Charles,Ausley,,False
+1962,Fall,Philip,Culpepper,,False
+1962,Fall,Thomas,Davis,,False
+1962,Fall,Ernest,Eubanks,,False
+1962,Fall,Barry,Kutun,,False
+1962,Fall,Ronald,LaFace,,False
+1962,Fall,Hugh,McArthur,,False
+1962,Fall,Woodrow,Melvin,Jr.,False
+1962,Fall,Daniel,O'Connell,,False
+1962,Fall,Edward,Parker,,False
+1962,Fall,William,Stanford,,False
+1962,Fall,Bruce,Starling,,False
+1962,Fall,Elder,Sumner,,False
+1963,Spring,Jack,Blocker,Jr.,False
+1963,Spring,Harold,Colee,,True
+1963,Spring,I. Michael,Colodny,,False
+1963,Spring,Donald,Denson,,False
+1963,Spring,James,Devault,,False
+1963,Spring,Ivan,Diamond,,False
+1963,Spring,Frederic,Feinstein,,False
+1963,Spring,Thomas,Gibson,,False
+1963,Spring,James,Gober,,False
+1963,Spring,Lucius,Gravely,III,True
+1963,Spring,Charles,Jackson,,False
+1963,Spring,George,Jenkins,,False
+1963,Spring,Tommy,Kelley,,False
+1963,Spring,Thomas,Kennincton,,False
+1963,Spring,William,Louden,,False
+1963,Spring,Thomas,Moore,,False
+1963,Spring,Charles,Pittman,,True
+1963,Spring,Truman,Skinner,,False
+1963,Spring,George,Weber,,True
+1963,Spring,David,West,,False
+1963,Fall,Karl,Block,Jr.,False
+1963,Fall,James,Crabtree,,False
+1963,Fall,Charles,Edwards,,False
+1963,Fall,Dennis,Flanagan,,False
+1963,Fall,Raymond,Goodwill,Jr.,False
+1963,Fall,William,Harshaw,,False
+1963,Fall,Frederick,Lane,,False
+1963,Fall,Charles,Maloy,,False
+1963,Fall,Allan,McPeak,,False
+1963,Fall,Marion,Menge,,False
+1963,Fall,Charles,Oates,,False
+1963,Fall,John,Purcell,Jr.,False
+1963,Fall,Gerald,Richman,,False
+1963,Fall,Ned,Service,,False
+1963,Fall,Barry,Sinoff,,False
+1963,Fall,Merrel,Stainton,,False
+1963,Fall,Robert,Voekel,,False
+1964,Spring,Thomas,Adams,Jr.,True
+1964,Spring,Wilson,Atkinson,III,False
+1964,Spring,David,Bludworth,,False
+1964,Spring,Cecil,Bryant,,True
+1964,Spring,Jack,Copperman,,False
+1964,Spring,Harry,Ferran,,False
+1964,Spring,Sheldon,Finman,,False
+1964,Spring,David,Fuller,,True
+1964,Spring,Robert,Gay,III,False
+1964,Spring,Franklyn,Glinn,,False
+1964,Spring,James,Graham,,False
+1964,Spring,Robert,Gregg,,True
+1964,Spring,Dan,Honeywell,,False
+1964,Spring,Arthur,Jacobs,,False
+1964,Spring,Herbert,Kaufman,,False
+1964,Spring,Harold,Moore,Jr.,False
+1964,Spring,Edgar,Moore,,False
+1964,Spring,George,Moss,II,False
+1964,Spring,Charles,Pierson,,False
+1964,Spring,Maurice,Plumb,,False
+1964,Spring,Jim,Wilcox,Jr.,False
+1964,Spring,Robert,Wilson,,False
+1964,Spring,Stanley,Wimberly,,True
+1964,Spring,Council,Wooten,Jr.,False
+1964,Spring,John,Young,,False
+1964,Fall,Ellsworth,Hoppe,,False
+1964,Fall,Paul,Huck,,False
+1964,Fall,Gerald,Livingston,,False
+1964,Fall,Joseph,Marinelli,Jr.,False
+1964,Fall,Zellie,Maynard,Jr.,False
+1964,Fall,Chester,McNulty,,False
+1964,Fall,James,Messer,,False
+1964,Fall,Michael,Miles,,False
+1964,Fall,Jack,Nichols,,False
+1964,Fall,Charles,Plumb,,False
+1964,Fall,Jefferson,Grover,III,False
+1964,Fall,Joel,Sachs,,False
+1964,Fall,Ross,Swartzel,Jr.,False
+1964,Fall,Thomas,Tart,,False
+1964,Fall,Hugh,Wilson,,False
+1965,Spring,Louis,Bonsteel,,True
+1965,Spring,Vernon,Clark,Jr.,True
+1965,Spring,Richard,Oandurand,,False
+1965,Spring,Martin,Edwards,,False
+1965,Spring,Brian,Ellis,,False
+1965,Spring,Fletcher,Groves,Jr.,False
+1965,Spring,John,Kiker,,True
+1965,Spring,Thomas,Leonard,Jr.,False
+1965,Spring,John,Mathews,Jr.,True
+1965,Spring,Hayes,McClelland,,True
+1965,Spring,John,McQuitty,,True
+1965,Spring,Claude,Pepper,,True
+1965,Spring,John,Itch,,False
+1965,Spring,Martin,Schwartz,,False
+1965,Spring,Arthur,Thompson,,True
+1965,Spring,Nick,Touchton,,False
+1965,Spring,Rae,Weimer,,True
+1965,Spring,Randall,Williams,,False
+1965,Fall,Charles,Alford,,False
+1965,Fall,Thomas,Backmeyer,,False
+1965,Fall,George,Blaha,,False
+1965,Fall,Stephen,Cheeseman,,False
+1965,Fall,James,Cooney,,False
+1965,Fall,John,Douthat,,False
+1965,Fall,William,Fleming,,False
+1965,Fall,Andrew,Hall,,False
+1965,Fall,Andrew,Haslett,Jr.,False
+1965,Fall,James,Hauser,,False
+1965,Fall,Carl,Heihman,,False
+1965,Fall,Ira,McCollum,Jr.,False
+1965,Fall,James,Moore,III,False
+1965,Fall,Carlos,Piedra,,False
+1965,Fall,Donald,Poucher,,False
+1965,Fall,Henry,Rmttama,Jr.,False
+1965,Fall,Walter,Robinson,III,False
+1965,Fall,Leo,Rock,Jr.,False
+1965,Fall,William,Ryals,,False
+1965,Fall,John,Stratton,,False
+1965,Fall,Sidney,Stuebs,Jr.,False
+1965,Fall,Douglas,Thompson,Jr.,False
+1965,Fall,Richard,Thompson,,False
+1965,Fall,Allan,Trammell,,False
+1965,Fall,Samuel,Ullman,,False
+1965,Fall,Lee,Willis,,False
+1965,Fall,John,Wolf,,False
+1965,Fall,Peter,Zinober,,False
+1966,Spring,Gene,Brown,,False
+1966,Spring,Daniel,Carlton,,False
+1966,Spring,William,Cross,,True
+1966,Spring,Tony,Cunha,,True
+1966,Spring,Lucius,Dyal,,False
+1966,Spring,James,Gardner,,False
+1966,Spring,S.,Graves,,True
+1966,Spring,Frederick,Hartmann,,True
+1966,Spring,Jay,Haviser,,False
+1966,Spring,John,Hume,,False
+1966,Spring,Herbert,Kaufmann,,True
+1966,Spring,William,McBride,Jr.,False
+1966,Spring,William,McCormick,,False
+1966,Spring,Dennis,McGillicuddy,,False
+1966,Spring,Harry,Meshaw,Jr.,False
+1966,Spring,Harvey,Pierce,,True
+1966,Spring,Edgar,Price,Jr.,True
+1966,Spring,William,Slippy,Jr.,False
+1966,Spring,Eric,Smith,,False
+1966,Spring,James,Wilson,,True
+1966,Fall,George,Anderson,III,False
+1966,Fall,Lars,Beckman,,False
+1966,Fall,Gerald,Bennett,,False
+1966,Fall,Andrew,Blank,,False
+1966,Fall,Lee,Borden,,False
+1966,Fall,William,Carr,IIII,False
+1966,Fall,William,Chiara,Jr.,False
+1966,Fall,William,Conner,,False
+1966,Fall,John,Darlson,,False
+1966,Fall,Edgar,Dunn,Jr.,False
+1966,Fall,Michael,Fields,,False
+1966,Fall,Bruce,Flower,,False
+1966,Fall,Howard,Freeman,,False
+1966,Fall,Edwin,Green,II,False
+1966,Fall,William,Gregg,III,False
+1966,Fall,Robert,Harper,Jr.,False
+1966,Fall,James,Harrison,,False
+1966,Fall,Manuel,James,,False
+1966,Fall,Patril,Kelley,,False
+1966,Fall,James,Kincaid,,False
+1966,Fall,Thomas,Lang,Jr.,False
+1966,Fall,Ronald,Lanier,,False
+1966,Fall,William,Lassiter,Jr.,False
+1966,Fall,Clifton,McClelland,Jr.,False
+1966,Fall,Lt. Col. Robert,Mounts,,False
+1966,Fall,Robert,Murphy,Jr.,False
+1966,Fall,James,Oâ€™Donoghue,,False
+1966,Fall,Richard,Robinson,,False
+1966,Fall,Bruce,Rogow,,False
+1966,Fall,Alvin,Schlechter,,False
+1966,Fall,Stephen,Spurrier,,False
+1966,Fall,William,Sullivan,,False
+1966,Fall,Clyde,Taylor,Jr.,False
+1966,Fall,Wayne,Thomas,,False
+1966,Fall,Lawrence,Tyree,,False
+1966,Fall,John,Upchurch,IV,False
+1966,Fall,Dana,Venrick,,False
+1967,Spring,Scot,Bayman,,False
+1967,Spring,Hjalmar,Berg,Jr.,False
+1967,Spring,Richard,Bischoff,,False
+1967,Spring,Samuel,Block,,False
+1967,Spring,Robert,Blue,Jr.,False
+1967,Spring,Richard,Bowles,,False
+1967,Spring,William,Boynton,III,False
+1967,Spring,Donald,Braddock,,False
+1967,Spring,Edmond,Dioguardi,Jr.,False
+1967,Spring,Timothy,Donahue,,False
+1967,Spring,Don,Fuqua,,True
+1967,Spring,Robert,Imholte,,False
+1967,Spring,Edward,Koren,,False
+1967,Spring,John,LaCapra,,False
+1967,Spring,Fred,Laughlin,Jr.,True
+1967,Spring,Ira,Leesfield,,False
+1967,Spring,Daniel,Meserve,,False
+1967,Spring,J. Murphy,Jr.,,False
+1967,Spring,James,Panico,,False
+1967,Spring,Jesse,Pipkin,,False
+1967,Spring,Harry,Platt,Jr.,True
+1967,Spring,Harry,Prystowsky,,True
+1967,Spring,Alan,Rich,,False
+1967,Spring,Jay,Scheck,Jr.,False
+1967,Spring,James,Sikes,,True
+1967,Spring,Steven,Smith,III,False
+1967,Spring,James,Swearingen,,False
+1967,Spring,Richard,Thompson,,False
+1967,Spring,Stanley,West,,True
+1967,Fall,John,Allison,III,False
+1967,Fall,W.,Brinkley,,False
+1967,Fall,Alan,Brunswick,,False
+1967,Fall,Anthony,Capitano,,False
+1967,Fall,Thomas,Carnes,,False
+1967,Fall,Fred,Cone,Jr.,False
+1967,Fall,Howard,Dobson,Jr.,False
+1967,Fall,John,Dooson,,False
+1967,Fall,John,Forbes,,False
+1967,Fall,Charles,Gore,,False
+1967,Fall,Eric,Haugdahl,,False
+1967,Fall,Stephen,Hull,,False
+1967,Fall,Louis,Jaeger,,False
+1967,Fall,Gregory,Johnson,,False
+1967,Fall,Gregory,Jones,,False
+1967,Fall,Louis,Lambert,III,False
+1967,Fall,John,LeMoyne,,False
+1967,Fall,David,Levy,,False
+1967,Fall,Joseph Mason,Jr.,II,False
+1967,Fall,Lawrence,Mathews,Jr.,False
+1967,Fall,Waynes,McCall,,False
+1967,Fall,Clifton,McClelland,Jr.,False
+1967,Fall,Fredrick,McKeel,,False
+1967,Fall,Henry,Mehlman,,False
+1967,Fall,Bing,Michael,,False
+1967,Fall,Donald,Middlebrooks,,False
+1967,Fall,Herbert,Pecht,Jr.,False
+1967,Fall,Michael,Pent,,False
+1967,Fall,John,Peterson,,False
+1967,Fall,Frank,Silow,,False
+1967,Fall,Michael,Storace,,False
+1967,Fall,Stephen,Toothaker,,False
+1967,Fall,Richard,Trapp,,False
+1967,Fall,William,Vaughn,Jr.,False
+1967,Fall,David,Welch,,False
+1967,Fall,Jonathan,Wershow,,False
+1967,Fall,David,Wilson,,False
+1968,Spring,Harvey,Alper,,False
+1968,Spring,Charles,Arnold,Jr.,False
+1968,Spring,Roger,Brown,,False
+1968,Spring,Leslie,Burke,,False
+1968,Spring,Frederick,Conner,,True
+1968,Spring,J.,Cross,,True
+1968,Spring,James,Devaney,Jr.,False
+1968,Spring,Hugh,Dietrich,III,False
+1968,Spring,William,Edgar,,False
+1968,Spring,Joe,Everett,,False
+1968,Spring,Wayne,Ezell,,False
+1968,Spring,Irving,Goffman,,True
+1968,Spring,Gary,Goodrich,,False
+1968,Spring,Frank,Gramling,,False
+1968,Spring,Shaw,Grigsby,,True
+1968,Spring,John,Harkness,Jr.,False
+1968,Spring,William,Harlan,,True
+1968,Spring,Charles,Harris,,False
+1968,Spring,Robert,Hollmeyer,,False
+1968,Spring,William,Kirk,Jr.,False
+1968,Spring,Philip,Lazzara,,False
+1968,Spring,Mario,Martinez-Malo,,False
+1968,Spring,Frank,Maturo,Jr.,True
+1968,Spring,Paul,McMillan,,True
+1968,Spring,Robert McNeill,Jr.,,True
+1968,Spring,Hugh,Morgan,,False
+1968,Spring,Eugene,Peek,III,False
+1968,Spring,Alan,Robertson,,True
+1968,Spring,Phillip,Segal,,False
+1968,Spring,Donald,Slesnick,II,False
+1968,Spring,Daniel,Spinks,,True
+1968,Spring,Thomas,Thoman,,False
+1968,Spring,Steven,Uhlfelder,,False
+1968,Spring,George,Vinas,,False
+1968,Spring,E.,York,Jr.,True
+1968,Fall,Harold,Aldrich,Jr.,False
+1968,Fall,Bruce,Bokor,,False
+1968,Fall,Robert,Buck,,False
+1968,Fall,Philip,Burnett,,False
+1968,Fall,Allan,Casey,,False
+1968,Fall,Thomas,Cone,Jr.,False
+1968,Fall,Edwin,DuPont,,False
+1968,Fall,Franklin,Harrison,,False
+1968,Fall,Jack,Horner,Jr.,False
+1968,Fall,Eric,Katz,,False
+1968,Fall,Robert,Mandell,,False
+1968,Fall,Gregory,Matthews,,False
+1968,Fall,Steven,Melnyk,,False
+1968,Fall,John,Mica,,False
+1968,Fall,Michael,Moore,,False
+1968,Fall,John,Morton,Jr.,False
+1968,Fall,Armistead,Neely,,False
+1968,Fall,Lawrence,Nixon,,False
+1968,Fall,John,Oâ€™Shea,,False
+1968,Fall,William,Sadowski,,False
+1968,Fall,Richard,Salomon,,False
+1968,Fall,John,Schickel,,False
+1968,Fall,William,Smith,,False
+1968,Fall,William,Sparkman,,False
+1968,Fall,Frederick,Taylor,Jr.,False
+1968,Fall,Lee,Terry,,False
+1968,Fall,William,Wack,III,False
+1968,Fall,Jeffrey,Weathers,,False
+1968,Fall,Russell,Wicker,,False
+1968,Fall,Dale,Willingham,,False
+1968,Fall,Stephen,Zack,,False
+1968,Fall,William,Zewadski,,False
+1969,Spring,James,Carnes,,True
+1969,Spring,Archibald,Carr,,True
+1969,Spring,Clifford,Davis,,False
+1969,Spring,William,Dorsey,,False
+1969,Spring,Eugene,Ellenson,,True
+1969,Spring,William,Elmore,,True
+1969,Spring,John,Englehardt,,False
+1969,Spring,Robert,Farley,,True
+1969,Spring,James,Freeland,,True
+1969,Spring,Thomas,Hanna,,True
+1969,Spring,Jacob,Hipp,,True
+1969,Spring,Michael,Katz,,False
+1969,Spring,Paul,Marks,,True
+1969,Spring,John,Martin,,False
+1969,Spring,William,Potter,,True
+1969,Spring,James,Pressley,Jr.,False
+1969,Spring,Conrad,Rehling,,True
+1969,Spring,Frederick,Rhines,,True
+1969,Spring,Howard,Rosenblatt,,False
+1969,Spring,David,Shull,,False
+1969,Spring,Ellis,Verink,,True
+1969,Spring,William,Wittman,,False
+1969,Spring,Allan,Wolfe,,True
+1969,Fall,Roger,Blackburn,,False
+1969,Fall,Andrew,Blackmon,,False
+1969,Fall,Bruce,Bradburn,,False
+1969,Fall,Ronald,Brown,,False
+1969,Fall,Thomas,Clark,,False
+1969,Fall,David,Doucette,,False
+1969,Fall,William,Evans,,False
+1969,Fall,Jeffrey,Fenster,,False
+1969,Fall,Howard,Fogle,Jr.,False
+1969,Fall,Robert,Glenn,Jr.,False
+1969,Fall,Alan,Greer,,False
+1969,Fall,Bruce,Harlan,,False
+1969,Fall,Richard,Hembree,,False
+1969,Fall,Richard,Horder,,False
+1969,Fall,Kenneth,Howell,,False
+1969,Fall,Thomas,Infantino,,False
+1969,Fall,David,Jackson,,False
+1969,Fall,Robert,Jones,,False
+1969,Fall,David,Kaplan,,False
+1969,Fall,James,Kersey,,False
+1969,Fall,Herbert,Langeord,Jr.,False
+1969,Fall,Robert,Lawrence,,False
+1969,Fall,Ernie,Litz,,False
+1969,Fall,John,McPhail,III,False
+1969,Fall,Griffith,McSwine,III,False
+1969,Fall,Kenneth,Mingledorff,,False
+1969,Fall,William,Modlin,,False
+1969,Fall,James,Moody,Jr.,False
+1969,Fall,Robert,Moore,,False
+1969,Fall,John,Parker,,False
+1969,Fall,Sergio,Ponce,,False
+1969,Fall,Grover,Robinson,III,False
+1969,Fall,Joseph,Sahl,,False
+1969,Fall,Joseph,Scafuti,Jr.,False
+1969,Fall,Gary,Self,,False
+1969,Fall,Steven,Tannen,,False
+1969,Fall,Michael,Taylor,,False
+1969,Fall,Jim,Thagard,,False
+1969,Fall,Thomas,Wade,,False
+1969,Fall,Jefferey,Weil,,False
+1969,Fall,Gerald,Yakatan,,False
+1970,Spring,Harvey,Alper,,False
+1970,Spring,Thomas,Ball,,False
+1970,Spring,Ronald,Bloom,,False
+1970,Spring,Bruce,Boudreau,,False
+1970,Spring,Robert,Cusamano,,False
+1970,Spring,Mitchell,Dasher,II,False
+1970,Spring,Patrick,Davey,,False
+1970,Spring,Michael,Davis,,False
+1970,Spring,Jack,Dicks,,False
+1970,Spring,Clement,Donovan,,True
+1970,Spring,Sol,Fleischman,Jr.,False
+1970,Spring,Walter,Floyd,Jr.,False
+1970,Spring,William,Gabrielson,,False
+1970,Spring,Roberth,Gaither,,True
+1970,Spring,Michael,Gannon,,True
+1970,Spring,Robert,Griffin,,False
+1970,Spring,Ira,Hatch,Jr.,False
+1970,Spring,David,Holbrook,,False
+1970,Spring,Scott,Holloway,,False
+1970,Spring,John,Hooker,,False
+1970,Spring,Alan,Howes,,False
+1970,Spring,Richard,Lazzara,,False
+1970,Spring,Gavin,Lee,,False
+1970,Spring,Howard,Lubel,,False
+1970,Spring,Argello,Maldonalda,,False
+1970,Spring,Barry,Malter,,False
+1970,Spring,Barry,Mauer,,False
+1970,Spring,Roert,Martin,,False
+1970,Spring,Walter,Morgan,III,False
+1970,Spring,Robert,Morris,,False
+1970,Spring,Andrew,Owens,Jr.,False
+1970,Spring,Henry,Schumacher,,True
+1970,Spring,Harry,Sisler,,True
+1970,Spring,Henry,Solares,,False
+1970,Spring,Robert,Solsberry,,False
+1970,Spring,Richard,Spool,,False
+1970,Spring,Malcolm,Steen,,False
+1970,Spring,John,Sugg,III,False
+1970,Spring,James,Wattenbarger,,True
+1970,Spring,James,Wershow,,True
+1970,Spring,Robert,White,Jr.,False
+1970,Spring,Charles,White,,False
+1970,Spring,Miles,Wilkin,,False
+1970,Fall,Randolph,Atwater,,False
+1970,Fall,Moris,Behar,,False
+1970,Fall,Edward,Boze,,False
+1970,Fall,Charles,Brackins,,False
+1970,Fall,Roy,Brewer,,False
+1970,Fall,Ronald,Carpenter,,False
+1970,Fall,Howard,Coker,,False
+1970,Fall,John,Cosgrove,,False
+1970,Fall,Douglas,Crow,,False
+1970,Fall,Peter,Dearing,,False
+1970,Fall,Owen,Dobbins,,False
+1970,Fall,Michael,Gilroy,,False
+1970,Fall,Hal,Hall,,False
+1970,Fall,Melvyn,Libby,,False
+1970,Fall,William,Maher,,False
+1970,Fall,John,Malone,,False
+1970,Fall,Clark,Maxwell,,False
+1970,Fall,Terry,Moore,,False
+1970,Fall,Bradley,Raffle,,False
+1970,Fall,Joseph,Rizotto,,False
+1970,Fall,Ronald,Sachs,,False
+1970,Fall,George,Seide,,False
+1970,Fall,William,Stephens,,False
+1970,Fall,Harry,Underill,III,False
+1970,Fall,Arthur,Wroble,,False
+1971,Spring,Elliot,Abbott,,False
+1971,Spring,Francis,Amato,,False
+1971,Spring,Reubin,Askew,,False
+1971,Spring,John,Batman,,False
+1971,Spring,David,Beers,,False
+1971,Spring,Wilmer,Coggins,,False
+1971,Spring,Barry,Diamond,,False
+1971,Spring,James,Fitzsimons,Jr.,False
+1971,Spring,Mark,Grayson,,False
+1971,Spring,Lawrence,Green,,False
+1971,Spring,Charles,Gregg,,False
+1971,Spring,James,Gundry,,False
+1971,Spring,Robert,Halcrow,,False
+1971,Spring,Harvey,Hales,Jr.,False
+1971,Spring,Craig,Hunter,,False
+1971,Spring,George,Jacunski,,False
+1971,Spring,Fred,Johnson,,False
+1971,Spring,Halperin,Kantor,,False
+1971,Spring,Parviz,Karbassi,,False
+1971,Spring,Richard,Kerrins,Jr.,False
+1971,Spring,Henry,Kramer,,True
+1971,Spring,Frederick,Leonharot,,False
+1971,Spring,Rodney,Margol,,False
+1971,Spring,Martin,McGriff,,False
+1971,Spring,Rafael,Nobo,Jr.,False
+1971,Spring,Verie,Pope,,False
+1971,Spring,Michael,Pugh,,False
+1971,Spring,Thomas,Reaves,,False
+1971,Spring,James,Reinman,,False
+1971,Spring,Theodore,Remley,Jr.,False
+1971,Spring,Steven,Rokeach,,False
+1971,Spring,Herman,Spivey,,True
+1971,Spring,Sheldon,Stevens,,False
+1971,Spring,Edgar,Tolle,III,False
+1971,Spring,James,Walker,,False
+1971,Spring,Phillip,Ware,,False
+1971,Spring,James,Wilkerson,Jr.,False
+1971,Spring,David,Winton,,False
+1971,Spring,Emile,Zahra,Jr.,False
+1971,Fall,David,Aarons,,False
+1971,Fall,Robert,Apgar,,False
+1971,Fall,Arthur,Black,,False
+1971,Fall,Henry,Block,,False
+1971,Fall,Frederick,Brock,,False
+1971,Fall,David,Carowell,,False
+1971,Fall,Kenneth,Cate,,False
+1971,Fall,Michael,Davidson,,False
+1971,Fall,James,Fly,,False
+1971,Fall,Ernest,Georgi,Jr.,False
+1971,Fall,Marvin,Giddens,Jr.,False
+1971,Fall,John,Gillespie,Jr.,False
+1971,Fall,Henry,Graham,Jr.,False
+1971,Fall,Walter,Hardenstine,,False
+1971,Fall,William,Harrell,Jr.,False
+1971,Fall,Benny,Harris,,False
+1971,Fall,Michael,Hawley,,False
+1971,Fall,Stewart,Hershey,,False
+1971,Fall,Thomas,Hurst,,False
+1971,Fall,John,Kirsch,,False
+1971,Fall,Constantine,Kouremetis,,False
+1971,Fall,Howell,Melton,Jr.,False
+1971,Fall,Robert,Merkel,,False
+1971,Fall,Steven,Prior,,False
+1971,Fall,Armando,Quesada,Jr.,False
+1971,Fall,Bradley,Share,,False
+1971,Fall,Bruce,Singer,,False
+1971,Fall,Stephen,Sutherland,,False
+1971,Fall,Leonard,Tanner,,False
+1971,Fall,William,Watson,Jr.,False
+1971,Fall,John,Watts,,False
+1971,Fall,John,White,,False
+1971,Fall,Robert,Willis,,False
+1972,Spring,Edward,Albanesi,,False
+1972,Spring,Guthrie,Babcock,,True
+1972,Spring,Robert,Berrin,,False
+1972,Spring,James,Black,,False
+1972,Spring,Tyhe,Boyer,,False
+1972,Spring,Kenneth,Brooten,Jr.,False
+1972,Spring,Byron,Cason,Jr.,False
+1972,Spring,PeterJon,Caterina,,False
+1972,Spring,Wayne,Chen,,True
+1972,Spring,Thomas,Dart,,False
+1972,Spring,Ronald,David,,False
+1972,Spring,James,Francis,,False
+1972,Spring,David,Gersten,,False
+1972,Spring,Charles,Glenn,,False
+1972,Spring,Raleigh,Greene,III,False
+1972,Spring,Robert,Heekin,,False
+1972,Spring,James,Hennessey,,True
+1972,Spring,John,Hoepner,,False
+1972,Spring,Thomas,Kennedy,,False
+1972,Spring,Craig,Kritzer,,False
+1972,Spring,Robert,Lanzilotti,,True
+1972,Spring,Harold,Levinson,,True
+1972,Spring,Leonard,Levy,,True
+1972,Spring,Frank,Maloney,,True
+1972,Spring,Edward,Mastandrea,,False
+1972,Spring,Victor,Mattox,,False
+1972,Spring,David,McClaskey,,False
+1972,Spring,Gary,Neubert,,False
+1972,Spring,Frank,Oberhausen,Jr.,False
+1972,Spring,Edward,Olowin,Jr.,False
+1972,Spring,David,Quackenbush,,False
+1972,Spring,Ryland,Rigsby,,False
+1972,Spring,James,Rinehart,,False
+1972,Spring,Gary,Muthledge,,False
+1972,Spring,Stephen,Sauls,,False
+1972,Spring,Jesse,Silvernail,,False
+1972,Spring,Charles,Stampelos,,False
+1972,Spring,Jasper,Taylor,III,False
+1972,Spring,Ira,Turner,,True
+1972,Spring,Charles,Westbrook,,False
+1972,Spring,William,Whitley,,False
+1972,Spring,Dewey,Winkles,,False
+1972,Fall,Edward,Anderson,,False
+1972,Fall,David,Aspinwall,Jr.,False
+1972,Fall,Charles,Bishop,,False
+1972,Fall,Ferrell,Blue,Jr.,False
+1972,Fall,Marvin,Chavis,,False
+1972,Fall,James,Commander,,False
+1972,Fall,Richard,Dungey,,False
+1972,Fall,Thomas,Durrance,,False
+1972,Fall,Gerald,Elrod,,False
+1972,Fall,Randolph,Greene,,False
+1972,Fall,Robert,Harris,,False
+1972,Fall,Daniel,Lobeck,,False
+1972,Fall,Michael,McNerney,,False
+1972,Fall,Daniel,Molley,,False
+1972,Fall,William,Read,III,False
+1972,Fall,Mikel,Rollyson,,False
+1972,Fall,Michael,Sapp,,False
+1972,Fall,Norman,Sasser,Jr.,False
+1972,Fall,Jerome,Schechter,,False
+1972,Fall,John,Shea,Jr.,False
+1972,Fall,Roger,Sims,,False
+1972,Fall,Michael,Snyder,,False
+1972,Fall,Steven,Spitale,,False
+1972,Fall,Ralph,Turlington,Jr.,False
+1972,Fall,Jacob,Zucker,,False
+1973,Spring,Frank,Adams,,True
+1973,Spring,John,Admire,,False
+1973,Spring,Glen,Baker,,False
+1973,Spring,Jesse,Boyles,III,False
+1973,Spring,Charles,Callis,Jr.,False
+1973,Spring,Richard,Cole,III,False
+1973,Spring,Wayne,Cribbs,,False
+1973,Spring,Gerald,Curington,,False
+1973,Spring,Timothy,Deckert,,False
+1973,Spring,Jefferey,Delafuente,,False
+1973,Spring,Fred,Dickinson,Jr.,True
+1973,Spring,Harry,Eisenberg,,False
+1973,Spring,Donald,Freeman,,False
+1973,Spring,David,Galloway,,False
+1973,Spring,Robert,Gidel,,False
+1973,Spring,Raleigh,Greene,Jr.,True
+1973,Spring,Ben,Griffin,Jr.,True
+1973,Spring,Bert,Harris,III,False
+1973,Spring,James,Harrison,,False
+1973,Spring,P.,Linder,,True
+1973,Spring,Jack,McGriff,,True
+1973,Spring,J.,Nifong,,False
+1973,Spring,Whitfield,Palmer,Jr.,False
+1973,Spring,David,Pearlson,,False
+1973,Spring,Edward,Rood,,False
+1973,Spring,Paul,Rosenthal,,False
+1973,Spring,Charles,Ruse,Jr.,False
+1973,Spring,Robert,Saunders,,False
+1973,Spring,Richard,Stone,,False
+1973,Spring,Hans,Tanzler,III,False
+1973,Spring,Trevette,Wallace,,False
+1973,Fall,Roger,Block,,False
+1973,Fall,John,Bryant,,False
+1973,Fall,Robert,Chambers,,False
+1973,Fall,Michael,Chance,,False
+1973,Fall,James,Corbett,,False
+1973,Fall,Roy,Crews,,False
+1973,Fall,James,Davidson,,False
+1973,Fall,Robert,Estes,,False
+1973,Fall,John,Fuller,,False
+1973,Fall,David,Garland,,False
+1973,Fall,Walter,Garrison,Jr.,False
+1973,Fall,Mark,Gibbons,,False
+1973,Fall,William,Graham,,False
+1973,Fall,James,Halling,,False
+1973,Fall,J.,Hoffman,,False
+1973,Fall,James,Jerles,,False
+1973,Fall,George,Johnson,Jr.,False
+1973,Fall,Patrick,Johnson,,False
+1973,Fall,William,Leonard,,False
+1973,Fall,Ronald,May,,False
+1973,Fall,Oma,Minton,Jr.,False
+1973,Fall,Joseph,Perry,III,False
+1973,Fall,Raymond,Rebello,Jr.,False
+1973,Fall,William,Rubin,,False
+1973,Fall,Lee,Schwartz,,False
+1973,Fall,Gregory,Sherman,,False
+1973,Fall,Barry,Wander,,False
+1973,Fall,John,Wilcox,,False
+1974,Spring,Wallace,Anderson,Jr.,False
+1974,Spring,John,Baker,,False
+1974,Spring,Sheldon,Bilchik,,False
+1974,Spring,William,Bissett,,False
+1974,Spring,Susan,Black,,True
+1974,Spring,Nancy Braddock,(Coleman),,False
+1974,Spring,Mama Venable,Brady,,True
+1974,Spring,Walter,Carpenten,Jr.,False
+1974,Spring,Louis De La,Parte,,True
+1974,Spring,Atwood,Dunwoody,,True
+1974,Spring,James,Eaton,Jr.,False
+1974,Spring,Kenneth,Friedman,,True
+1974,Spring,Frank,Garro,,False
+1974,Spring,Joseph,Gersten,,True
+1974,Spring,Clifford,Gorman,,False
+1974,Spring,Caleb,Grimes,,False
+1974,Spring,John,Harrison,,True
+1974,Spring,William,Heekin,,False
+1974,Spring,Billy,Heller,Jr.,False
+1974,Spring,Marcelino,Huerta,III,False
+1974,Spring,Elmer,Hunt,,True
+1974,Spring,Frederick,Jones,,False
+1974,Spring,Mark,Jordan,,False
+1974,Spring,Michael,Kahn,,False
+1974,Spring,O.,Kibler,III,True
+1974,Spring,Robert,Klausner,,False
+1974,Spring,Susan Lord,(Scott),,False
+1974,Spring,Leslie,Lott,,False
+1974,Spring,Marsha,Madorsky,,False
+1974,Spring,Steven,Merryday,,False
+1974,Spring,Robert,Morris,Jr.,False
+1974,Spring,Bruce,Nants,,False
+1974,Spring,Richard,Pallot,,False
+1974,Spring,William,Quattlebaum,,False
+1974,Spring,Denn,Rauth,,False
+1974,Spring,William,Rogers,,False
+1974,Spring,Donna Schaffer,(Schmitt),,False
+1974,Spring,Craig,Sikes,,False
+1974,Spring,Robert,Smith,,False
+1974,Spring,Fernando,Storch,,True
+1974,Spring,Glenn,Sturm,,False
+1974,Spring,Thomas,Tedcastle,,False
+1974,Spring,James,Williams,,True
+1974,Spring,Warren,Wilson,III,False
+1974,Spring,Clyde,Wolfe,,False
+1974,Fall,Matthew,Alexander,III,False
+1974,Fall,Kenneth,Baker,,False
+1974,Fall,Richard,Baxley,,False
+1974,Fall,Joseph,Decerra,,False
+1974,Fall,Laura,Blackmon,,False
+1974,Fall,Stephen,Block,,False
+1974,Fall,Douglas,Bowdoin,,False
+1974,Fall,Lori,Caldwell,,False
+1974,Fall,Stephen,Cole,,False
+1974,Fall,Clyde,Davis,,False
+1974,Fall,Alan,Deitel,,False
+1974,Fall,Donald,Emerson,Jr.,False
+1974,Fall,John,Garret,,False
+1974,Fall,Robert,Geiger,,False
+1974,Fall,Sandra,Goldberg,,False
+1974,Fall,Paula Heighton,(Smith),,False
+1974,Fall,Corey,Kintner,,False
+1974,Fall,Christopher,Larmoyeux,,False
+1974,Fall,Richard,Lidinski,,False
+1974,Fall,Robert,Linogren,,False
+1974,Fall,Randolph,Loos,,False
+1974,Fall,Nikitas,Lulias,,False
+1974,Fall,Stephen,MacNamara,,False
+1974,Fall,Erik,Nutter,,False
+1974,Fall,Marcos,Perez,,False
+1974,Fall,Randall,Reid,,False
+1974,Fall,Douglas,Sanders,,False
+1974,Fall,David,Stein,,False
+1974,Fall,Arthur,Thibodeau,II,False
+1974,Fall,John,Watkins,,False
+1974,Fall,Steven,Weiner,,False
+1975,Spring,John,Allen,,False
+1975,Spring,Arthur,Aspinwall,,False
+1975,Spring,Maruchi Azorin,(Blanco),,False
+1975,Spring,Marc,Birnbaum,,False
+1975,Spring,Phillip,Bloom,,False
+1975,Spring,Susan Boyer,(Schondelmaler),,False
+1975,Spring,Frederick,Cantrell,,True
+1975,Spring,C.,Chandler,,False
+1975,Spring,Matthew,Chisholm,III,False
+1975,Spring,Steven,Cristovich,,False
+1975,Spring,S.,Cox,,True
+1975,Spring,James,Cunningham,Jr.,False
+1975,Spring,J.,DiMaio,,False
+1975,Spring,Laura Fisher,(Searcy),,False
+1975,Spring,William,Frates,,True
+1975,Spring,John,Frketic,,False
+1975,Spring,Alan,Gabriel,,False
+1975,Spring,Martin,Gonzalez,,False
+1975,Spring,Kenneth,Harrison,,False
+1975,Spring,William,Herrman,,False
+1975,Spring,Andrew,Hines,Jr.,True
+1975,Spring,Robert,Hooglano,,False
+1975,Spring,Dennis,Hoyt,,False
+1975,Spring,Mercelino,Huerta,Jr.,True
+1975,Spring,Joseph,Julin,,True
+1975,Spring,Kristin,Kleppe,,False
+1975,Spring,William,Lambert,Jr.,False
+1975,Spring,Barbara,Lasris,,False
+1975,Spring,Debra,Lauer,,False
+1975,Spring,Robert,Marston,,True
+1975,Spring,Nell,Miller,,True
+1975,Spring,William,Mitchum,,True
+1975,Spring,Joseph,Mizell,,False
+1975,Spring,William,Oâ€™Donoghue,,False
+1975,Spring,Robert,Oâ€™Quinn,Jr.,False
+1975,Spring,Benjamin,Overton,,True
+1975,Spring,Jesse,Parrish,,True
+1975,Spring,Byron,Peterson,,False
+1975,Spring,Robert,Pflueger,,False
+1975,Spring,Richard,Prothero,,False
+1975,Spring,Bruce,Raich,,False
+1975,Spring,Quintus,Roberts,,True
+1975,Spring,Joseph,Rugg,,False
+1975,Spring,Scott,Simmons,,False
+1975,Spring,Walter,Smith,,False
+1975,Spring,David,Smith,,True
+1975,Spring,Donald,Tucker,,True
+1975,Spring,Ernie,Weale,,False
+1975,Spring,Benjamin,Wolf,,False
+1975,Spring,Craig,Wolfson,,False
+1975,Spring,Morton,Wolfson,,True
+1975,Fall,Janet Adams,(Mayeaux),,False
+1975,Fall,Randal,Argabrite,,False
+1975,Fall,Banjamin,Ayres,,False
+1975,Fall,Gary,Bauler,,False
+1975,Fall,Ronae Bitter,(Keiser),,False
+1975,Fall,Russel W,Blaser,,False
+1975,Fall,Carl,Christy,Jr.,False
+1975,Fall,Susan,Connelly,,False
+1975,Fall,Harry,Coverston,,False
+1975,Fall,Edward,Dan,,False
+1975,Fall,Marilyn,Davidson,,False
+1975,Fall,Robert,Dickinson,III,False
+1975,Fall,Russell,Divine,,False
+1975,Fall,Robin Engleman,(Macleay),,False
+1975,Fall,Richard,Fortuna,,False
+1975,Fall,Richard,Hernandez,,False
+1975,Fall,Jackie,Hill,,False
+1975,Fall,Steven,Johnson,,False
+1975,Fall,James,Knauss,,False
+1975,Fall,James,Kynes,,False
+1976,Spring,William Claud,Andrews,,False
+1976,Spring,Jerry W.,Adams,,False
+1976,Spring,Richard Michael,Bezold,,False
+1976,Spring,Henry C.,Bosman,,False
+1976,Spring,Kennedy G.,Boyer,,False
+1976,Spring,Lew,Brantley,,True
+1976,Spring,Timothy L.,Cannon,,False
+1976,Spring,Richard Micahel,Carroll,Jr.,False
+1976,Spring,Charles E.,Chapin,,False
+1976,Spring,Margaret E.,Demery,,False
+1976,Spring,Michael Edward,Dedmont,,False
+1976,Spring,Guy O.,Dennis,,True
+1976,Spring,Gerald F.,DiFabrizio,,False
+1976,Spring,Victor E.,DiMaio,,True
+1976,Spring,John Alexander,Dial,III,False
+1976,Spring,William Ferguson,Edwards,,True
+1976,Spring,Marshall J.,Emas,,False
+1976,Spring,Jeffrey David,Feldman,,False
+1976,Spring,Clarence Lee,Fisher,,False
+1976,Spring,Gary O.,Fox,,False
+1976,Spring,Pamela Beth,Gadinsky,,False
+1976,Spring,P. Jeffrey,Goldstein,,False
+1976,Spring,Charles Edward,Goodman,,False
+1976,Spring,Gary M.,Gunter,,False
+1976,Spring,Robert Neal,Hackworth,,False
+1976,Spring,Thomas Geoffrey,Heekin,,False
+1976,Spring,Charles C.,Howell,,False
+1976,Spring,Timothy John,Ives,,False
+1976,Spring,Billy Richard,Jenkins,,False
+1976,Spring,Aaron M.,Kanner,,True
+1976,Spring,Beth Karin,Kunitz,,False
+1976,Spring,Vicky Lynn,Lambeth,,False
+1976,Spring,Paul D.,Landrum,,False
+1976,Spring,David M.,Layman,,False
+1976,Spring,J. Brock,Lesperance,,False
+1976,Spring,David H,Levin,,True
+1976,Spring,Janet Elizabeth Adams,Mayeaux,,False
+1976,Spring,James L.,McCoy,Jr.,False
+1976,Spring,Lee Colson,McGriff,,False
+1976,Spring,John Lester,Mills,,True
+1976,Spring,Vicky Lynn Lambeth,Mixon,,False
+1976,Spring,C. William,Nelson,,True
+1976,Spring,Kim,O'Connor,,False
+1976,Spring,Clifton,Oliver,Jr.,True
+1976,Spring,Fareed T.,Ossi,,True
+1976,Spring,James Michael,Papantonio,,False
+1976,Spring,David S.,Pressley,,False
+1976,Spring,Jeffrey,Puffur,,False
+1976,Spring,Frances,Reitz,,True
+1976,Spring,Javier A.,Rey,,False
+1976,Spring,Victor K.,Scones,,False
+1976,Spring,Joseph A.,Scanlan,Jr.,False
+1976,Spring,Bruce A.,Smathers,,True
+1976,Spring,Craig R.,Smith,,False
+1976,Spring,J. Dairell,Snap,III,False
+1976,Spring,Pamela Beth Gadinsky,Snyder,,False
+1976,Spring,Patrick C. St.,Marie,,False
+1976,Spring,Andrew W.,Stein,,False
+1976,Spring,Petern Gillen,Timba,,False
+1976,Spring,Bernardo A.,Valletta,Jr.,False
+1976,Spring,Alfred C.,Warrington,IV,True
+1976,Spring,Micahel J.,Webb,,False
+1976,Spring,William A.,Webber,,False
+1976,Spring,Wilson W.,Wright,,True
+1976,Fall,David Henry,Arnold,,False
+1976,Fall,John William,Blackmon,,False
+1976,Fall,James Thomas,Blackmon,,False
+1976,Fall,James Martin,Brown,,False
+1976,Fall,Susan Denise,Cline,,False
+1976,Fall,David S.,Cohen,,False
+1976,Fall,Randy,Coleman,,False
+1976,Fall,Robert Gary,Diaz,,False
+1976,Fall,Janice Jolly,Divine,,False
+1976,Fall,William R.,Dorsey,Jr.,False
+1976,Fall,Cynthia Aronson,Eaton,,False
+1976,Fall,Joan S. Forrest,Eleazer,,False
+1976,Fall,John M.,Espinosa,III,False
+1976,Fall,Bruce James,Fletcher,,False
+1976,Fall,Joand S.,Forrest,,False
+1976,Fall,Donald G.,Gafeney,,False
+1976,Fall,Linda A.,Gloeckner,,False
+1976,Fall,Stephen O.,Heller,,False
+1976,Fall,Carol,Henry,,False
+1976,Fall,Nancy Anne Medford,Johnson,,False
+1976,Fall,Janice,Jolly,,False
+1976,Fall,Leslie,Kimball,,False
+1976,Fall,Karen Bridget,Larsen,,False
+1976,Fall,Carol,Lee,,False
+1976,Fall,Martin Louis,Leibowitz,,False
+1976,Fall,Paul,Leino,,False
+1976,Fall,Dennis Roy,Long,,False
+1976,Fall,Patrick,McGrath,III,False
+1976,Fall,Nancy Anne,Medford,,False
+1976,Fall,Jay Andrew,Meyer,,False
+1976,Fall,Edward J.,Meyer,III,False
+1976,Fall,Robert W.,Mixon,,False
+1976,Fall,Carol Henry,Moore,,False
+1976,Fall,Thomas A.,Mosely,,False
+1976,Fall,Patrick Kelly,O'Brien,,False
+1976,Fall,Richard B.,Orfinger,,False
+1976,Fall,Donald,Reid,,False
+1976,Fall,Ronald E.,Saunders,,False
+1976,Fall,Sheree Mildred,Sawyer,,False
+1976,Fall,William M.,Seider,,False
+1976,Fall,Jay Wilton,Stark,,False
+1976,Fall,Robert James,Stilley,,False
+1976,Fall,Frederick R.,Susaneck,,False
+1976,Fall,Stuart,Susaneck,,False
+1976,Fall,William H.,Wadsworth,,False
+1976,Fall,Howe Quinn,Wallace,Jr.,False
+1976,Fall,Robert John,Webb,,False
+1976,Fall,Bernard,Werner,,False
+1976,Fall,Tore G.,Wisteot,,False
+1976,Fall,Edward Lee,Wotitzky,,False
+1976,Fall,John A.,Yanchunis,,False
+1977,Spring,James Hansell,Adair,,False
+1977,Spring,Michael,Artigliere,,False
+1977,Spring,Barry Anthony,Bleiot,,False
+1977,Spring,Raul,Carreras,Jr.,False
+1977,Spring,Joe B.,Cordell,,True
+1977,Spring,Charles,Cornelius,,True
+1977,Spring,Hugh W.,Cunninghham,,True
+1977,Spring,Ralph S.,Dangelo,,False
+1977,Spring,John Adrian,Delaney,,False
+1977,Spring,William H,Dial,,True
+1977,Spring,Buell G.,Duncan,Jr.,True
+1977,Spring,Phyllis B.,Durell,,True
+1977,Spring,Hayford O.,Enwall,,True
+1977,Spring,Kenneth Franklin,Finger,,True
+1977,Spring,Homer Maxwell,Fletcher,Jr.,False
+1977,Spring,Randi Ellen,Freedman,,False
+1977,Spring,Louis O.,Frost,,True
+1977,Spring,W.W.,Gay,,True
+1977,Spring,Pamela S.,Goodrich,,False
+1977,Spring,Erica Jo,Gottfried,,False
+1977,Spring,Harold P.,Hanson,,True
+1977,Spring,John Charles,Heekin,,False
+1977,Spring,Johnathan Adam,Heller,,False
+1977,Spring,Varnum,Heyl,,True
+1977,Spring,Gordon J.,Hines,,False
+1977,Spring,William G.,James,,True
+1977,Spring,Roger,Kennedy,Jr.,True
+1977,Spring,Sharon Anne,Knight,,False
+1977,Spring,James Rudolph,Kuhl,,False
+1977,Spring,Jonathan Baylor,Kurtis,,False
+1977,Spring,Willliam Leland,Kynes,,False
+1977,Spring,Coman Cicero,Leonard,III,False
+1977,Spring,Erica Jo Gottfried,Mandelbaum,,False
+1977,Spring,Alfred,McKethan,,True
+1977,Spring,Michael Frederick,Mein,,False
+1977,Spring,William R.,Mendenhall,,True
+1977,Spring,John Bryan,Morgan,,False
+1977,Spring,Peter W.,Morgan,,False
+1977,Spring,Robert Scott,Newman,,False
+1977,Spring,Kenneth David,Ofgang,,False
+1977,Spring,Robert Morrison,Pasin,,False
+1977,Spring,Tern Sue,Pepper,,False
+1977,Spring,Christopher Rumsey,Qualmann,,False
+1977,Spring,Leslie Kimball,Quaritius,,False
+1977,Spring,Phillip Edward,Roberts,,False
+1977,Spring,Ann,Schmalzried,,False
+1977,Spring,Richard J.,Sewell,,True
+1977,Spring,Carlos Mario,Sires,,False
+1977,Spring,Dick,Stratton,,True
+1977,Spring,Betty Grace,Thaylor,,True
+1977,Spring,Steven Arthur,Thiesse,,False
+1977,Spring,Andrea M.,Tescot,,False
+1977,Spring,Henry,Volpe,,False
+1977,Spring,Timothy Wayne,Volpe,,False
+1977,Spring,Frederick George,Wallrapp,Jr.,False
+1977,Spring,Steven G.,Wilkerson,,True
+1977,Fall,Charles W,Archerd,,False
+1977,Fall,Charles Chenalt,Baber,,False
+1977,Fall,Peter,Baker,,False
+1977,Fall,Bishop Lee,Blackwell,,False
+1977,Fall,John McCool,Bowers,,False
+1977,Fall,Robin Lee,Brown,,False
+1977,Fall,Terrence M.,Brown,,False
+1977,Fall,Hersche E.,Caudill,,False
+1977,Fall,Nancy Elain,Chisholm,,False
+1977,Fall,Kensall,Coffee,,False
+1977,Fall,Richard E.,Dantzler,,False
+1977,Fall,Dale Ann,Dehart,,False
+1977,Fall,John S.,Elliot,,False
+1977,Fall,Don Robert,Epstein,,False
+1977,Fall,Simon,Ferro,,False
+1977,Fall,Guy S.,Fortin,,False
+1977,Fall,Carmen,Fragola,,False
+1977,Fall,Ron,Freeman,,False
+1977,Fall,Susan E.,Gamble,,False
+1977,Fall,Marshall Gordan,Geisser,,False
+1977,Fall,Jerry Robert,Groom,,False
+1977,Fall,David J.,Jasmund,,False
+1977,Fall,Christopher F. Ken,Ward,,False
+1977,Fall,Pamela Sue,Krop,,False
+1977,Fall,Leanne Ringeman,LeClere,,False
+1977,Fall,Paul B.,Linder,,False
+1977,Fall,Jack Michael,Maguire,,False
+1977,Fall,Charles W.,McBurney,Jr.,False
+1977,Fall,Lisa A.,Miller,,False
+1977,Fall,Mary Martha,Monroe,,False
+1977,Fall,Richard J.,Phoenix,,False
+1977,Fall,Leanne,Ringeman,,False
+1977,Fall,Lamont K.,Roberts,,False
+1977,Fall,Michael Howard,Schine,,False
+1977,Fall,Terry,Schubert,,False
+1977,Fall,Susan E. Gamble,Smathers,,False
+1977,Fall,Shawn K.,Smith,,False
+1977,Fall,Benjamin O.,Solomon,,False
+1977,Fall,Jody,Spicola,,False
+1977,Fall,Nancy E.,Stanley,,False
+1977,Fall,Richard M.,Steinman,,False
+1977,Fall,Edward G.,Sullivan,,False
+1977,Fall,Marc L.,Warren,,False
+1977,Fall,Paul,Wilhite,,False
+1977,Fall,Kathy,Williams,,False
+1977,Fall,Neil Jay,Wolff,,False
+1977,Fall,David Andrew,Wouer,,False
+1978,Spring,Humberto Juan,Aguilar,,False
+1978,Spring,Bryson Jay,Anderson,,False
+1978,Spring,William C.,Andrews,,True
+1978,Spring,David B.,Aronson,,True
+1978,Spring,Roger Quarles,Austin,III,False
+1978,Spring,Jason Aristotle,Barr,Jr.,False
+1978,Spring,Lisa Lorraine Decker,Baumbach,,False
+1978,Spring,Ray J.,Bewley,,True
+1978,Spring,Derek Joseph,Blakeslee,,False
+1978,Spring,Jonahtan Burton,Blecher,,False
+1978,Spring,Donald Franklin,Blount,,False
+1978,Spring,Elizabeth L. Leonard,Tooth,,False
+1978,Spring,Thomas Rowe,Bopp,,False
+1978,Spring,James Hunter,Brinker,,False
+1978,Spring,Judith Lynn,Brown,,False
+1978,Spring,James Edward,Browning,,False
+1978,Spring,Harold B.,Clark,,True
+1978,Spring,Loren Rose,Cohen,,False
+1978,Spring,William,Conway,,True
+1978,Spring,Richard J.,DaFonte,,False
+1978,Spring,Albery Jib,Davidson,,False
+1978,Spring,Hilary Clewis Howell,Davis,,False
+1978,Spring,Lisa L.,Decker,,False
+1978,Spring,Dale Ann,Dehart,,False
+1978,Spring,Joshua Lee,Dubin,,False
+1978,Spring,Clayton C.,Elliott,,False
+1978,Spring,Kevin Michael,Emas,,False
+1978,Spring,Lynda Susan,Emas,,False
+1978,Spring,Elizabeth V.,Fein,,False
+1978,Spring,Robert L.,Floyd,,True
+1978,Spring,Vincent C.,Frisina,Jr.,False
+1978,Spring,Holly Walker,Frost,,False
+1978,Spring,Barry Jay,Gafner,,False
+1978,Spring,Pamela Ann Marsh,Gitlin,,False
+1978,Spring,Thomas,Goodale,,True
+1978,Spring,Kenneth Charles,Greenberg,,False
+1978,Spring,Valerie K. King,Grippo,,False
+1978,Spring,Nelson M.,Harris,Jr.,True
+1978,Spring,Robert W.,Healy,,False
+1978,Spring,Erica Alan,Heller,,False
+1978,Spring,Ronald Edwin,Jarnagin,,False
+1978,Spring,Charles E.,Johnson,,True
+1978,Spring,Richard A.,Johnston,Jr.,False
+1978,Spring,Scott F.,Kenwaro,,False
+1978,Spring,Valerie K.,King,,False
+1978,Spring,Elizabeth L.,Leonard,,False
+1978,Spring,Paul R.,Linder,,False
+1978,Spring,Patricia Ann,Lombard,,False
+1978,Spring,Robert Trask,Mann,,True
+1978,Spring,Pamela Ann,Marsh,,False
+1978,Spring,Clark Allie,Maxwell,,False
+1978,Spring,Howell Webster,Melton,Sr.,True
+1978,Spring,Marianne,Mendelson,,False
+1978,Spring,Augustin G.,Mendoza,,False
+1978,Spring,William Wesley,Merrill,III,False
+1978,Spring,Teresa Jean,Mills,,False
+1978,Spring,Oma Richard,Minton,Sr.,True
+1978,Spring,Robert Thomas,Monteleone,,False
+1978,Spring,Robert Kerr,Nelson,,False
+1978,Spring,Elizabeth A.,Nord,,False
+1978,Spring,J. Stephen,Nouss,,False
+1978,Spring,Mary Ann,O'Brien,,False
+1978,Spring,Keith Terry,Ott,,False
+1978,Spring,Elizabeth A. Nord,Pierce,,False
+1978,Spring,Oamon O'Neil,Pride,,False
+1978,Spring,Lucien C.,Proby,Jr.,True
+1978,Spring,Donald Lawrence,Rayburn,,False
+1978,Spring,Bruce Stewart,Reich,,False
+1978,Spring,Greg,Reis,,False
+1978,Spring,John Edward,Rudnik,,False
+1978,Spring,Randolph James,Rush,,False
+1978,Spring,Richard Louis,Sharp,,False
+1978,Spring,Eugene,Shy,Jr.,False
+1978,Spring,Gene C.,Simmons,,False
+1978,Spring,Susan,Smith,,False
+1978,Spring,Jeffrey A.,Soper,,False
+1978,Spring,Karen Jean,Stone,,False
+1978,Spring,Nell Lougene,Stowers,,False
+1978,Spring,Maria C. Suarez,Sullivan,,False
+1978,Spring,Frank H.,Tamen,,False
+1978,Spring,Susan Smith,Thompson,,False
+1978,Spring,Robert Van,Etten,,False
+1978,Spring,Calvin A.,Vanderwerf,,True
+1978,Spring,Holly Walker Frost,Vanture,,False
+1978,Spring,John Kent,Walker,,False
+1978,Spring,Dennis K.,Williams,,False
+1978,Spring,Judith Ann,Young,,False
+1978,Fall,Thomas R.,Arnold,,False
+1978,Fall,Jordan F.,Camenker,,False
+1978,Fall,Paul M.,Corban,,False
+1978,Fall,Richard O.,Custureri,,False
+1978,Fall,Colene A. Gissendaner,Davis,,False
+1978,Fall,George F.,Devitt,III,False
+1978,Fall,Julie L.,Drew,,False
+1978,Fall,Colene A.,Gissendaner,,False
+1978,Fall,Walter T.,Graham,,False
+1978,Fall,James R.,Grippando,,False
+1978,Fall,R. Lawrence,Heinkel,,False
+1978,Fall,Patrica A.,Heller,,False
+1978,Fall,Julie L.,Jett,,False
+1978,Fall,Michael Craig,Meek,,False
+1978,Fall,Ana E.,Rabello,,False
+1978,Fall,Joan C.,Sanchez,,False
+1978,Fall,Harold Lorin,Stringer,Jr.,False
+1978,Fall,Ana E. Rabello,Wallrapp,,False
+1979,Spring,Robert S.,Aiken,,False
+1979,Spring,Randal M.,Alligood,,False
+1979,Spring,Allison,Armour,,False
+1979,Spring,Cullen,Banks,,True
+1979,Spring,Doyle C.,Bartlett,,False
+1979,Spring,Margaret R.,Beistle,,True
+1979,Spring,Karen Diane,Bennett,,False
+1979,Spring,J. Robert,Cade,,True
+1979,Spring,Jennifer L.,Carreras,,False
+1979,Spring,Warren M.,Cason,,True
+1979,Spring,Edgar A.,Crosby,,True
+1979,Spring,Barry Lee,Davis,,False
+1979,Spring,Timothy M.,Devine,,False
+1979,Spring,Mary Lynn,Desjarlais,,False
+1979,Spring,Claire Henderson,Dixon,,False
+1979,Spring,Seth O.,Ellis,,False
+1979,Spring,John H,Faricy,,True
+1979,Spring,Scott Gardener,Hawkins,,False
+1979,Spring,Lawrence L.,Hench,,True
+1979,Spring,Claire,Henderson,,False
+1979,Spring,Craig P.,Hoffman,,False
+1979,Spring,Heidi Munro,Howell,,False
+1979,Spring,John Carter,Leighton,,False
+1979,Spring,John Elliott,Leighton,,False
+1979,Spring,Michael Frederick,Levy,,False
+1979,Spring,Phillip O.,Lewis,,True
+1979,Spring,Jennifer,Luchus,,False
+1979,Spring,David Lewis,Lichtman,,False
+1979,Spring,Victor J.,Martinez,,True
+1979,Spring,Jeffrey B.,McConnell,,False
+1979,Spring,Walter John Mc,Cracken,,False
+1979,Spring,Marshall,McDonald,Jr.,True
+1979,Spring,Mark Kenneth,Meltzer,,False
+1979,Spring,William F.,Merlin,Jr.,False
+1979,Spring,Bonnie Sue,Miller,,False
+1979,Spring,Catherine M.,O'Brien,,False
+1979,Spring,Lloyd M.,Phillips,,True
+1979,Spring,Edwin E.,Pyatt,,True
+1979,Spring,Paul E.,Rice,Jr.,False
+1979,Spring,Vernon P.,Roan,,True
+1979,Spring,Heide M. Howell,Robson,,False
+1979,Spring,Joanne E.,Rosenbluth,,False
+1979,Spring,Ray,Royce,,False
+1979,Spring,Ronald Bader,Salem,,False
+1979,Spring,Robert,Scott,,True
+1979,Spring,Jerry,Senne,,False
+1979,Spring,Thorpe,Shuttleworth,,False
+1979,Spring,Charles,Skalaski,,False
+1979,Spring,Paul,Smith,,False
+1979,Spring,Ronald,Spencer,,False
+1979,Spring,Jeffrey Paul,Stine,,False
+1979,Spring,Richard Douglas,Stratton,,False
+1979,Spring,Karen O. Bennett,Sweetapple,,False
+1979,Spring,Mark Edward,Timmes,,False
+1979,Spring,Byron Edward,Townsend,,False
+1979,Spring,Jerry N.,Uelsman,,True
+1979,Spring,Keith,Ward,,False
+1979,Spring,Alma,Warren,,True
+1979,Spring,Matthew O.,Weissing,,False
+1979,Spring,Joseph Ardene,Wiggins,,True
+1979,Spring,Karen Shand,Williams-Seel,,False
+1979,Fall,Joseph Allen,Bassett,,False
+1979,Fall,William Dudley,Bone,,False
+1979,Fall,James F.,Brenner,,False
+1979,Fall,Suzan,Buie,,False
+1979,Fall,John Kelvin,Carey,,False
+1979,Fall,Charles W.,Clemons,,False
+1979,Fall,Mary Beth,Connelly,,False
+1979,Fall,Jill L. Dixon,Cunningham,,False
+1979,Fall,Elizabeth A.,Donlin,,False
+1979,Fall,Issac A.,Fisher,,False
+1979,Fall,Mary Beth Connelly,Fritz,,False
+1979,Fall,Leonard,George,,False
+1979,Fall,Lee O.,Gunn,IV,False
+1979,Fall,Randall W.,Hanna,,False
+1979,Fall,Kim,Harvill,,False
+1979,Fall,Eric,Helmers,,False
+1979,Fall,Valerie D.,Henriquez,,False
+1979,Fall,Susanne Estelle,Hosmer,,False
+1979,Fall,April Louise,Huntsman,,False
+1979,Fall,Elizabeth A. Donlin,Jasmund,,False
+1979,Fall,Mary Helen,Keen,,False
+1979,Fall,Marc Lewis,Kessler,,False
+1979,Fall,Maricelle A.,Kinney,,False
+1979,Fall,Alexandra Moshonas,Lindberg,,False
+1979,Fall,Robert Chase,Meacham,,False
+1979,Fall,Mark Wallace,Merrill,,False
+1979,Fall,Laurie Davison,Miller,,False
+1979,Fall,Earl R.,Morrison,,False
+1979,Fall,David,Mosby,,False
+1979,Fall,Alexandra,Moshonas,,False
+1979,Fall,Colleen,Olden,,False
+1979,Fall,David,Pressly,,False
+1979,Fall,Maureen P.,Pitsurdakis,,False
+1979,Fall,Kim Cecile,Rice,,False
+1979,Fall,Steven Wayne,Robertson,,False
+1979,Fall,Michael S.,Rosenthal,,False
+1979,Fall,Andrew,Seiden,,False
+1979,Fall,Valerie O. Henriquez,Sobanko,,False
+1979,Fall,Gregory Neil,Ullman,,False
+1979,Fall,Dee Dee,Wall,,False
+1979,Fall,Todd C.,Weissing,,False
+1979,Fall,J. Mason,Williams,,False
+1980,Spring,James C.,Adkins,Jr.,True
+1980,Spring,James Nesbiff,Anderson,,True
+1980,Spring,Howard,Appledorf,,True
+1980,Spring,Todd Ivan,Bass,IV,False
+1980,Spring,Samuel Pahs,Bell,III,True
+1980,Spring,Herbert A.,Bevis,,True
+1980,Spring,Linda Sue,Birchfield,,False
+1980,Spring,Joe,Brown,,True
+1980,Spring,Kellie Sue,Chambers,,False
+1980,Spring,Victor Latrell,Cohen,,False
+1980,Spring,Adam S.,Doner,,False
+1980,Spring,Terrin Lea,Few,,False
+1980,Spring,Thomas O.,Furman,,True
+1980,Spring,Robert William,Futch,,False
+1980,Spring,Mark Edward,Gibson,,False
+1980,Spring,Kim Sterling,Glaner,,False
+1980,Spring,Michael Steven,Gleene,,False
+1980,Spring,Paul Burthon,Haines,,False
+1980,Spring,Edward M.,Hampton,Jr.,False
+1980,Spring,Daivd Wayne,Hess,,False
+1980,Spring,Henry Blake,Hostetter,,False
+1980,Spring,Wade Franklin,Johnson,Jr.,False
+1980,Spring,Todd Donovan,Jones,,False
+1980,Spring,Robt. Ernest Vinson,Kelley,Jr.,False
+1980,Spring,Mitchell I.,Lansky,,False
+1980,Spring,Jane Elizabeth,Lewis,,False
+1980,Spring,Ann,Marston,,True
+1980,Spring,Terrin Lea Few,McKay,,False
+1980,Spring,Stephen Le,Meininger,,False
+1980,Spring,Erik Lamont,Melear,,False
+1980,Spring,William Alan,Mock,,False
+1980,Spring,Michael A.,Mone,,False
+1980,Spring,Lewis F.,Murphy,,False
+1980,Spring,Mark A.,Nouss,,False
+1980,Spring,Jillian M. Spangler,O'Connor,,True
+1980,Spring,Debra O.,Ousley,,False
+1980,Spring,Philip Joseph,Powell,,False
+1980,Spring,Linda Sue Birchfield,Rafael,,False
+1980,Spring,Marylin E.,Reyes,,False
+1980,Spring,Remzey Lee,Samarrai,,False
+1980,Spring,Jeffrey Steven,Sandler,,False
+1980,Spring,John Keith,Seeberger,,False
+1980,Spring,John Wesley,Sheets,Jr.,False
+1980,Spring,Alan Neal,Singer,,False
+1980,Spring,Byron O.,Spangler,,False
+1980,Spring,Jillian M.,Spangler,,False
+1980,Spring,Paul Ralph,Steadman,,False
+1980,Spring,Marilyn,Stern,,False
+1980,Spring,Blame,Strickland,,True
+1980,Spring,Michael John,Swan,,False
+1980,Spring,Christopher Lee,Thompson,,False
+1980,Spring,J. Annene,Townsend,,False
+1980,Spring,Jack Light,Townsend,,False
+1980,Spring,Robin Michelle,Voiles,,False
+1980,Spring,Joel R.,Wells,Jr.,False
+1980,Spring,Kellie Sue Chambers,White,,False
+1980,Spring,Jeff,H.Willis,,False
+1980,Spring,William L.,Wolfram,,False
+1980,Fall,Franklin F.,Akel,,False
+1980,Fall,Kurt A.,Ardaman,,False
+1980,Fall,Jefree Hardee,Atwater,,False
+1980,Fall,Lawrence Edward,Barthle,,False
+1980,Fall,Walter Lyle,Brewer,,False
+1980,Fall,Shanon Yvonne,Bruon,,False
+1980,Fall,Donald Ross,Cameron,,False
+1980,Fall,Angela Flowers,Carreras,,False
+1980,Fall,Michael P.,Christie,,False
+1980,Fall,Brian Matthew,Clark,,False
+1980,Fall,Anthony Chris,Collinsworth,,False
+1980,Fall,James E.,Copelano,,False
+1980,Fall,Kathryn Jane Wallace,Cramer,,False
+1980,Fall,Susan K.,DePaoli,,False
+1980,Fall,Terrance J.,Delahunty,Jr.,False
+1980,Fall,Phillip Alan,Diamond,,False
+1980,Fall,Susan Marie,Donlin,,False
+1980,Fall,David E.,Downs,,False
+1980,Fall,Randall Nelson,Drake,,False
+1980,Fall,Andrea Jean,Easler,,False
+1980,Fall,Kimberly Jean Warren,English,,False
+1980,Fall,Angela Carol,Flowers,,False
+1980,Fall,Robert F.,Goodrich,,False
+1980,Fall,Tracey,Gordon,,False
+1980,Fall,Jorge M.,Guira,,False
+1980,Fall,Anna Lee,Hackman,,False
+1980,Fall,Susan K.,Hapner,,False
+1980,Fall,William,T.Harrison,III,False
+1980,Fall,James Michael,Hart,,False
+1980,Fall,G. Calvin,Hayes,,False
+1980,Fall,D. Kay,Henderson,,False
+1980,Fall,Susan Marie Donlin,Jennings,,False
+1980,Fall,Theresa E.,Johnson,,False
+1980,Fall,Michael Scott,Kranitz,,False
+1980,Fall,David Preston,Lybrand,,False
+1980,Fall,Jeff Alan,Marcus,,False
+1980,Fall,Anthony Leron,McGowan,,False
+1980,Fall,Barbara Post,McGriff,,False
+1980,Fall,Susan K. Hapner,Mock,,False
+1980,Fall,Alice Ann,Northcraft,,False
+1980,Fall,John J.,Ogilby,Jr.,False
+1980,Fall,Jennifer R.,Overstreet,,False
+1980,Fall,Ricardo G.,Perez,,False
+1980,Fall,Eugene K.,Pettis,,False
+1980,Fall,Andrew Lawrence,Reiff,,False
+1980,Fall,Anne Calvert,Riker,,False
+1980,Fall,Gerald K.,Sanchez,,False
+1980,Fall,Dean Patrick,Saunders,,False
+1980,Fall,David T.,Smith,Jr.,False
+1980,Fall,Stephen R.,Southerland,,False
+1980,Fall,Alice Ann Northcraft,Spurgeon,,False
+1980,Fall,Robert Charles,Swain,,False
+1980,Fall,Donald Scott,Theisse,,False
+1980,Fall,Toni Garcia,Volpe,,False
+1980,Fall,Susan K.,Wagner,,False
+1980,Fall,Patricia Marie,Walker,,False
+1980,Fall,Kathryn Jane,Wallace,,False
+1980,Fall,Kimberly J.,Warren,,False
+1981,Spring,John David,Bang,,False
+1981,Spring,Robert Mason,Blake,,False
+1981,Spring,Regina R.,Bobo,,False
+1981,Spring,Howard B.,Bochiardy,,True
+1981,Spring,Jerry Lamar,Brady,II,False
+1981,Spring,William,V.Chappell,Jr.,True
+1981,Spring,Laura C.,Chassell,,False
+1981,Spring,W.D.,Childers,,True
+1981,Spring,Ricky A.,Christie,,False
+1981,Spring,Stuart A.,Christmas,,False
+1981,Spring,Julia Diane,Cobb,,False
+1981,Spring,Neil Owen,Contess,,False
+1981,Spring,Julia Diane Cobb,Costas,,False
+1981,Spring,Raymond Todd,Dantzler,,False
+1981,Spring,Barbara E. Zotz,Dellecker,,False
+1981,Spring,J. Rex,Farrior,III,False
+1981,Spring,Lee Martin,Fields,,False
+1981,Spring,Leslie Sue Yalof,Garfield,,False
+1981,Spring,Lori Lee,Garner,,False
+1981,Spring,Ralph H,Haben,,True
+1981,Spring,Sidney Mark,Hobbs,,False
+1981,Spring,Ellen K.,Jones,,False
+1981,Spring,Brian B.,Joslyn,,False
+1981,Spring,Eugene R.,Kennedy,Jr.,False
+1981,Spring,Elaine C.,Kimball,,False
+1981,Spring,Karen Elaine,Kimbrell,,False
+1981,Spring,William Douglas,King,,False
+1981,Spring,Rebecca Angela,Kinney,,False
+1981,Spring,Debra Anne,Mason,,False
+1981,Spring,Wayne,Mixon,,True
+1981,Spring,James Coral,Moore,II,False
+1981,Spring,John Bruno,Neukamm,,False
+1981,Spring,Bryan Lee,Putnal,,False
+1981,Spring,Joseph W.,Rivers,Jr.,False
+1981,Spring,Craig Philip,Rogers,,False
+1981,Spring,Joseph S.,Rosenshein,,True
+1981,Spring,Leslie Gail,Rossway,,False
+1981,Spring,David Patrick,Roy,,False
+1981,Spring,Leslie Gail Rossway,Swan,,False
+1981,Spring,Timothy Josepth,Taylor,,False
+1981,Spring,Lewis E.,Wadsworth,,True
+1981,Spring,Michael K.,Williams,,False
+1981,Spring,Leslie Sue,Yalof,,False
+1981,Spring,Donna Susan,Zimmerman,,False
+1981,Spring,Barbara E.,Zotz,,False
+1981,Fall,Henry G.,Bachara,Jr.,False
+1981,Fall,Mindy R.,Blumenthal,,False
+1981,Fall,Mary Kathleen Nord,Bogos,,False
+1981,Fall,Susan W. Brown,Bone,,False
+1981,Fall,David H,Burns,,False
+1981,Fall,Leslie J. Dunn,Gameron,,False
+1981,Fall,Willaim Francis,Carter,Jr.,False
+1981,Fall,Douglas Brooks,Cochran,,False
+1981,Fall,Craig S.,Collins,,False
+1981,Fall,Steven Williams,Csutoros,,False
+1981,Fall,Janet Elizabeth,Davis,,False
+1981,Fall,W. Penn,Dawson,III,False
+1981,Fall,Paul,Destafanis,,False
+1981,Fall,Deborah V.,Devane,,False
+1981,Fall,Angel C.,DiMauro,,False
+1981,Fall,Theodore Robert,Doran,,False
+1981,Fall,Leslie J.,Dunn,,False
+1981,Fall,Ginger Debra,Emas,,False
+1981,Fall,Robert P.,Evans,,False
+1981,Fall,Barbara Joan,Gore,,False
+1981,Fall,Regina E.,Groves,,False
+1981,Fall,Elizabeth E. McSween,Harrison,,False
+1981,Fall,Richard Read,Hayes,Jr.,False
+1981,Fall,Timothy M.,Keating,,False
+1981,Fall,Bruce Dodd,Landrum,,False
+1981,Fall,Willowstine,Lawson,,False
+1981,Fall,David Kirk,Legman,,False
+1981,Fall,Gregg Stewart,Lerman,,False
+1981,Fall,Brian M.,Lisko,,False
+1981,Fall,Theresa Elaine,Lyon,,False
+1981,Fall,Elizabeth E.,McSween,,False
+1981,Fall,Robert Louis,Merrill,,False
+1981,Fall,Kenneth Alan,Mizels,,False
+1981,Fall,Ellen Marie,Morrissey,,False
+1981,Fall,Michelle S.,Morton,,False
+1981,Fall,Jill Elizabeth,Neppl,,False
+1981,Fall,Kathy Lynn,Noles,,False
+1981,Fall,Mary Kathleen,Nord,,False
+1981,Fall,Laura Jo,Overstreet,,False
+1981,Fall,Michael Lewis,Parker,,False
+1981,Fall,Harrell H,Phillips,Jr.,False
+1981,Fall,Harriett Kresla,Pila,,False
+1981,Fall,Charles M.,Prather,,False
+1981,Fall,Marie Joyce,Rhodes,,False
+1981,Fall,Karen Paulene,Richardson,,False
+1981,Fall,Helaine Denise,Richberger,,False
+1981,Fall,Peter Mark,Schaf,,False
+1981,Fall,Jeff,Shapiro,,False
+1981,Fall,Robert L.,Tankel,,False
+1981,Fall,Laura Jo Overstreet,Thacker,,False
+1981,Fall,Michelle,Tharp,,False
+1981,Fall,Mark Hans,Thurn,,False
+1981,Fall,Tern Elizabeth,Touma,,False
+1981,Fall,Sidney L.,Viheln,III,False
+1981,Fall,Nancy,Wallace,,False
+1981,Fall,Jack Todd,Weissman,,False
+1981,Fall,Laura Elizabeth Swan,Willis,,False
+1981,Fall,Hunter S.,Wilson,,False
+1981,Fall,Scott L.,Zeiger,,False
+1982,Spring,Kern S.,Alexander,,True
+1982,Spring,Phyllis,Batchelder,,False
+1982,Spring,Guy,Bostick,,True
+1982,Spring,Craig A.,Bordeau,,False
+1982,Spring,Sharen,Brown,,False
+1982,Spring,Fran,Carlton,,True
+1982,Spring,James Newell,Charles,,False
+1982,Spring,Juan,Cunningham,,False
+1982,Spring,Betsy A. Howard,Cusick,,False
+1982,Spring,Stephen O.,Decker,,False
+1982,Spring,James H,Ducane,III,False
+1982,Spring,Donald A.,Dvorknik,,False
+1982,Spring,Newton C.,Ebaugh,,True
+1982,Spring,Fran E.,Ferguson,,False
+1982,Spring,ODebraAnn,Filipe,,False
+1982,Spring,Bill,Frederick,,True
+1982,Spring,Manuel M.,Garcia,,True
+1982,Spring,Reginald R.,Garcia,,False
+1982,Spring,Patricia M.,Garlan,,False
+1982,Spring,George H,Gwynn,,False
+1982,Spring,Jan Reitnaur,Herbst,,False
+1982,Spring,Robert Todd,Hewko,,False
+1982,Spring,Pamela Denise,Holmes,,False
+1982,Spring,Betsy A.,Howard,,False
+1982,Spring,Lawrence,Keffe,,False
+1982,Spring,Patricia C. Royal,Kovar,,False
+1982,Spring,Kenneth A.,Lambert,,False
+1982,Spring,Saxton T.,Lloyd,,True
+1982,Spring,Sidney,Martin,,True
+1982,Spring,Rex,McPherson,VII,True
+1982,Spring,Elizabeth,Moore,,False
+1982,Spring,Michael William,Mullins,,False
+1982,Spring,Jorge,Mursuli,,False
+1982,Spring,Mark A.,Nelson,,False
+1982,Spring,James,Newbome,,False
+1982,Spring,Nancy Renee,O'Donnell,,False
+1982,Spring,Brian O.,Pasternak,,False
+1982,Spring,Michael G.,Prendergast,,False
+1982,Spring,Randall Ritch,Raudt,,False
+1982,Spring,Richard W.,Reichert,,False
+1982,Spring,Jan,Reitnaur,,False
+1982,Spring,Phyllis Elizabeth,Rice,,False
+1982,Spring,Henry Allan,Rose,,False
+1982,Spring,Patricia C.,Royal,,False
+1982,Spring,Richard E.,Straughn,,False
+1982,Spring,Alfred C.,Warrington,V,False
+1982,Spring,Jeffrey L.,Williams,,False
+1982,Fall,Mary Kristen,Allman,,False
+1982,Fall,Alan Welling,Banspach,,False
+1982,Fall,Caroline,Bensabat,,False
+1982,Fall,Jeffrey Todd,Boyd,,False
+1982,Fall,Robert G.,Clements,,False
+1982,Fall,Lucien,Cressionnie,,False
+1982,Fall,Howard Sidney,Dargan,,False
+1982,Fall,Monte Virgil,Davis,,False
+1982,Fall,Amy Sue Johnson,Dowds,,False
+1982,Fall,Mark John,Dvornik,,False
+1982,Fall,Karen L.,Eastman,,False
+1982,Fall,Craig D.,Ferguson,,False
+1982,Fall,Troy Alan,Files,,False
+1982,Fall,Annie L.,Fitzsimons,,False
+1982,Fall,Sue Ellen,Haupert,,False
+1982,Fall,Robert Michael,Hoefges,,False
+1982,Fall,Robert Stephen,Howard,III,False
+1982,Fall,Evan H.,Jenkins,,False
+1982,Fall,Amy Sue,Johnson,,False
+1982,Fall,William Peter,Keyes,,False
+1982,Fall,Robert R.,Klostermeyer,,False
+1982,Fall,Bruce Ira,Kravitz,,False
+1982,Fall,Caroline Bensabat,Marshall,,False
+1982,Fall,Nancy Louis,Martin,,False
+1982,Fall,Hillarey Ann,McCall,,False
+1982,Fall,John Lincoln,Meena,,False
+1982,Fall,Lori Ann,Melendi,,False
+1982,Fall,Robert G.,Modjeska,,False
+1982,Fall,Jeffrey L.,Moredock,,False
+1982,Fall,Gregory L.,Needles,,False
+1982,Fall,John Erik,Newton,,False
+1982,Fall,James William,Pettigrew,III,False
+1982,Fall,Julie Anne,Sherman,,False
+1982,Fall,Suzanne R.,Simkin,,False
+1982,Fall,Francis X.,Stanton,Jr.,False
+1982,Fall,Walter Neil,Strump,,False
+1982,Fall,David,Swartz,,False
+1982,Fall,William P.,Taulbee,II,False
+1982,Fall,Joshua,Walden,,False
+1982,Fall,Jon Isaac,Wilson,,False
+1983,Spring,Alex J.,Abreu,,False
+1983,Spring,Toots Alan,Banner,,False
+1983,Spring,Michael Alan,Bedke,,False
+1983,Spring,Stoney,Boggs,,False
+1983,Spring,W. Brantley,Brannon,,True
+1983,Spring,Robert A.,Bryan,,True
+1983,Spring,J. Abney,Cox,,True
+1983,Spring,Theodore,Crom,,True
+1983,Spring,Teresa E.,Donnelley,,False
+1983,Spring,Stoney Boggs,Dvornik,,False
+1983,Spring,Phillip I.,Emmer,,True
+1983,Spring,Mark C.,Greene,,False
+1983,Spring,Thomas J.,Hawes,Jr.,True
+1983,Spring,Deanna Rose,Hodge,,False
+1983,Spring,Tonya La Vaun,Howard,,False
+1983,Spring,Beth Ann,Johnston,,False
+1983,Spring,George Grier,Kirkpatrick,Jr.,True
+1983,Spring,Gary Albert,Leonard,,False
+1983,Spring,Susan Frances,Lester,,False
+1983,Spring,Eudine,McLeod,,True
+1983,Spring,Tami M.,Pellicane,,False
+1983,Spring,T. Clay,Phillips,,False
+1983,Spring,Kathleen Marie,Pierce,,False
+1983,Spring,James J.,Pratt,,False
+1983,Spring,Lynn Van Lutning,Ramey,,False
+1983,Spring,B.L.,Reames,Jr.,True
+1983,Spring,Garrison A.,Rolle,,False
+1983,Spring,Johnson Sidney,Savary,,True
+1983,Spring,David James,Schmitt,,False
+1983,Spring,James E.,Shivler,Jr.,True
+1983,Spring,Ann Mowbray,Sipp,,False
+1983,Spring,Michael,Stein,,False
+1983,Spring,Lynn Veronique Louise,Van,,False
+1983,Spring,,Hyning,,False
+1983,Spring,A. Sherman,Wilhelm,III,False
+1983,Fall,Regina Celeste,Arsenault,,False
+1983,Fall,Garland Louise,Avera,,False
+1983,Fall,Brian David,Ballard,,False
+1983,Fall,Beth Franklin,Bloom,,False
+1983,Fall,William Bard,Brockman,,False
+1983,Fall,Harvey Lee,Brown,Jr.,False
+1983,Fall,Nancy,Bryant,,False
+1983,Fall,Elizabeth,Byrd,,False
+1983,Fall,Charles Hartwell,Carver,,False
+1983,Fall,Belinda Ann,Caspi,,False
+1983,Fall,Steven Lee,Chastain,,False
+1983,Fall,Douglas Adam,Cohen,,False
+1983,Fall,Ellen T.,Connelly,,False
+1983,Fall,Bradley T.,Dantzler,,False
+1983,Fall,Tracy Nichols,Eddy,,False
+1983,Fall,Madelyn Anna,Espinosa,,False
+1983,Fall,Peter W.,Fleming,III,False
+1983,Fall,Thomas A.,Frotune,,False
+1983,Fall,James Louis,Fried,,False
+1983,Fall,Howard Douglas,Garfield,,False
+1983,Fall,Lloyd Earl,Glick,,False
+1983,Fall,Margaret Ann,Gonzalez,,False
+1983,Fall,Bruce William,Gross,,False
+1983,Fall,Nelson Joseph,Guagliardo,,False
+1983,Fall,Johnene Louise,Hardiman,,False
+1983,Fall,Robert Neal,Harrison,,False
+1983,Fall,James Josephy,Hartung,,False
+1983,Fall,Kimberly Ann,Hembree,,False
+1983,Fall,Alfredo I.,Hernandez,,False
+1983,Fall,David R.,Hopkins,,False
+1983,Fall,Patricia A.,Jones,,False
+1983,Fall,Jed Steward,Kapsos,,False
+1983,Fall,Bruce Gregg,Kassman,,False
+1983,Fall,Eric Foster,Kovar,,False
+1983,Fall,Broughton Keith,Lang,,False
+1983,Fall,Kelly Lynne O.,Levy,,False
+1983,Fall,Thomas Kirby,Mack,,False
+1983,Fall,Charles Robert,Mathis,IV,False
+1983,Fall,Daniel Ray,Matthews,,False
+1983,Fall,John Henry,Meininger,III,False
+1983,Fall,Jefferson B.,Miller,,False
+1983,Fall,Frederick John,Mills,,False
+1983,Fall,Kelly M.,Moneyhan,,False
+1983,Fall,Jon Cameron,Moyle,Jr.,False
+1983,Fall,Robert Bren,Ogilvie,,False
+1983,Fall,Terry Dean,Parker,,False
+1983,Fall,Garland Louise Avera,Patterson,,False
+1983,Fall,Ellen Jane,Pearlman,,False
+1983,Fall,Anthony P.,Quattra,Jr.,False
+1983,Fall,Robert C.,Sanchez,,False
+1983,Fall,James Timothy,Schulte,,False
+1983,Fall,Robert A.,Shimbeag,,False
+1983,Fall,Mark Edward,Shouger,,False
+1983,Fall,Michael David,Simon,,False
+1983,Fall,Thomas Fitzpatrick,Slater,,False
+1983,Fall,Gerald,Spates,,False
+1983,Fall,Patrica Ann Jones,Steinfeld,,False
+1983,Fall,Bradford Alan,Taylor,,False
+1983,Fall,Mark Gilbert,Turner,,False
+1983,Fall,Bruce Alan,Vaughn,,False
+1983,Fall,Jeffrey Steven,Wolfe,,False
+1983,Fall,Omar Raule,Zamora,,False
+1983,Fall,Leisa Joy,Zigman,,False
+1984,Spring,Oscar A.,Brennan,Jr.,False
+1984,Spring,James D.,Bruton,,True
+1984,Spring,Francis H.,Bush,,False
+1984,Spring,James David,Camp,Jr.,True
+1984,Spring,Linda Ann,Candeto,,False
+1984,Spring,Norman Gilbert,Carlson,,True
+1984,Spring,Tracy Anne,Caulkins,,False
+1984,Spring,Brad Kincaid,Chasteen,,False
+1984,Spring,Jerry,Chicone,Jr.,False
+1984,Spring,Catherine H.,Coleman,,True
+1984,Spring,Huber O. Donnell,Cooney,,False
+1984,Spring,Randal H.,Drew,,False
+1984,Spring,William A.,Emerson,,True
+1984,Spring,Hugh Nunnally,Farior,,False
+1984,Spring,Amd S. Featherman,Feld,,False
+1984,Spring,Craig S.,Fleischer,,False
+1984,Spring,J. S. Lucas,Fleming,,False
+1984,Spring,Eduardo,Garcia,,True
+1984,Spring,David,Karczewski,,False
+1984,Spring,Barbara Gale,Larsis,,False
+1984,Spring,William F.,Leonard,,True
+1984,Spring,Thomas Hugh,Levy,,False
+1984,Spring,Gregory Bruce,Lower,,False
+1984,Spring,Clark A.,Maxwell,,True
+1984,Spring,Elizabeth M. Threatt,McBride,,False
+1984,Spring,William Edward,Mclntyre,,False
+1984,Spring,Geoffrey William,Meyer,,False
+1984,Spring,George R.,Moraitis,,True
+1984,Spring,Donna Marie,Moreno,,False
+1984,Spring,Mmdi Rae,Morrall,,False
+1984,Spring,Michael William,Mullins,,False
+1984,Spring,Steven Warren,Neckman,,False
+1984,Spring,John Fortune,Palumbo,,False
+1984,Spring,Kevin McKay,Robbins,,False
+1984,Spring,Scott Brian,Roberts,,False
+1984,Spring,James H.,Shimbeag,Jr.,False
+1984,Spring,Robin Annette,Smith,,False
+1984,Spring,Monty P.,Trainer,,True
+1984,Spring,Mignon J.,Vendevoir,,False
+1984,Spring,William Joseph,Watson,Jr.,True
+1984,Spring,David B.,Weinstein,,False
+1984,Spring,JoAnn Margaret,Wilcox,,False
+1984,Fall,Scott Lea,Adams,,False
+1984,Fall,C. Neal,Anderson,,False
+1984,Fall,Barry Bamen,Ansbacher,,False
+1984,Fall,Wallace F.,Armes,,False
+1984,Fall,Phillip M. J.,Attey,III,False
+1984,Fall,Laura Lee,Azar,,False
+1984,Fall,Susan Marie,Barber,,False
+1984,Fall,Derrick Gene,Bennett,,False
+1984,Fall,Veronica Levering,Booth,,False
+1984,Fall,Juan M.,Cordova,,False
+1984,Fall,Monisa K.,Cox,,False
+1984,Fall,Mary Joan,Cummings,,False
+1984,Fall,Renee Marie Hoffner,Dabbs,,False
+1984,Fall,Gary A.,Ellis,,False
+1984,Fall,Laura Jeane,Ensley,,False
+1984,Fall,Lisa Anne McKnight,Waircloth,,False
+1984,Fall,Paul Michael,Gardner,,False
+1984,Fall,Daniel J.,Gerber,,False
+1984,Fall,Kara Elizabeth,Glancy,,False
+1984,Fall,Deborah Sue,Glick,,False
+1984,Fall,Peter Ronal,Goldman,,False
+1984,Fall,Kelvin Brian,Henry,,False
+1984,Fall,Renee Marie,Hoffner,,False
+1984,Fall,Linda Dawn,Horton,,False
+1984,Fall,A. Timothy,Jansen,,False
+1984,Fall,Jeffrey Quinn,Jonasen,,False
+1984,Fall,Steve Mark,Lennon,,False
+1984,Fall,Gina Marie,Leo,,False
+1984,Fall,Carter Braxton,McCain,,False
+1984,Fall,Thomas O.,McGurk,,False
+1984,Fall,Lisa Anne,McKnight,,False
+1984,Fall,Lori Lynn,Meek,,False
+1984,Fall,Robert Anthony,Merritt,,False
+1984,Fall,Susan Lee,Mischler,,False
+1984,Fall,Cathryn Alexander,Mitchell,,False
+1984,Fall,Debora Maria,Moran,,False
+1984,Fall,Michael Edward,Neukamm,,False
+1984,Fall,Guy William,Norris,,False
+1984,Fall,Anne,Patillo,,False
+1984,Fall,Genevieve Louise,Penkosky,,False
+1984,Fall,Evan Bart,Plotka,,False
+1984,Fall,John Williams,Randolph,,False
+1984,Fall,Charneta Claudena,Scott,,False
+1984,Fall,Gary Mark,Shalloway,,False
+1984,Fall,Irvin Lawrence,Smith,,False
+1984,Fall,Mark Currell,Southern,,False
+1984,Fall,Carol A.,Sowers,,False
+1984,Fall,Robert Gary,Stern,,False
+1984,Fall,Kimarie Rose,Stratos,,False
+1984,Fall,Randolph Howard,Strauss,,False
+1984,Fall,Jill,Strickland,,False
+1984,Fall,Todd William,Templin,,False
+1984,Fall,Mary Jacquelin,Thurlow,,False
+1984,Fall,Joshua L.,Weinstein,,False
+1985,Spring,Ross Justin,Adams,,False
+1985,Spring,Harry James,Averell,,False
+1985,Spring,Charles Lavern,Baker,,False
+1985,Spring,Martha Walters,Barnett,,True
+1985,Spring,Suzanne Marie,Beekman,,False
+1985,Spring,Jerri Ann,Blair,,False
+1985,Spring,Leigh J.,Boudreau,,False
+1985,Spring,Susan Ann,Brenner,,False
+1985,Spring,Clayton Benjamin,Burton,Jr.,False
+1985,Spring,Jenifer Hope,Chirstian,,False
+1985,Spring,Thomas Horton,Coleman,,False
+1985,Spring,Ernest Arthur,Cox,III,False
+1985,Spring,Thomas R.,Dougan,,True
+1985,Spring,Timothy Ford,Garrard,,False
+1985,Spring,Sarah Burgess,Hill,,False
+1985,Spring,Robert P.,Jenkins,VI,False
+1985,Spring,Darryl Watt,Johnston,,False
+1985,Spring,Harry Allison,Johnston,II,True
+1985,Spring,Julia Louise,Johnson,,False
+1985,Spring,Mariele Bacon,Jones,,False
+1985,Spring,Anne,Kail,,False
+1985,Spring,Barbara Ashton,Levy,,False
+1985,Spring,Alton Lee,Lightsey,,False
+1985,Spring,Robin Sandra,Meyrowitz,,False
+1985,Spring,David F.,Miller,,True
+1985,Spring,John H.,Moore,II,True
+1985,Spring,H. Ernest,Moore,Jr.,False
+1985,Spring,Kristin Ramsey,Nave,,True
+1985,Spring,Chris Edward,Perkins,,False
+1985,Spring,David Bryan,Peterson,,False
+1985,Spring,John V.,Piombo,,True
+1985,Spring,Gex F.,Richardson,,False
+1985,Spring,L. Edwin,Saar,,False
+1985,Spring,T. Hurst,Simmons,,False
+1985,Spring,Robert Arthur,Skidmore,Jr.,False
+1985,Spring,G reggory Paul,Taussig,,False
+1985,Spring,Leo Keith,Tennant,,True
+1985,Spring,Charles Stuart,Thompson,,False
+1985,Spring,Leon B.,Thrasher,,True
+1985,Spring,Karen Ann,Wajdowicz,,False
+1985,Spring,Scott William,Weinstein,,False
+1985,Spring,Mark Vincent,White,,False
+1985,Spring,Lisa Ann,Wolff,,False
+1985,Spring,John Edward,Wollinka,,False
+1985,Fall,Susan Ellen,Bates,,False
+1985,Fall,Kim Kristine,Carlson,,False
+1985,Fall,Emily Alice,Cobb,,False
+1985,Fall,Franklin S.,Cohen,,False
+1985,Fall,Mark A.,Connolly,,False
+1985,Fall,Kathleen Susan,Davies,,False
+1985,Fall,Jillian M.,Duggan,,False
+1985,Fall,Mark Fleming,Fisher,,False
+1985,Fall,Mary Frances,Gonzalez,,False
+1985,Fall,Benina Denise,Holland,,False
+1985,Fall,Carolyn Anne,Kee,,False
+1985,Fall,Mark Wayne,Klingensmith,,False
+1985,Fall,Steve Martin,Licht,,False
+1985,Fall,Larry Boyd,Loftis,,False
+1985,Fall,Daniel B.,Orourke,,False
+1985,Fall,Anthony Paul Stephen,Ring,,False
+1985,Fall,John Wilson,Rives,,False
+1985,Fall,Scott A.,Sapperstein,,False
+1985,Fall,Lynn Denise,Solomon,,False
+1985,Fall,Andrea Rochelle,Stone,,False
+1985,Fall,William Robertick,Summerhill,,False
+1985,Fall,,III,,False
+1985,Fall,Cedric L.,Washington,,False
+1986,Spring,Antonio E.,Almeida,,False
+1986,Spring,Joseph L.,Amos,,False
+1986,Spring,Ame E.,Balderson,,False
+1986,Spring,Robert W.,Bass,,False
+1986,Spring,Sarah Elizabeth,Benson,,False
+1986,Spring,Frederick Mithcell,Bogos,,False
+1986,Spring,Kimberly B.,Bonder,,False
+1986,Spring,Mark,Borellu,,False
+1986,Spring,Robert E.,Brazel,,False
+1986,Spring,Brad,Butcher,,False
+1986,Spring,Anit Louise,Caldwell,,False
+1986,Spring,Ame E. Balderson,Charles,,False
+1986,Spring,Richard O.,Cobb,,False
+1986,Spring,Daniel M.,Cotton,,False
+1986,Spring,Lori Ann,DeBello,,False
+1986,Spring,Veronica,English,,False
+1986,Spring,Michael David,Ficarro,,False
+1986,Spring,Andrew Mark,Fields,,False
+1986,Spring,Joseph Christopher,Figini,,False
+1986,Spring,Edwin H,Finlayson,,True
+1986,Spring,Frederick E.,Fisher,,True
+1986,Spring,Wayne Leonard,Fitterman,,False
+1986,Spring,Thomas Mills,Fleming,,False
+1986,Spring,Mary Angelica,Font,,False
+1986,Spring,Melanie L.,Gasper,,False
+1986,Spring,Stephanie Mag,Golden,,False
+1986,Spring,Horace Caldwell,Gordon,IV,False
+1986,Spring,Linda,Gary,,True
+1986,Spring,B. Gale,Griffin,,False
+1986,Spring,John Frederick,Halula,,False
+1986,Spring,Sarah K.,Harris,,False
+1986,Spring,David Lee,Heller,Jr.,False
+1986,Spring,L. J.,Hindrey,,True
+1986,Spring,Eric Neal,Hodges,,False
+1986,Spring,Terrell,Hodges,,True
+1986,Spring,Patrick Ernest,Hopkins,,False
+1986,Spring,Lynn Dee Nettles,Iaquinta,,False
+1986,Spring,Susan,Jacoby,,False
+1986,Spring,Melissa,Jest,,False
+1986,Spring,Deron L.,Jewett,,False
+1986,Spring,Jerome,Johns,,True
+1986,Spring,Deborah,Kent,,False
+1986,Spring,Bradford Dean,Kimbro,,False
+1986,Spring,Elizabeth A.,Lanahan,,False
+1986,Spring,Kelly Vincent,Landers,,False
+1986,Spring,Angela L.,Lawing,,False
+1986,Spring,Rutledge A.,Liles,Jr.,True
+1986,Spring,Anthony,Liuzzo,,True
+1986,Spring,Robert W.,Lloyd,,False
+1986,Spring,Thomas Edward,Lockett,,False
+1986,Spring,Kathleen Patterson,Lopez,,False
+1986,Spring,Brian Taylor,Lower,,False
+1986,Spring,Linda Ann,Martin,,False
+1986,Spring,Scott Ellis,Mitchell,,False
+1986,Spring,Lunn Dee,Nettles,,False
+1986,Spring,Paula Sicard,Newton,,False
+1986,Spring,Karen Anne,Nye,,False
+1986,Spring,Sarah Harris,Overmeyer,,False
+1986,Spring,Kathleen M.,Patterson,,False
+1986,Spring,Kenneth,Plasket,,False
+1986,Spring,Daniel Joseph,Probst,,False
+1986,Spring,Brian Bennett,Raudin,,False
+1986,Spring,Steven Manhe,Reeves,,False
+1986,Spring,Stockton,Reeves,,False
+1986,Spring,Barry William,Rugby,,False
+1986,Spring,Michael Alfred,Ryder,,False
+1986,Spring,Judy K.,Sallee,,False
+1986,Spring,Laura Fern,Savary,,False
+1986,Spring,Edwin Ayres,Scales,III,False
+1986,Spring,Lee H.,Scott,,True
+1986,Spring,Eric Dean,Shatanof,,False
+1986,Spring,Audie,Shuler,,True
+1986,Spring,William Gary,Simmons,,False
+1986,Spring,Bryan,Simpson,,True
+1986,Spring,James Sanford,Sirkis,,False
+1986,Spring,Raymond James,Smets,,False
+1986,Spring,Timothy Carter,Smith,,False
+1986,Spring,Michael P.,Spellman,,False
+1986,Spring,Sharon L.,Spence,,False
+1986,Spring,Rober R.,Sprole,III,False
+1986,Spring,Michael Alton,Stephens,,False
+1986,Spring,Gregory Evans,Stewart,,False
+1986,Spring,O. Ross,Thompson,,False
+1986,Spring,John Stewart,Tiffin,,False
+1986,Spring,Glenn Alan,Tootle,,False
+1986,Spring,Peter Bene,Vlcek,,False
+1986,Spring,Carl Ann,Wajdowicz,,False
+1986,Spring,Jeffrey James,Weibel,,False
+1986,Spring,William Robert,Williams,II,False
+1986,Spring,Allen Conrad,Wohlwend,,False
+1986,Spring,Mark Edward,Yegge,,False
+1986,Fall,Bradford Enlow,Abbrell,,False
+1986,Fall,Christena,Albrighton,,False
+1986,Fall,Thomas P.,Armstrong,,False
+1986,Fall,Roderick Xavier,Brown,,False
+1986,Fall,Matthew M.,Canfield,,False
+1986,Fall,Eduard Jose,Cardenal,,False
+1986,Fall,Bhan Keith,Cardin,,False
+1986,Fall,Luwell,Collie,,False
+1986,Fall,John Christopher,Daly,,False
+1986,Fall,Thomas A.,Delegal,III,False
+1986,Fall,Phillip Steven,Dingle,,False
+1986,Fall,Lisa Ann,Epstein,,False
+1986,Fall,Jill Ann,Feldman,,False
+1986,Fall,Scott T.,Foreman,,False
+1986,Fall,Jeffrey Larry,Fuller,,False
+1986,Fall,Trica Ann,Garcia,,False
+1986,Fall,Kelley,Garaghty,,False
+1986,Fall,Paul Raymond,Gianneschi,,False
+1986,Fall,Merile Juanita,Glover,,False
+1986,Fall,William Barley,Haas,,False
+1986,Fall,Francoise A.,Hartley,,False
+1986,Fall,Michelle,Henderson,,False
+1986,Fall,Terrance Rue Lane,Kindred,Jr.,False
+1986,Fall,Joe,Kivett,,False
+1986,Fall,Mark Allen,Krill,,False
+1986,Fall,Gerald Ralph,Kunde,II,False
+1986,Fall,Paula Pratt,Lightsey,,False
+1986,Fall,Thomas John,Mannarino,,False
+1986,Fall,Kimberly Ann,Michaels,,False
+1986,Fall,Michael J.,Mikuliza,,False
+1986,Fall,Mark,Oh,,False
+1986,Fall,Gregory Mark,Ott,,False
+1986,Fall,Gregg Allen,Page,,False
+1986,Fall,Michelle M.,Pearsons,,False
+1986,Fall,Lisa Epstein,Pearson,,False
+1986,Fall,Mary Catherine,Peters,,False
+1986,Fall,Amy Lyn,Potter,,False
+1986,Fall,Paula,Pratt,,False
+1986,Fall,Laura Katherine,Rickey,,False
+1986,Fall,Derrick Wayne,Roberts,,False
+1986,Fall,John Michael,Roberts,,False
+1986,Fall,Carl David,Roston,,False
+1986,Fall,Laura Suzanne,Rowe,,False
+1986,Fall,Kirk Alton,Ruth,,False
+1986,Fall,Brian K.,Sayre,,False
+1986,Fall,Pamela Jane,Schmitt,,False
+1986,Fall,John Leslie,Scott,,False
+1986,Fall,Janet Lee,Sheldon,,False
+1986,Fall,Patrick Darien,Snyder,,False
+1986,Fall,Marc Allen,Spencer,,False
+1986,Fall,Loreen Marie,Tressler,,False
+1986,Fall,Kimberly A.,Ventre,,False
+1986,Fall,Kimberly A.,Vickery,,False
+1986,Fall,Jhuan Andimlo,Vitali,,False
+1986,Fall,William Bradbury,Walker,,False
+1986,Fall,Christopher Lawrence,Weaver,,False
+1986,Fall,Robert B.,Worobec,,False
+1987,Spring,Kathleen Renee,Acquino,,False
+1987,Spring,Sylvia,Alberdi,,True
+1987,Spring,David Craig,Albert,,False
+1987,Spring,Tracy Kenean,Arthur,,False
+1987,Spring,Donna Marie,Bartee,,False
+1987,Spring,David G.,Bates,,False
+1987,Spring,Robert Neil,Becker,Jr.,False
+1987,Spring,Juan Megan,Carol,,False
+1987,Spring,Karen Ann,Caudill,,False
+1987,Spring,Patrick Conway,Comiskey,,False
+1987,Spring,Daniel Allen,Crawford,,False
+1987,Spring,Cherly Lisa,Curtis,,False
+1987,Spring,C. Welborn,Daniel,,True
+1987,Spring,Laurie Helene,Davidson,,False
+1987,Spring,Bruce Howard,Denson,,False
+1987,Spring,Jacqueline Hilary,Dowo,,False
+1987,Spring,Maryanne,Downs,,False
+1987,Spring,John Hugh,Dyer,Jr.,False
+1987,Spring,Peter T.,Fay,,True
+1987,Spring,Elaine,Gordon,,True
+1987,Spring,John David,Gronto,,False
+1987,Spring,David Kirk,Gunby,IV,False
+1987,Spring,Gary John,Hellender,,False
+1987,Spring,Reginald Dwayne,Hicks,,False
+1987,Spring,Christopher,Hill,,False
+1987,Spring,Mark Calvin,Huaman,,False
+1987,Spring,Janice Loi,Innis-Thompson,,False
+1987,Spring,Bradley R.,Johnson,,False
+1987,Spring,David Cyril,Knapp,,False
+1987,Spring,Stephanie Carla,Lowell,,False
+1987,Spring,Mindi,McManus,,False
+1987,Spring,Susan Jeryl,Musson,,False
+1987,Spring,J.B.,Murphy,Jr.,False
+1987,Spring,Karen M.,Nissen,,True
+1987,Spring,Michelle Benedict,Nowlin,,False
+1987,Spring,James H.,Pugh,Jr.,True
+1987,Spring,Jaimie Harrison,Reilly,,False
+1987,Spring,Valerie Lynn,Stoker,,False
+1987,Spring,Peter Joseph,Sullivan,,False
+1987,Spring,Antwan L.,Treadway,,False
+1987,Spring,Shari Lyn,Tubero,,False
+1987,Spring,John Vincent,Tucker,,False
+1987,Spring,David Lawrence,Weiss,,False
+1987,Spring,Norma Kay,Wenot,,False
+1987,Spring,Troy,Willingham,,False
+1987,Spring,Peter,Woodruff,,False
+1987,Spring,Wayne Courtney,Wooten,,False
+1987,Spring,Richard Steven,Wright,,False
+1987,Fall,Robert J.,Bigge,Jr.,False
+1987,Fall,Thomas Edward,Bishop,,False
+1987,Fall,Bonnie Jo,Brown,,False
+1987,Fall,Steven David,Corson,,False
+1987,Fall,Manhew Kirk,Crist,,False
+1987,Fall,Kim H.,Cullen,,False
+1987,Fall,James H.,Daniel,,False
+1987,Fall,Michael,DeLeonardo,,False
+1987,Fall,Patricia Maria,Dingam,,False
+1987,Fall,Patricia Dingam,Donaldson,,False
+1987,Fall,Jimmy,Ebersole,,False
+1987,Fall,Julie,Geisenburg,,False
+1987,Fall,Lori Beth,Gergick,,False
+1987,Fall,Jennifer,Gerkin,,False
+1987,Fall,Timothy Newton,Geske,,False
+1987,Fall,Thomas E.,Gilfix,,False
+1987,Fall,Christine Lynne,Girdler,,False
+1987,Fall,Joseph K.,Glorfield,,False
+1987,Fall,Daniel Mark,Goldberg,,False
+1987,Fall,Debbie,Grassgreen,,False
+1987,Fall,Gregory C.,Hackley,,False
+1987,Fall,Deborah Ann,Harris,,False
+1987,Fall,Arthur F.,Heller,,False
+1987,Fall,Craig Richard,Horne,,False
+1987,Fall,Timothy Bernard,Jackson,,False
+1987,Fall,Cheri Robin,Lazar,,False
+1987,Fall,Beth Lynn,Macauley,,False
+1987,Fall,Scott Douglas,Makar,,False
+1987,Fall,Beth L.,Martin,,False
+1987,Fall,Michael W.,McCallum,,False
+1987,Fall,Mia L.,McKown,,False
+1987,Fall,Molly Kay,Meade,,False
+1987,Fall,Marlie Margaret,Medolla,,False
+1987,Fall,Amy,Miller,,False
+1987,Fall,Patricia M.,Mitchell,,False
+1987,Fall,Debra Lynn,Mobley,,False
+1987,Fall,Gina Noel,Naccarato,,False
+1987,Fall,Chrissy,Papadopoulos,,False
+1987,Fall,Terese Denese,Parnell,,False
+1987,Fall,Alan Matthew,Pickert,,False
+1987,Fall,Clayton Thomas,Proulx,,False
+1987,Fall,Barbara E.,Rogers,,False
+1987,Fall,Brian Jeffrey,Singer,,False
+1987,Fall,Peter Anthony,Stanham,,False
+1987,Fall,Charles Hal,Swan,,False
+1987,Fall,Davied Barkley,Switalski,,False
+1987,Fall,Patricia Marie,Tapley,,False
+1987,Fall,Kimberlee A.,Tillman,,False
+1987,Fall,Susan L.,Turner,,False
+1987,Fall,Kimberly Diane,Tyree,,False
+1987,Fall,Tracy Michele,Tyree,,False
+1987,Fall,Lorin,Ullman,,False
+1987,Fall,Melissa A.,Warren,,False
+1987,Fall,Richard A.,Watts,,False
+1987,Fall,Jeffrey S.,Weiss,,False
+1987,Fall,Carol Ann,Wilde,,False
+1987,Fall,John,Willis,Jr.,False
+1988,Spring,Maha G.,Zamora,,False
+1988,Spring,Cathlene C.,Abreu,,False
+1988,Spring,Jack,Battenfield,,True
+1988,Spring,Carl A.,Bergeron,,False
+1988,Spring,Fletcher,Blackburn,,False
+1988,Spring,Carrie B.,Boucher,,False
+1988,Spring,Thomas A.,Boyer,Jr.,False
+1988,Spring,Gerorge Rowland,Brown,,False
+1988,Spring,Elizabeth,Carnero,,False
+1988,Spring,James H.,Chin,,False
+1988,Spring,Catherine C.,Conkling,,False
+1988,Spring,Paula,Criser,,True
+1988,Spring,Ralph Eric,Criss,,False
+1988,Spring,David A.,Crounse,,False
+1988,Spring,Bruce James,Culpepper,,False
+1988,Spring,Kathleen,Deaen,,False
+1988,Spring,Mark,Delagal,,False
+1988,Spring,Robert Joseph,Falcone,,False
+1988,Spring,Carinda,Field,,False
+1988,Spring,Sheri,Ford,,False
+1988,Spring,Robert Jefiery,Gans,,False
+1988,Spring,Laura,Gowen,,False
+1988,Spring,David,Hendon,,True
+1988,Spring,Robert Paul,Kelley,,False
+1988,Spring,Sean,Kerwin,,False
+1988,Spring,Daniel L.,Kirby,Jr.,False
+1988,Spring,Alan M.,Levine,,False
+1988,Spring,Olive Smith,MacKenzie,,False
+1988,Spring,Mary Shelia,McFadden,,False
+1988,Spring,Michael,McFall,,True
+1988,Spring,Mary Beth,Pearson,,False
+1988,Spring,Lisa Marie,Pizura,,False
+1988,Spring,Jack,Richardson,,False
+1988,Spring,Joan,Ruffier,,True
+1988,Spring,Richard A.,Suss,,False
+1988,Spring,Daniel Alfred,Tardos,,False
+1988,Spring,Loring Wright,Tilley,,False
+1988,Spring,John,Vought,,True
+1988,Spring,Mary Cynthia,Walker,,False
+1988,Spring,John Scoff,Washburn,,False
+1988,Spring,Jacqueline J.,Weaver,,False
+1988,Spring,Norman Earle,Weddenburn,,False
+1988,Spring,Kerry Sue,Young,,False
+1988,Fall,Juan Carlos,Barinaga,,False
+1988,Fall,Kyle Dixon,Bassett,,False
+1988,Fall,Susan Ellen,Bates,,False
+1988,Fall,Brooke Elizabeth,Batten,,False
+1988,Fall,Morgan Ray,Bentley,,False
+1988,Fall,James Powell,Brown,,False
+1988,Fall,Michael Gregory,Browne,,False
+1988,Fall,Cynthia Kay,Brumbaum,,False
+1988,Fall,A. Dean,Cannon,Jr.,False
+1988,Fall,Harold Joseph,Cates,,False
+1988,Fall,Lee W,Catledge,,False
+1988,Fall,Richard M.,Chapman,Jr.,False
+1988,Fall,Kimberly C.,Codol,,False
+1988,Fall,Adam Craig,Davis,,False
+1988,Fall,Angela S.,Effinger,,False
+1988,Fall,William L.,Epstein,,False
+1988,Fall,Howard O.,Fish,,False
+1988,Fall,John Hendrix,Fitzgerald,,False
+1988,Fall,Stephany Carole,Futch,,False
+1988,Fall,Albert William,Goede,,False
+1988,Fall,Kathleen Rose,Greeley,,False
+1988,Fall,Richard C.,Griffin,Jr.,False
+1988,Fall,Brian Charles,Guenther,,False
+1988,Fall,James A.,Hanneman,,False
+1988,Fall,Daniel Michael,Harbour,,False
+1988,Fall,Margaret M.,Howard,,False
+1988,Fall,Kathy R.,Jacobs,,False
+1988,Fall,Kristy Dale,Janda,,False
+1988,Fall,Jerome F.,Kempton,,False
+1988,Fall,Mark Scott,Kluger,,False
+1988,Fall,Lynn Kimberly,Lewis,,False
+1988,Fall,Laura Michelle,Lodato,,False
+1988,Fall,Erin Marie,Malloy,,False
+1988,Fall,Christophe C.,Marich,,False
+1988,Fall,John Patrick,McGrath,,False
+1988,Fall,Keryy,McGuire,,False
+1988,Fall,Janeen Phylis,Medler,,False
+1988,Fall,Vivian,Menge,,False
+1988,Fall,Nicholas G.,Milano,,False
+1988,Fall,Ron Mark,Minkoff,,False
+1988,Fall,Susan E.,Oyer,,False
+1988,Fall,George,Pollock,Jr.,False
+1988,Fall,W. Scoff,Powell,,False
+1988,Fall,Trine Lynn,Priede,,False
+1988,Fall,Elizabeth Jan,Rice,,False
+1988,Fall,Melanie,Ridge,,False
+1988,Fall,Douglas Arthur,Roach,,False
+1988,Fall,Kristen Denise,Roy,,False
+1988,Fall,Denise Olivia,Simpson,,False
+1988,Fall,Pat,Siarcusa,,False
+1988,Fall,Susan Kinsey,Smoot,,False
+1988,Fall,Robert J.,Sniffen,,False
+1988,Fall,Helen Ann,Stefan,,False
+1988,Fall,Scott Edward,Stowell,,False
+1988,Fall,Glenna Korinne,Thornton,,False
+1988,Fall,James Louis,Vincent,,False
+1988,Fall,Lynda Marie,Wasula,,False
+1988,Fall,Karlyn Elain,Watson,,False
+1988,Fall,John Burnett,Weber,,False
+1988,Fall,David Lawrence,Winialski,,False
+1988,Fall,David A.,Winton,,False
+1988,Fall,Robin Michelle,Wrinn,,False
+1988,Fall,Maurice Edgar,Young,,False
+1989,Spring,John Charles,Allen,,False
+1989,Spring,Julie,Bach,,False
+1989,Spring,Thomas H.,Burkoull,,True
+1989,Spring,Geoffrey Phillip Randall,Becker,,False
+1989,Spring,Caryl B.,Brown,,False
+1989,Spring,Brant Allan,Brubaker,,False
+1989,Spring,Laurey Sheldon,Carpenter,,False
+1989,Spring,Karen Elizabeth,Carmona,,False
+1989,Spring,Yolanda Marisa,Cash,,False
+1989,Spring,Joseph Stephen,Cronk,,False
+1989,Spring,John Peter,David,,False
+1989,Spring,Snead Y.,Davis,,True
+1989,Spring,Stephen J.,DeMontmollin,,True
+1989,Spring,Julie A.,Dixon,,False
+1989,Spring,T. Oneal,Douglas,,True
+1989,Spring,Lisa Marie,Doyle,,False
+1989,Spring,Darlene Marie,Edic,,False
+1989,Spring,Stacey,Engelberg,,False
+1989,Spring,D. Thorpe,Foster,,False
+1989,Spring,Gina,Fridella,,False
+1989,Spring,Randall C.,Gresset,,False
+1989,Spring,Christopher J.,Hamilton,,False
+1989,Spring,Valerie L.,Hartung,,False
+1989,Spring,Corrine,Heller,,False
+1989,Spring,Michael John,Horner,,False
+1989,Spring,Lisa Mary,Iler,,False
+1989,Spring,Rachael L.,Jackson,,False
+1989,Spring,William Carl,Johnson,Jr.,False
+1989,Spring,Robert Todd,Jones,,False
+1989,Spring,Christopher Michael,Kendall,,False
+1989,Spring,Gregory O.,Kirby,,False
+1989,Spring,Kenneth David,Kossow,,False
+1989,Spring,William Wells,Large,,False
+1989,Spring,Gregory A.,Lawrence,,False
+1989,Spring,Gary Richard,LoDuca,,False
+1989,Spring,Kelly Ann,Marshall,,False
+1989,Spring,Maurice E.,Mayberry,,True
+1989,Spring,William Budd,Moore,,False
+1989,Spring,Scott,Morrison,,False
+1989,Spring,Kara Elizabeth,Moat,,False
+1989,Spring,Teresa M.,Mullican,,False
+1989,Spring,Julie Ann,Oldhan,,False
+1989,Spring,Michael M.,Puckett,,False
+1989,Spring,Michael Joseph,Puleo,,False
+1989,Spring,Frank,Rahmani,,False
+1989,Spring,Joseph L.,Regna,,True
+1989,Spring,William H.,Rogner,,False
+1989,Spring,Jason J.,Rosenberg,,False
+1989,Spring,Thomas,Santilli,,False
+1989,Spring,Dr. Gerold L.,Schiebler,,True
+1989,Spring,Christopher J.,Schulte,,False
+1989,Spring,Sean Padraig,Schwinghammer,,False
+1989,Spring,Laurey Ann,Sheldon,,False
+1989,Spring,Iris,Sockel,,False
+1989,Spring,David A.,Spain,,False
+1989,Spring,Mary Katherine,Stanley,,False
+1989,Spring,Heather A.,Stein,,False
+1989,Spring,Beverly Ann,Tahan,,False
+1989,Spring,Milo Scott,Thomas,,False
+1989,Spring,Jana Lynn,Underhill,,False
+1989,Spring,Marc Douglas,Vail,,False
+1989,Spring,Jack Adam,Weiss,,False
+1989,Fall,Charles Warner,Arnold,III,False
+1989,Fall,Gary A.,Brooks,,False
+1989,Fall,Chritine E.,Conkling,,False
+1989,Fall,Robert Jackson,Crim,,False
+1989,Fall,Melissa Vevette,Ferweada,,False
+1989,Fall,Bruce M.,Harris,,False
+1989,Fall,Jennifer Lynn,Hernoon,,False
+1989,Fall,Kathryn Meredith,Kersey,,False
+1989,Fall,Christina,Martinez,,False
+1989,Fall,Angela Rose,Maun,,False
+1989,Fall,W. Todd,Menke,,False
+1989,Fall,Stephen Douglas,Murray,,False
+1989,Fall,Stephanie G.,Nelson,,False
+1989,Fall,David Neal,Stern,,False
+1989,Fall,Joy Elisa,Taylor,,False
+1989,Fall,Timothy John,Templeton,,False
+1989,Fall,Joseph Matthew,Touger,,False
+1989,Fall,Jennifer A.,Walter,,False
+1989,Fall,Catherine,Watson,,False
+1989,Fall,Deborah,Wick,,False
+1989,Fall,Amy,Zorovich,,False
+1990,Spring,Richard R.,Alexander,,False
+1990,Spring,A. Troy,Atlas,,False
+1990,Spring,Heidi Marie,Bentel,,False
+1990,Spring,Ross Logan,Bilbrey,,False
+1990,Spring,Rika,Canin,,False
+1990,Spring,Timothy M.,Cerio,,False
+1990,Spring,Timothy O.,Crowley,,False
+1990,Spring,Cathy,Cupps,,False
+1990,Spring,Betsy,Gardner,,False
+1990,Spring,Nicole,Gottlieb,,False
+1990,Spring,Jeanette,Grant,,False
+1990,Spring,Tracey,Helgreen,,False
+1990,Spring,Douglas,Hoffman,,False
+1990,Spring,France,Houdard,,False
+1990,Spring,Cathy,Hufford,,False
+1990,Spring,Frankie,Jefferson,,False
+1990,Spring,William C.,Johnson,,True
+1990,Spring,Kristine M.,Lambert,,False
+1990,Spring,Tony,Leon,,False
+1990,Spring,William,Lloyd,,True
+1990,Spring,Pam,Markley,,False
+1990,Spring,Julie Schwaderer,McGrath,,False
+1990,Spring,Larry Paul,Medvinsky,,False
+1990,Spring,James,Moore,,False
+1990,Spring,Sean,Moore,,False
+1990,Spring,Pam Markley,Morgan,,False
+1990,Spring,Ed,Mullins,,False
+1990,Spring,John C.,Norris,,False
+1990,Spring,James L.,O'Leary,,False
+1990,Spring,Alan S.,Pareira,,True
+1990,Spring,Adam Seth,Pearlman,,False
+1990,Spring,Brian,Rianhard,,False
+1990,Spring,Wade,Ricketson,,False
+1990,Spring,Sherri,Rydensky,,False
+1990,Spring,Merit,Schrotel,,False
+1990,Spring,Julie,Schwaderer,,False
+1990,Spring,Steven J.,Solomon,,False
+1990,Spring,Douglas,Stoker,,False
+1990,Spring,Daren Lee,Thomas,,False
+1990,Spring,Amira,Trebincevic,,False
+1990,Spring,Kim,Weiss,,False
+1990,Spring,Scott O.,Weller,,False
+1990,Fall,Paul Joseph,Ahmed,,False
+1990,Fall,Valeri T.,Alexander,,False
+1990,Fall,Andrew L.,Asher,,False
+1990,Fall,Robert,Bedford,,False
+1990,Fall,James G.,Biggart,II,False
+1990,Fall,Elizabeth C.,Bowyer,,False
+1990,Fall,Herman John,Brames,Jr.,False
+1990,Fall,Richard,Brilliant,,False
+1990,Fall,Steven A.,Brown,,False
+1990,Fall,John Christopher,Capece,,False
+1990,Fall,Jason H.,Cherner,,False
+1990,Fall,Patrick L.,Chesley,,False
+1990,Fall,Christopher Allan,Cobb,,False
+1990,Fall,Elisha Lyn,Cohen,,False
+1990,Fall,A. Cannon,Coleman,II,False
+1990,Fall,Brian David,Collier,,False
+1990,Fall,John Broward,Culpepper,II,False
+1990,Fall,Clifford C.,Daniels,,False
+1990,Fall,Charles J.,Evans,Jr.,False
+1990,Fall,Pual M.,Faver,,False
+1990,Fall,Damian Mark,Fletcher,,False
+1990,Fall,Pete,Fox,,False
+1990,Fall,Sherri Lyn,Fried,,False
+1990,Fall,James Edward,Gadsby,,False
+1990,Fall,Erin,Geraghty,,False
+1990,Fall,Sharon,Gossett,,False
+1990,Fall,Anuj,Grover,,False
+1990,Fall,Jake,Jackson,,False
+1990,Fall,Scott A.,Kicker,,False
+1990,Fall,Pam,Kleban,,False
+1990,Fall,Deborah,Koch,,False
+1990,Fall,Lynn,Levarge,,False
+1990,Fall,Chris Charles,Lucas,,False
+1990,Fall,Marc L.,Meisel,,False
+1990,Fall,J. Andrew,Meyer,,False
+1990,Fall,Leslie,Novell,,False
+1990,Fall,Kenny,Nunamaker,,False
+1990,Fall,Michael,Ory,,False
+1990,Fall,Dawn M.,Peters,,False
+1990,Fall,Allen Eugene,Phinney,,False
+1990,Fall,Guy Clark,Rawlings,,False
+1990,Fall,David J.,Rice,,False
+1990,Fall,Huey L.,Richardson,Jr.,False
+1990,Fall,Glenn A.,Shapiro,,False
+1990,Fall,Scott,Shear,,False
+1990,Fall,Jason,Unger,,False
+1990,Fall,Joseph G.,Wamsley,,False
+1991,Spring,Darren A.,Anderson,,False
+1991,Spring,Bret,Berlin,,False
+1991,Spring,Michael,Bilirakis,,True
+1991,Spring,Miham,Bofshever,,False
+1991,Spring,Alexis Pauline,Brooks,,False
+1991,Spring,Thomas Danton,Bussing,,False
+1991,Spring,Louise,Courtelis,,True
+1991,Spring,A. Michelle,Covington,,False
+1991,Spring,Kenneth,Davis,,False
+1991,Spring,Nicole Amy,Diamond,,False
+1991,Spring,Kenneth Ravenelle,Dishman,III,False
+1991,Spring,Dana Lee,Draper,,False
+1991,Spring,Rep. David,Flagg,,True
+1991,Spring,Amy Elizabeth,George,,False
+1991,Spring,Matthew H.,Gordon,,False
+1991,Spring,Mitchell S.,Greenberg,,False
+1991,Spring,Illya Fitzgerald,Hathorn,,False
+1991,Spring,Gene W.,Hemp,,True
+1991,Spring,Karen,Hertz,,False
+1991,Spring,Thanh T.,Higginbotham,,False
+1991,Spring,Mary Frances,Honeywell,,False
+1991,Spring,Martha A.,Hunter,,False
+1991,Spring,Edward Lee,Jennings,Jr.,False
+1991,Spring,Leonard H.,Johnson,,True
+1991,Spring,Ronald S.,Kozlin,,False
+1991,Spring,William E.,Ladson,,False
+1991,Spring,Allen L.,Lastinger,,True
+1991,Spring,David,Lawrence,,True
+1991,Spring,Lame,Levarge,,False
+1991,Spring,Karl M.,Leibman,,False
+1991,Spring,Leah,Lightsey,,False
+1991,Spring,Victor,Malo,,False
+1991,Spring,Kimberly,Martin,,False
+1991,Spring,Justice Parker Lee,McDonald,,True
+1991,Spring,Nelson,Miranda,,False
+1991,Spring,Nat,Moore,,True
+1991,Spring,Myra,Morgan,,True
+1991,Spring,Honorable Stan M.,Morris,,True
+1991,Spring,Rosianna Roxy,Oliver,,False
+1991,Spring,David S.,Patterson,,False
+1991,Spring,Allison,Pope,,False
+1991,Spring,Matthew,Posgay,,False
+1991,Spring,Jill K.,Price,,False
+1991,Spring,Robert H.,Pritchard,,False
+1991,Spring,Kane M.,Radebaugh,,False
+1991,Spring,Suzanne,Rogoff,,False
+1991,Spring,J.J.,Schikell,Jr.,False
+1991,Spring,Ross,Schilling,,False
+1991,Spring,Susan,Schatzberg,,False
+1991,Spring,Jennifer L.,Slone,,False
+1991,Spring,Lise Anne,Smith,,False
+1991,Spring,Kevin Fitzgerald,Sweeeny,,False
+1991,Spring,Adam S.,Tenenbaum,,False
+1991,Spring,Tiffany Leigh,Thompson,,False
+1991,Spring,Howard Christopher,Tompkins,II,False
+1991,Spring,Vincent,Turturro,,False
+1991,Spring,Karen Hertz,Unger,,False
+1991,Spring,Deborah,Vandroff,,False
+1991,Spring,Richard,Vermut,,False
+1991,Spring,Albert,Wehlburg,,True
+1991,Spring,Bradd Lewis,Weinberg,,False
+1991,Spring,J.C.,Wells,,False
+1991,Spring,Ronald Chirstopher,Williams,,False
+1991,Spring,Rosa,Williams,,True
+1991,Spring,Jennifer Anne,Wilson,,False
+1991,Spring,Steven,Wingo,,False
+1991,Fall,Jason Scott,Barak,,False
+1991,Fall,Bruce Alan,Barnard,,False
+1991,Fall,Bethany Ann,Beatty,,False
+1991,Fall,Christopher A.,Cammarano,,False
+1991,Fall,Kristin M.,Carter,,False
+1991,Fall,Monica Brooke Frakes,Culpepper,,False
+1991,Fall,Tern A.,Day,,False
+1991,Fall,Jennifer C.,Dee,,False
+1991,Fall,Cynthia,Demos,,False
+1991,Fall,Scott F.,Eldaidge,,False
+1991,Fall,Eric John,Enrique,,False
+1991,Fall,Gilbert L.,Feltel,,False
+1991,Fall,Jamie T.,Foreman,,False
+1991,Fall,Monica Brooke,Frakes,,False
+1991,Fall,Johnathan,Gordon,,False
+1991,Fall,Phillippe T.,Houdard,,False
+1991,Fall,Kristen J.,Howatt,,False
+1991,Fall,P. Christopher,Jaensch,,False
+1991,Fall,Jason Zachary,Jones,,False
+1991,Fall,Jennifer B.,Kamstock,,False
+1991,Fall,Susan Marie,Kisseil,,False
+1991,Fall,Ross Andrew,Kotkin,,False
+1991,Fall,Kenneth S.,Kurzwell,,False
+1991,Fall,David Randall,Lane,,False
+1991,Fall,Elizabeth H.,McArthur,,False
+1991,Fall,Heather,McKenzie,,False
+1991,Fall,William Campbell,McLean,IV,False
+1991,Fall,Michael J.,Napleone,,False
+1991,Fall,Hames Eric,Pridgeon,,False
+1991,Fall,Toni B.,Prophitt,,False
+1991,Fall,Denise Rene,Russo,,False
+1991,Fall,Shawn B.,Schaager,,False
+1991,Fall,Kristina Renee,Scott,,False
+1991,Fall,Deanna,Smith,,False
+1991,Fall,Sharon Lee,Springrose,,False
+1991,Fall,Christine E.,Stratton,,False
+1991,Fall,John Paul,Stump,,False
+1991,Fall,J. Dean,Tilman,IV,False
+1991,Fall,Pamela Eleanor,Titus,,False
+1991,Fall,Yvette,Trelles,,False
+1991,Fall,Mark Alan,Trowbaidge,,False
+1991,Fall,Andrea Lynn,Valdyke,,False
+1991,Fall,Craig O.,Varn,,False
+1991,Fall,Jennifer A.,Westfall,,False
+1991,Fall,Tad Alien,Yates,,False
+1992,Spring,Mark Allen,Abdoney,,False
+1992,Spring,Steven,Andrews,,False
+1992,Spring,William,Barnett,,True
+1992,Spring,Joel,Buchanan,,True
+1992,Spring,Brain David,Burgoon,,False
+1992,Spring,Daryl L.,Cleveland,,False
+1992,Spring,Laighton,Cluff,,True
+1992,Spring,"Virginia ""Pep""",Culpepper,,True
+1992,Spring,Adam Bryant,Cohen,,False
+1992,Spring,Lawrence Hossain,Collins,,False
+1992,Spring,Marc Johnson,Criser,,False
+1992,Spring,Ronald E.,Crosby,,False
+1992,Spring,Sean,Demartino,,False
+1992,Spring,DeAnn Michelle,Devault,,False
+1992,Spring,O. Greggory,Diamond,,False
+1992,Spring,Dood M.,Disler,,False
+1992,Spring,Peter Max,Fallon,,False
+1992,Spring,Robert,Fernandez,,True
+1992,Spring,Jeremy,Foley,,True
+1992,Spring,Christopher Burr,Gardner,,False
+1992,Spring,Kristin A.,Gautsch,,False
+1992,Spring,Ivy Rachael,Harris,,False
+1992,Spring,Marcclous M.,Harris,,False
+1992,Spring,Jeffrey Wayne,Johnson,,False
+1992,Spring,Joseph Hagedorn,Lang,Jr.,False
+1992,Spring,Elisa Michelle,Lauderdale,,False
+1992,Spring,Jennifer Marie,Loeb,,False
+1992,Spring,Amy Scott,Lowones,,False
+1992,Spring,Kevin M.,Mayeux,,False
+1992,Spring,Sheila A.,McGrady,,False
+1992,Spring,Gillian Felicia,Mcintosh,,False
+1992,Spring,Christopher A.,Meyer,,False
+1992,Spring,Camilo E.,Munoz,,False
+1992,Spring,Brett,Norensberg,,False
+1992,Spring,Susan A.,O'Neal,,False
+1992,Spring,James Alexander,Patton,Jr.,False
+1992,Spring,Johnathan Charles,Pavony,,False
+1992,Spring,Meredith,Phillips,,False
+1992,Spring,Richard J.,Plotkin,,False
+1992,Spring,Melissa,Sandefeur,,False
+1992,Spring,Forrest,Sawyer,,True
+1992,Spring,William T. K.,Schmidt,,False
+1992,Spring,Melissa,Shorey,,False
+1992,Spring,Laura E.,Solis,,False
+1992,Spring,George,Starke,,True
+1992,Spring,Thomas He,Thurlow,III,False
+1992,Spring,Diane A.,Tomlinson,,False
+1992,Spring,Lori Ann,Walker,,False
+1992,Spring,Rick O.,Wells,,False
+1992,Spring,Randi Brent,Whitehead,,False
+1992,Spring,James O.,Young,,False
+1992,Fall,Marc,Azar,,False
+1992,Fall,Ellen,Bailey,,False
+1992,Fall,Douglas,Band,,False
+1992,Fall,Jill,Baanholtz,,False
+1992,Fall,Jeff,Battel,,False
+1992,Fall,Stephanie,Batista,,False
+1992,Fall,Jennifer,Boaroman,,False
+1992,Fall,Jennifer,Briener,,False
+1992,Fall,Woodrow,Carlisle,,False
+1992,Fall,Rick,Chaves,,False
+1992,Fall,Ed,Cole,,False
+1992,Fall,Blair,Culpepper,,False
+1992,Fall,Steven,Diebenow,,False
+1992,Fall,Sean,Dillon,,False
+1992,Fall,John,Dotto,,False
+1992,Fall,McKay,Drake,,False
+1992,Fall,Christina,Etter,,False
+1992,Fall,Tern,Feldman,,False
+1992,Fall,Brian,Ferber,,False
+1992,Fall,Greg,Francis,,False
+1992,Fall,Richard,Fueyo,,False
+1992,Fall,Barry,Gould,,False
+1992,Fall,Melissa,Hagy,,False
+1992,Fall,Mark,Hancock,,False
+1992,Fall,Lyn,Harris,,False
+1992,Fall,Lou,Hayden,,False
+1992,Fall,Laurie,Hoffman,,False
+1992,Fall,Scott,Jordan,,False
+1992,Fall,Ernie,Kapanke,,False
+1992,Fall,Richard,Kido,,False
+1992,Fall,Margaret,Marshall,,False
+1992,Fall,Blake,Mason,,False
+1992,Fall,Shane,Matthews,,False
+1992,Fall,Jenny Ellen,Miller,,False
+1992,Fall,Caroline,Montanus,,False
+1992,Fall,Sean,Moyles,,False
+1992,Fall,Julie,Nelson,,False
+1992,Fall,Daniel,Pardue,,False
+1992,Fall,Vivian,Quesada,,False
+1992,Fall,Aaron,Ray,,False
+1992,Fall,Marshall,Rothman,,False
+1992,Fall,Brendon,Shortley,,False
+1992,Fall,Paul,Seago,,False
+1992,Fall,Brian,Siemienas,,False
+1992,Fall,Brian,Smith,,False
+1992,Fall,Rex,Stephens,,False
+1992,Fall,Marshall,Stevens,,False
+1992,Fall,Joshua,Weingard,,False
+1992,Fall,Rod,Whited,,False
+1993,Spring,Benjamin L.,Bedard,,False
+1993,Spring,Monica L.,Bentham,,False
+1993,Spring,Tyra T.,Brown,,False
+1993,Spring,Paul,Bryan,,False
+1993,Spring,Barney L.,Capehart,,True
+1993,Spring,Edward B.,Carlstedt,,False
+1993,Spring,Anthony G.,Ciavarelli,III,False
+1993,Spring,Matthew A.,Cole,,False
+1993,Spring,John,Connery,Jr.,False
+1993,Spring,Laura Lynn,Cox,,False
+1993,Spring,Barry B.,Diamond,,True
+1993,Spring,Patricia R.,Duffy,,False
+1993,Spring,Nicole L.,Finerty,,False
+1993,Spring,Christopher N.,Fraser,,False
+1993,Spring,Matthew G.,Freedman,,False
+1993,Spring,Jonathan O.,Gerber,,False
+1993,Spring,Vincent E.,Giglio,,True
+1993,Spring,Howard L.,Glass,,False
+1993,Spring,Max A.,Holcher,II,False
+1993,Spring,Leh E.,Hutton,,False
+1993,Spring,Matthew C.,Kotzen,,False
+1993,Spring,Linda Marie,McGrady,,False
+1993,Spring,Honorable Stephan,P.,,True
+1993,Spring,,Mickle,,False
+1993,Spring,Alan C.,Moore,,True
+1993,Spring,Scott Dorian,Myers,,False
+1993,Spring,Christopher,Nash,,False
+1993,Spring,Michael James,Palermo,,False
+1993,Spring,Winfred,Phillips,,True
+1993,Spring,Jay P. W.,Philip,,False
+1993,Spring,Laura M.,Ramay,,False
+1993,Spring,Turhan E.,Robinson,,False
+1993,Spring,David Marc,Seifer,,False
+1993,Spring,Tara Renee,Taylor,,False
+1993,Spring,Brandy Ellen,Upright,,False
+1993,Spring,Jennifer B.,Verstandig,,False
+1993,Spring,Stephanie J.,Waidner,,False
+1993,Spring,Ronnie H.,Walker,,True
+1993,Spring,Robert S.,Walmsley,,False
+1993,Spring,Timothy Wayne,Weber,,False
+1993,Spring,Denise F.,Weiler,,False
+1993,Fall,Lloyd,Alvarez,,False
+1993,Fall,Shannon,Bizzel,,False
+1993,Fall,Heather,Blanco,,False
+1993,Fall,Jennifer,Brown,,False
+1993,Fall,John,Buckles,,False
+1993,Fall,Thomas,Burnes,,False
+1993,Fall,Alexandra,Cabot,,False
+1993,Fall,Shannon,Cecchini,,False
+1993,Fall,Michael,Cohen,,False
+1993,Fall,Bobboy,Dubose,,False
+1993,Fall,Melissa,Evans,,False
+1993,Fall,Lisa Marie,Freitas,,False
+1993,Fall,David,Gainer,,False
+1993,Fall,Deveron,Gibbons,,False
+1993,Fall,Michael,Gilmore,,False
+1993,Fall,Hayes,Greep,,False
+1993,Fall,Randy,Gregson,,False
+1993,Fall,Adam,Hall,,False
+1993,Fall,Owen,Johnson,,False
+1993,Fall,Jeffrey,Jones,,False
+1993,Fall,Jack,Keller,,False
+1993,Fall,Karl,Klein,,False
+1993,Fall,Leslie,Lambert,,False
+1993,Fall,Steven,Malter,,False
+1993,Fall,Abram,Marsh,,False
+1993,Fall,William,Martin,,False
+1993,Fall,LaShawn,Mitchell,,False
+1993,Fall,Kenneth,Nanni,,False
+1993,Fall,Lance,Padgett,,False
+1993,Fall,Michael,Pardo,,False
+1993,Fall,Raul,Patel,,False
+1993,Fall,Chris,Peterson,,False
+1993,Fall,Emily,Port,,False
+1993,Fall,Riggany,Provence,,False
+1993,Fall,Paul,Scheck,,False
+1993,Fall,Alicia,Scott,,False
+1993,Fall,Keith,Shotzberger,,False
+1993,Fall,Rebecca,Spears,,False
+1993,Fall,Steven,Spence,,False
+1993,Fall,Sigird,Stone,,False
+1993,Fall,Jacob,Story,,False
+1993,Fall,Mike,Strange,,False
+1993,Fall,Monica,Taylor,,False
+1993,Fall,Carlina,Terrnana,,False
+1993,Fall,David,Terry,,False
+1993,Fall,Lara,Thompson,,False
+1993,Fall,Hoang,Vu,,False
+1993,Fall,Kelly,Waller,,False
+1993,Fall,Tara,Whetszel,,False
+1993,Fall,Jason,Woodmansee,,False
+1993,Fall,Robert,Zamore,,False
+1993,Fall,Cindi,Zimmerman,,False
+1994,Spring,Phillip,Augustine,,False
+1994,Spring,Garett,Berman,,False
+1994,Spring,Evelyn,Bethune,,False
+1994,Spring,Kasandra,Blyden,,False
+1994,Spring,Rebecca,Brook,,False
+1994,Spring,Derek,Bruce,,False
+1994,Spring,Samir,Chokshi,,False
+1994,Spring,Craig,Collins,,False
+1994,Spring,Roxanna,Dibai,,False
+1994,Spring,Terry,Dean,,False
+1994,Spring,Camero,Dezfulien,,False
+1994,Spring,Dawn,Ellington,,False
+1994,Spring,Daniel,Fishbein,,False
+1994,Spring,John,Fitzwater,,True
+1994,Spring,Adrienne,Garcia,,True
+1994,Spring,Jill,Greaves,,False
+1994,Spring,Trip,Green,,False
+1994,Spring,Michael,Greene,,False
+1994,Spring,James,Harbour,,False
+1994,Spring,Victory,Hayes,,False
+1994,Spring,Paul,Koukos,,False
+1994,Spring,Lon,Kruger,,True
+1994,Spring,Lawson,Lamar,,True
+1994,Spring,David,Lancz,,False
+1994,Spring,Lauralee,Longstaff,,False
+1994,Spring,Ian,Leavengood,,False
+1994,Spring,Cristina,McDowell,,False
+1994,Spring,Billy,Molasso,,False
+1994,Spring,Kendall,Moore,,False
+1994,Spring,Kimberly,Page,,False
+1994,Spring,Michael,Ramirez,,False
+1994,Spring,Charles,Reed,,True
+1994,Spring,Barbara,Rozier,,False
+1994,Spring,Howard,Saft,,False
+1994,Spring,Audrey,Schiebler,,True
+1994,Spring,Paul,Shirley,,False
+1994,Spring,Adam,Slipakoff,,False
+1994,Spring,Elizabeth,Voyik,,False
+1994,Spring,Michael,Wachholz,,False
+1994,Spring,Suzann,Ward,,False
+1994,Fall,Abigail,Auer,,False
+1994,Fall,Dalie,Baseman,,False
+1994,Fall,Brian,Beach,,False
+1994,Fall,Andrew,Bile,,False
+1994,Fall,Robert,Bonano,Jr.,False
+1994,Fall,Michael,Bowie,,False
+1994,Fall,Christian,Brown,,False
+1994,Fall,Susan,Burtscher,,False
+1994,Fall,Michael,Caborn,,False
+1994,Fall,Cristina,Cabrera,,False
+1994,Fall,Kevin,Carter,,False
+1994,Fall,Elizabeth,Clark,,False
+1994,Fall,Rodney,Clements,,False
+1994,Fall,Shelly,Colwell,,False
+1994,Fall,Derek,Copeland,,False
+1994,Fall,Judd,Davis,,False
+1994,Fall,Ryan,Delafield,,False
+1994,Fall,Rachel,Fabricant,,False
+1994,Fall,Troy,Finnigan,,False
+1994,Fall,Lewis,Fix,,False
+1994,Fall,Joshua,Frazier,,False
+1994,Fall,Stefan,Gleason,,False
+1994,Fall,Graham,Glover,,False
+1994,Fall,Darrin,Gula,,False
+1994,Fall,Tracie,Hamersley,,False
+1994,Fall,Jennifer,Hemingway,,False
+1994,Fall,Sara,Herzog,,False
+1994,Fall,Susan,Kennedy,,False
+1994,Fall,Georgie,Kovacs,,False
+1994,Fall,Whitney,Lang,,False
+1994,Fall,Kurt,Langford,,False
+1994,Fall,Gregory,Lee,,False
+1994,Fall,Kristin,Mallatt,,False
+1994,Fall,Richard,Martin,,False
+1994,Fall,Vilma,Martin,,False
+1994,Fall,Russell,Matthews,,False
+1994,Fall,Michael,McCkrackern,,False
+1994,Fall,John,McGovern,,False
+1994,Fall,John,Meldeen,,False
+1994,Fall,Helda,Melo,,False
+1994,Fall,Scott,Moss,,False
+1994,Fall,Michael,Murphy,,False
+1994,Fall,Steven,Parrott,,False
+1994,Fall,Robert,Phillips,Jr.,False
+1994,Fall,Dawn,Piscitelli,,False
+1994,Fall,Brian,Pope,,False
+1994,Fall,Donna,Potter,,False
+1994,Fall,Laura,Potter,,False
+1994,Fall,Adam,Putnam,,False
+1994,Fall,Amie,Riggle,,False
+1994,Fall,Christina,Rimmey,,False
+1994,Fall,Alison,Roberts,,False
+1994,Fall,Taylor,Rose,,False
+1994,Fall,H.,Rowe-Anderson,,False
+1994,Fall,Jayant,Saxena,,False
+1994,Fall,Joel,Schickel,,False
+1994,Fall,Michael,Schmidt,,False
+1994,Fall,Robert,Seifer,,False
+1994,Fall,Michael,Siemienas,,False
+1994,Fall,Prineet,Sharma,,False
+1994,Fall,Richard,Shuster,,False
+1994,Fall,Eugene,Skillen,Jr.,False
+1994,Fall,Alison,Starling,,False
+1994,Fall,Lisa,Sterits,,False
+1994,Fall,David,Swain,,False
+1994,Fall,Matthew,Swezey,,False
+1994,Fall,Daniel,Tarquinio,,False
+1994,Fall,Jennifer,Taylor,,False
+1994,Fall,Michelle,Taylor,,False
+1994,Fall,James,Thomas,,False
+1994,Fall,Vanessa,Tillis,,False
+1994,Fall,Christopher,Todd,,False
+1994,Fall,Vu,Phong,,False
+1994,Fall,Joel,Weber,,False
+1994,Fall,Michael,Weinstein,,False
+1994,Fall,Terrell,Williams,,False
+1995,Spring,Todd,Aidman,,False
+1995,Spring,M. Ryan,Anderson,,False
+1995,Spring,Geddes,Anderson,,False
+1995,Spring,John,Arratia,,False
+1995,Spring,Gerald,Bard,,True
+1995,Spring,Robert,Benett,,False
+1995,Spring,Bradley,Bondi,,False
+1995,Spring,Shelton,Bridges,,False
+1995,Spring,Andrew,Cheney,,True
+1995,Spring,Cynthia,Chestnut,,True
+1995,Spring,Brian,Coatoam,,False
+1995,Spring,Scott,Cooper,,False
+1995,Spring,Michael,Cotzen,,False
+1995,Spring,Ed,Crapo,,True
+1995,Spring,Kasey,Cummings,,False
+1995,Spring,Christopher,Cupoli,,False
+1995,Spring,C.B.,Daniel,,True
+1995,Spring,Tanya,Davis,,False
+1995,Spring,James,East,,False
+1995,Spring,Craig,Fagin,,False
+1995,Spring,Barbi,Feldman,,False
+1995,Spring,Daniel,Fridman,,False
+1995,Spring,Kirby,Geraghty,,False
+1995,Spring,Mark,Goldstein,,False
+1995,Spring,Ben Hill,Griffin,III,True
+1995,Spring,Adam,Gropper,,False
+1995,Spring,J. Eric,Gruber,,False
+1995,Spring,Julia,Heekin,,False
+1995,Spring,Elizabeth,Hill,,False
+1995,Spring,Todd,Hingson,,False
+1995,Spring,Charles,Hinton,,True
+1995,Spring,Edward,Hoffman,,False
+1995,Spring,Kery,Hunter,,False
+1995,Spring,Kelly,Jamieson,,False
+1995,Spring,Laura,Klein,,False
+1995,Spring,Joseph,Kushner,,False
+1995,Spring,Brian,Leo,,False
+1995,Spring,Wei-Teing,Li,,False
+1995,Spring,Kristin,Lindquist,,False
+1995,Spring,Vincent,Marconi,,False
+1995,Spring,Matt,McLauchlin,,False
+1995,Spring,David,Meade,,False
+1995,Spring,Lisa,Medford,,False
+1995,Spring,Jeremy,Moore,,False
+1995,Spring,Andrew,Morris,,False
+1995,Spring,Michael,Namath,,False
+1995,Spring,John,Norris,,True
+1995,Spring,T.J.,Oflet,,True
+1995,Spring,Ferdie,Pacheco,,True
+1995,Spring,Laurence,Pfeffer,,False
+1995,Spring,William,Powers,,False
+1995,Spring,Carolyn,Roberts,,True
+1995,Spring,Ty,Rodriguez,,False
+1995,Spring,Peter,Schoemann,,False
+1995,Spring,Gina,Scott,,False
+1995,Spring,Stephen,Sedwick,,False
+1995,Spring,Mason,Smoak,,False
+1995,Spring,Lori,Spivey,,False
+1995,Spring,Joseph,Stadlen,,False
+1995,Spring,Damon,Stevens,,False
+1995,Spring,Daniel,Switzen,,False
+1995,Spring,Mathew,Tainow,,False
+1995,Spring,Heather,Weeks,,False
+1995,Spring,Gregory,Weiss,,False
+1995,Spring,Robert,Wells,,False
+1995,Spring,Todd,Wilkins,,False
+1995,Spring,Richard,Williams,,False
+1995,Spring,Kevin,Woods,,False
+1995,Spring,Victoria,Zingarelli,,False
+1995,Fall,Amme,Beilsmith,,False
+1995,Fall,Michael,Boxson,,False
+1995,Fall,Julie,Busch,,False
+1995,Fall,Hunter,Carroll,,False
+1995,Fall,Anthony,Ciccone,,False
+1995,Fall,Mai-Tram,Dinh,,False
+1995,Fall,Ronald,Douglass,II,False
+1995,Fall,Earl,English,,False
+1995,Fall,Laura,Farris,,False
+1995,Fall,Tiffanie,Fernandez,,False
+1995,Fall,J. Michael,Fields,,False
+1995,Fall,Ashley,Galloway,,False
+1995,Fall,Brent,Gordon,,False
+1995,Fall,David,Heekin,,False
+1995,Fall,Christine,Irwin,,False
+1995,Fall,Lance,Karp,,False
+1995,Fall,Robert,Meis,,False
+1995,Fall,Michael,Neumann,,False
+1995,Fall,Natasha,Phillips,,False
+1995,Fall,Hames,Pressly,III,False
+1995,Fall,Herman,Quaintance,Jr.,False
+1995,Fall,Samantha,Riggle,,False
+1995,Fall,Seth,Rubin,,False
+1995,Fall,Cahti Jo,Story,,False
+1995,Fall,Lex,Taylor,III,False
+1995,Fall,Robert,Walters,,False
+1995,Fall,Christian,Ward,,False
+1996,Spring,Brett,Adams,,False
+1996,Spring,J. Carter,Anderen,,False
+1996,Spring,Daniel,Bachrach,,False
+1996,Spring,Stevie,Baker,,False
+1996,Spring,Anna,Benson,,False
+1996,Spring,Brittany,Blanco,,False
+1996,Spring,Elizabeth,Bragdon,,False
+1996,Spring,Wilbur,Brewton,,True
+1996,Spring,Joshua,Burnett,,False
+1996,Spring,Frank,Campsi,,False
+1996,Spring,Amy,Canter,,False
+1996,Spring,Teresa,Clark,,False
+1996,Spring,R. Scott,Collins,,False
+1996,Spring,Douglas,Davis,,False
+1996,Spring,David,Deangelo,,False
+1996,Spring,Kenneth,Deckinger,,False
+1996,Spring,Brain,Dobbins,,False
+1996,Spring,Edward,Dubose,,False
+1996,Spring,Bart,Edmiston,,False
+1996,Spring,Bartley,Edwards,,False
+1996,Spring,Jodie,Fleischer,,False
+1996,Spring,Jamie,Froehling,,False
+1996,Spring,Lawrence,Gierum,,False
+1996,Spring,Suzanne,Gilbert,,False
+1996,Spring,J. Richard,Graves,,True
+1996,Spring,Lexy,Grewing,,False
+1996,Spring,Frederick,Hartman,,False
+1996,Spring,John,Howe,,False
+1996,Spring,Casey,Hurley,,False
+1996,Spring,Julie,Imanuel,,False
+1996,Spring,Cristina,Jiminez,,False
+1996,Spring,Ryan,Jones,,False
+1996,Spring,Joanthan,Kilman,,False
+1996,Spring,Nicole,Klebman,,False
+1996,Spring,Eric,Lasso,,False
+1996,Spring,Chandani,Latey,,False
+1996,Spring,Anthone,Lott,,False
+1996,Spring,Connie,Mack,,True
+1996,Spring,Clint,Malone,,False
+1996,Spring,Bobby,McKown,,True
+1996,Spring,Ashley,Moody,,False
+1996,Spring,Laurel,Moore,,False
+1996,Spring,Lisa,Morgenstern,,False
+1996,Spring,Ryan,Murtagh,,False
+1996,Spring,Douglas,Meyers,III,False
+1996,Spring,Christina,Nielson,,False
+1996,Spring,Anna,O'Neil,,False
+1996,Spring,James,Paine,,False
+1996,Spring,Kristin,Payton,,False
+1996,Spring,Philip,Pharr,,False
+1996,Spring,Daniela,Portaro,,False
+1996,Spring,James,Rhoden,III,False
+1996,Spring,Debra,Samson,,False
+1996,Spring,Jordan,Scher,,False
+1996,Spring,Steven,Shehan,,False
+1996,Spring,Adam,Sheinkopf,,False
+1996,Spring,Pamela,Sherman,,False
+1996,Spring,Cory,Siansky,,False
+1996,Spring,Alicia,Silver,,False
+1996,Spring,Rod,Smith,,True
+1996,Spring,Julie,Strandlie,,True
+1996,Spring,Jeffrey,Sullivan,,False
+1996,Spring,David,Tetrick,Jr.,False
+1996,Spring,Karen,Thurman,,True
+1996,Spring,Daniel,Tressler,II,False
+1996,Spring,Don,Vining,,True
+1996,Spring,Daniel,Visoiu,,False
+1996,Spring,John,Walker,,False
+1996,Spring,Dabney,Ware,,False
+1996,Spring,Robert,Warson,,True
+1996,Spring,J. Christopher,Webster,,False
+1996,Spring,Kara,Wyrsch,,False
+1996,Fall,Robert,Alberts,,False
+1996,Fall,Andrew,Barak,,False
+1996,Fall,Ansley,Battaglia,,False
+1996,Fall,Shawn,Bowman,,False
+1996,Fall,Kennis,Brannock,IV,False
+1996,Fall,Justin,Brennan,,False
+1996,Fall,Tricia,Brookes,,False
+1996,Fall,James,Callahan,Jr.,False
+1996,Fall,James,Chandler,IV,False
+1996,Fall,Joseph,Ciavarella,Jr.,False
+1996,Fall,Cori,Cuttler,,False
+1996,Fall,Robert,Doan,,False
+1996,Fall,Christopher,Dorworth,,False
+1996,Fall,Grayson,Elsdon,,False
+1996,Fall,Andrew,Findkelstein,,False
+1996,Fall,Allyson,Furr,,False
+1996,Fall,Kristie,Gross,,False
+1996,Fall,Brian,Harris,,False
+1996,Fall,Nive,Hertz,,False
+1996,Fall,Amanda,Heyder,,False
+1996,Fall,Aubrey,Hill,,False
+1996,Fall,Steven,Kabak,,False
+1996,Fall,Jacquelyn,Kitts,,False
+1996,Fall,Brendan,Krause,,False
+1996,Fall,Ronald,Laface,Jr.,False
+1996,Fall,John,Langford,,False
+1996,Fall,Jean-Pierre,Lessard,,False
+1996,Fall,Kimberely,Lyons-McHenry,,False
+1996,Fall,Cory,Miller,,False
+1996,Fall,Amy,Myerson,,False
+1996,Fall,Catalina,Obesso,,False
+1996,Fall,Yolanda,Parker,,False
+1996,Fall,Lauren,Ploch,,False
+1996,Fall,Mandy,Robertson,,False
+1996,Fall,Michael,Sexton,,False
+1996,Fall,Arthur,Siccardi,,False
+1996,Fall,Erum,Siddiqui,,False
+1996,Fall,Aimee,Sparkman,,False
+1996,Fall,Christopher,Staubly,,False
+1996,Fall,Jocelyn,Steiner,,False
+1996,Fall,Mark,Stevens,,False
+1996,Fall,Jonathan,Stueve,,False
+1996,Fall,Tracie,Underwood,,False
+1996,Fall,Diego,Valdes,,False
+1996,Fall,David,West,,False
+1996,Fall,Jeffrey,Wilensky,,False
+1996,Fall,Kristen,Wotocek,,False
+1996,Fall,Lawrence,Wright,,False
+1997,Spring,Robert,Allen,,False
+1997,Spring,Tremayne,Allen,,False
+1997,Spring,Ronnie,Battle,,False
+1997,Spring,Royce,Bergman,,False
+1997,Spring,Paul,Bernstein,,False
+1997,Spring,Brittany,Boothe,,False
+1997,Spring,Kelley,Bopp,,False
+1997,Spring,Heather,Burns,,False
+1997,Spring,Megan,Burt,,False
+1997,Spring,Brian,Carey,,False
+1997,Spring,Lawrence,Clark,,True
+1997,Spring,Brian,Cleary,,False
+1997,Spring,Michelle,Crowe,,False
+1997,Spring,Laura,Dennard,,False
+1997,Spring,David,Eckstein,,False
+1997,Spring,Amy,Edelstein,,False
+1997,Spring,George,Edmonson,,True
+1997,Spring,Eric,Ellsley,,False
+1997,Spring,Melinda,Fallieras,,False
+1997,Spring,Mike,Floyd,,False
+1997,Spring,Jarret,Freedman,,False
+1997,Spring,Nicole,Fried,,False
+1997,Spring,Christopher,Fuller,,False
+1997,Spring,Tillie,Gallan,,False
+1997,Spring,Robert,Gebaide,,False
+1997,Spring,Cindy,Goldberg,,False
+1997,Spring,Andrea,Goldfarb,,False
+1997,Spring,Alison,Gramling,,False
+1997,Spring,Laura,Hammond,,False
+1997,Spring,Rodney,Infante,,False
+1997,Spring,Adam,Jacobs,,False
+1997,Spring,John,James,,True
+1997,Spring,William,Keener,,False
+1997,Spring,Kevin,Khan,,False
+1997,Spring,Malcom,Kirschenbaum,,True
+1997,Spring,David,Kratzer,,True
+1997,Spring,Jeffrey,Kuenn,,False
+1997,Spring,Stacie,Marks,,False
+1997,Spring,R. Wayne,McDaniel,,True
+1997,Spring,Chelsea,McMillan,,False
+1997,Spring,Scott,Millner,,False
+1997,Spring,J. Chris,Patrick,,True
+1997,Spring,Dawn,Phillips,,False
+1997,Spring,Amy,Pietrodangelo,,False
+1997,Spring,Ann,Pohira,,False
+1997,Spring,Lee,Quittner,,False
+1997,Spring,Christina,Rankin,,False
+1997,Spring,Steven,Rappaport,,False
+1997,Spring,Kristen,Reed,,False
+1997,Spring,Sarah,Reiner,,False
+1997,Spring,Buzz,Ritchie,,True
+1997,Spring,Ann Marie,Rogers,,True
+1997,Spring,M. Jason,Roper,,False
+1997,Spring,William,Rossi,III,False
+1997,Spring,Earl,Scarborough,,True
+1997,Spring,Clay,Scherer,,False
+1997,Spring,Clifford,Schulman,,True
+1997,Spring,Carrie,Schultz,,False
+1997,Spring,Carrie,Schwarz,,False
+1997,Spring,Shane,Seroyer,,False
+1997,Spring,Shelly,Silberman,,False
+1997,Spring,Dave,Sivestain,,False
+1997,Spring,Cynthia,Smith,,False
+1997,Spring,Joseph,Sora,,False
+1997,Spring,Andrew,Sorensen,,True
+1997,Spring,Cori,Strobel,,False
+1997,Spring,Sunny,Sukumarabandu,,False
+1997,Spring,Xuan,Thai,,False
+1997,Spring,Brian,Unell,,False
+1997,Spring,Janet,Villalba,,False
+1997,Spring,Mark Von,Oven,,False
+1997,Spring,Jon,Ward,,False
+1997,Spring,Jason,Watters,,False
+1997,Spring,Viraine,Weerasooriya,,False
+1997,Spring,Vivian,Wexler,,False
+1997,Spring,Nicole,Wood,,False
+1997,Spring,William,Yeagers,,False
+1997,Spring,Alan,Zack,,False
+1997,Fall,Trevor,Arnold,,False
+1997,Fall,Kimberly,Belcher,,False
+1997,Fall,Cari,Bonz,,False
+1997,Fall,Kareem,Brantley,,False
+1997,Fall,Jason,Brodeur,,False
+1997,Fall,Monica,Brosman,,False
+1997,Fall,Robert,Busch,,False
+1997,Fall,Jenny,Byars,,False
+1997,Fall,Laurie,Craig,,False
+1997,Fall,Kacey,Crocilla,,False
+1997,Fall,Karen,Davies,,False
+1997,Fall,Avery,Dial,,False
+1997,Fall,Michael,Garcia,,False
+1997,Fall,Richard,Gauntlett,,False
+1997,Fall,Anne,Grodin,,False
+1997,Fall,Rosa,Herrera,,False
+1997,Fall,Jennifer,Irwin,,False
+1997,Fall,Antony,Jim,,False
+1997,Fall,Sherri,Johnson,,False
+1997,Fall,Robert,Jones,,False
+1997,Fall,James,Kauffman,,False
+1997,Fall,Shannon,Kelley,,False
+1997,Fall,Rafael,Kolic,,False
+1997,Fall,George,Kramer,,False
+1997,Fall,Ian,Lane,,False
+1997,Fall,Broad,Love,,False
+1997,Fall,Sheada,Madani,,False
+1997,Fall,Bram,Maravent,,False
+1997,Fall,Christine,Marlewski,,False
+1997,Fall,Kelley,Massey,,False
+1997,Fall,Corey,Matthews,,False
+1997,Fall,Jessica,Mitchell,,False
+1997,Fall,Christopher,Mitzo,,False
+1997,Fall,Husam,Monem,,False
+1997,Fall,Gina,Montagnino,,False
+1997,Fall,Scott,Newsom,,False
+1997,Fall,Kristin,Obenour,,False
+1997,Fall,Jacqueline,Ossin,,False
+1997,Fall,Sarah,Overholt,,False
+1997,Fall,Brian,Ray,,False
+1997,Fall,Richard,Regan,Jr.,False
+1997,Fall,Tracey,Reinman,,False
+1997,Fall,Rebekah,Rich,,False
+1997,Fall,Marissa,Roberts,,False
+1997,Fall,Andrew,Rosin,,False
+1997,Fall,Blayne,Ross,,False
+1997,Fall,Gilberto,Sanchez,,False
+1997,Fall,Brian,Schneider,,False
+1997,Fall,Jay,Schwedelson,,False
+1997,Fall,Shawn,Snyder,,False
+1997,Fall,Gina,Sprigel,,False
+1997,Fall,Susan,Spivak,,False
+1997,Fall,Chris,Strohmenger,,False
+1997,Fall,Eric,Thrower,,False
+1997,Fall,Jarrod,Tidwell,,False
+1997,Fall,Scott,Truesdell,,False
+1997,Fall,Erin,Tucker,,False
+1997,Fall,Edward,Upson,,False
+1997,Fall,Victoria,Vogt,,False
+1997,Fall,David,Wein,,False
+1997,Fall,Jason,Wells,,False
+1997,Fall,John,West,,False
+1997,Fall,Scott,Wilson,,False
+1997,Fall,Adam,Wolrich,,False
+1997,Fall,Daniel,Wright,,False
+1998,Spring,Benjamin,Abberger,III,True
+1998,Spring,Don,Alfonso,,False
+1998,Spring,Jennifer,Anderson,,False
+1998,Spring,Terrence,Bailey,,False
+1998,Spring,Erin,Brock,,False
+1998,Spring,Christina,Brown,,False
+1998,Spring,Margaret,Brunghart,,False
+1998,Spring,Robert,Butterworth,,True
+1998,Spring,Richard,Buxman,,False
+1998,Spring,Frederick,Cohan,,False
+1998,Spring,Winstone,Cole,Sr.,True
+1998,Spring,Brian,Creavasse,,False
+1998,Spring,Sara,Davis,,False
+1998,Spring,Shannon,Domeier,,False
+1998,Spring,Ernest,Dubose,,False
+1998,Spring,Lindsay,Edelstein,,False
+1998,Spring,Amy,Ehrenreich,,False
+1998,Spring,Aylin,Erenguc,,False
+1998,Spring,Jedd,Fisch,,False
+1998,Spring,Robert,Fraser,,False
+1998,Spring,Raanon,Gal,,False
+1998,Spring,Ana,Garcia,,False
+1998,Spring,Jason,Goitia,,False
+1998,Spring,John,Grant,,True
+1998,Spring,James,Heekin,III,False
+1998,Spring,Jaclyn,Heyder,,False
+1998,Spring,Terrill,Hill,,False
+1998,Spring,Lori,Holt,,False
+1998,Spring,Brad,Hoppman,,False
+1998,Spring,Terrence,Jackson,,False
+1998,Spring,Toni,Jennings,,True
+1998,Spring,James,Jones,,False
+1998,Spring,Daphna,Korman,,False
+1998,Spring,Mary,Lanier,,False
+1998,Spring,Laurie,Malter,,False
+1998,Spring,Katherine,McKenzie,,False
+1998,Spring,Liborio,Meneses,,False
+1998,Spring,Jordan,Miller,,False
+1998,Spring,Christopher,Mullin,,False
+1998,Spring,Julie,Nadler,,False
+1998,Spring,Jeffrey,Nickel,,False
+1998,Spring,Kristan,Oakman,,False
+1998,Spring,Valencia,Poitier,,False
+1998,Spring,Richard,Riisma,,False
+1998,Spring,Jaime,Rodriguez,,False
+1998,Spring,Stephanie,Sigmon,,False
+1998,Spring,Sisan,Slusser,,False
+1998,Spring,Dan,Smith,,False
+1998,Spring,Darryl,Stangry,,False
+1998,Spring,John,Stipanovich,,True
+1998,Spring,Clay,Sweger,,False
+1998,Spring,Tamara-Kay,Tibby,,False
+1998,Spring,Marjorie,Turnbull,,True
+1998,Spring,Monique,Walker,,False
+1998,Spring,Mary,Wise,,True
+1998,Fall,John,Bisigni,,False
+1998,Fall,Travis,Chapin,,False
+1998,Fall,Jason,Collier,,False
+1998,Fall,Matthew,Crist,,False
+1998,Fall,Lisa,Dilts,,False
+1998,Fall,Julie,Donaldson,,False
+1998,Fall,Joshua,Doyle,,False
+1998,Fall,Douglas,Elmore,,False
+1998,Fall,Shannon,Fuller,,False
+1998,Fall,Latasha,Garrison,,False
+1998,Fall,Ian,Gray,,False
+1998,Fall,Gregory,Hare,,False
+1998,Fall,Julie,Harell,,False
+1998,Fall,Bret,Hastings,,False
+1998,Fall,Joseph,Johnson,,False
+1998,Fall,Kenneth,Jones,,False
+1998,Fall,Matthew,Kelly,,False
+1998,Fall,Jill,Kovach,,False
+1998,Fall,Theodore,Kypreos,,False
+1998,Fall,Jason,Levy,,False
+1998,Fall,Zachary,Mazin,,False
+1998,Fall,Dorsey,Miller,,False
+1998,Fall,Michael,Mosseri,,False
+1998,Fall,Brooke,Myrick,,False
+1998,Fall,Matthew,Paynter,,False
+1998,Fall,David,Piscatelli,,False
+1998,Fall,Eugene Dylan,Rivers,,False
+1998,Fall,Lawrence,Sherman,,False
+1998,Fall,Philip,Snyder,,False
+1998,Fall,Michael,Steienmann,,False
+1998,Fall,Jason,Stavinski,,False
+1998,Fall,Stacie,Swant,,False
+1998,Fall,Kevin,Thomas,,False
+1998,Fall,Benjamin,Tiller,,False
+1998,Fall,Willaim Bronson,Tubb,,False
+1998,Fall,Serena,Underwood,,False
+1998,Fall,Earl,Wagner,,False
+1998,Fall,Erika,Wasserman,,False
+1998,Fall,Jason,Whiteman,,False
+1999,Spring,Mohammed,Ahmed,,False
+1999,Spring,Jennifer,Blumencranz,,False
+1999,Spring,Frank,Brogan,,True
+1999,Spring,Christopher,Browb,,False
+1999,Spring,Thaddeus,Bullard,,False
+1999,Spring,M.B.,Chafin,,True
+1999,Spring,Shay,Conyers,,False
+1999,Spring,Gregory,Dauphin,,False
+1999,Spring,Brian,Dowling,,False
+1999,Spring,Aaron,Day,,False
+1999,Spring,Paula,Delaney,,True
+1999,Spring,Benjamin,Demaline,,False
+1999,Spring,Troy,Finnegan,,False
+1999,Spring,Jose,Gonzalez,,False
+1999,Spring,Dawn,Goodman,,False
+1999,Spring,Stacey,Gross,,False
+1999,Spring,Barry,Hall,,False
+1999,Spring,James,Heekin,Jr.,True
+1999,Spring,Marc,Inglese,,False
+1999,Spring,Jessica,Jaeger,,False
+1999,Spring,Kimberly,Jefferson,,False
+1999,Spring,liana,Kahan,,False
+1999,Spring,Lauren,Kalpus,,False
+1999,Spring,Brian,Koch,,False
+1999,Spring,Lesley Parish,Lentz,,False
+1999,Spring,Ryan,Livingston,,False
+1999,Spring,Richard,Mooradian,,False
+1999,Spring,Jocelyn,Moore,,False
+1999,Spring,Rebbeca,Moore,,False
+1999,Spring,Damian,Nastri,,False
+1999,Spring,Douglas,Ney,,False
+1999,Spring,Kristen,Nimicht,,False
+1999,Spring,Ben,Overton,,True
+1999,Spring,George,Palmer,,True
+1999,Spring,Leslie,Press,,False
+1999,Spring,Barbie,Pressly,,False
+1999,Spring,Michael,Ray,,False
+1999,Spring,Leslie,Rosen,,False
+1999,Spring,Ben-G.,Shachter,,False
+1999,Spring,Stuart,Schott,,False
+1999,Spring,Rachel,Shapiro,,False
+1999,Spring,Daniel,Weisman,,False
+1999,Fall,Marc,Adler,,False
+1999,Fall,Renata,Andrade,,False
+1999,Fall,Anthony,Barbuto,,False
+1999,Fall,Noah B.,Bleicher,,False
+1999,Fall,Laurence,Bolotin,,False
+1999,Fall,Eric,Butler,,False
+1999,Fall,Lynn,Chandler,,False
+1999,Fall,Craig J.,Contos,,False
+1999,Fall,Kevin T.,Coyne,,False
+1999,Fall,Chris J.,Esposito,,False
+1999,Fall,William J.,Fisch,,False
+1999,Fall,Jade,Friedensohn,,False
+1999,Fall,Jennifer L.,Gill,,False
+1999,Fall,Gordon J.,Glover,,False
+1999,Fall,Dean M.,Glockel,,False
+1999,Fall,Heather,Halliburton,,False
+1999,Fall,Lisa M.,Hammond,,False
+1999,Fall,Matthew,Heekin,,False
+1999,Fall,Eden B.,Heilman,,False
+1999,Fall,Rebecca,Heyder,,False
+1999,Fall,David A.,Huppert,,False
+1999,Fall,Tor,Jensen-Friedman,,False
+1999,Fall,Kenneth M.,Kerwin,,False
+1999,Fall,Taylor,Kessel,,False
+1999,Fall,Brianna,Konefall,,False
+1999,Fall,Jocelyn,Leitzinger,,False
+1999,Fall,Connor,Lewis,,False
+1999,Fall,Dennis,Lewis,,False
+1999,Fall,Javier,Ley-Soto,,False
+1999,Fall,Jeff,Lin,,False
+1999,Fall,Rachel,Marks,,False
+1999,Fall,Bret,Meyerson,,False
+1999,Fall,Jarrett,Nasca,,False
+1999,Fall,Tameka,Nelson,,False
+1999,Fall,Jennifer,Pastore,,False
+1999,Fall,Anand,Patel,,False
+1999,Fall,Jeanna,Pinto,,False
+1999,Fall,Kim M.,Plumitallo,,False
+1999,Fall,Joy F.,Quittner,,False
+1999,Fall,David A.,Rivera,,False
+1999,Fall,William,Santiago,,False
+1999,Fall,Bradley,Schaffner,,False
+1999,Fall,Geoffrey,Schiller,,False
+1999,Fall,Courtney,Scott,,False
+1999,Fall,Kristin,Snyder,,False
+1999,Fall,Jill,Soost,,False
+1999,Fall,Justin,Sternberg,,False
+1999,Fall,Katherin,Townsend,,False
+1999,Fall,Carin,Vasallo,,False
+1999,Fall,Sarah M.,Wallerstein,,False
+1999,Fall,James C.,Watson,,False
+2000,Spring,Jonathan,Brand,,False
+2000,Spring,Brian,Bull,,False
+2000,Spring,Jefferey,Chenery,,False
+2000,Spring,Matthew,Colasanti,,False
+2000,Spring,Cristall,Courney,,False
+2000,Spring,Billy,Donvan,,True
+2000,Spring,Doug,Draper,,False
+2000,Spring,T. Martin,Florentino,Jr.,True
+2000,Spring,Michelle,Furguson,,False
+2000,Spring,Shaun,Goldfarb,,False
+2000,Spring,Brian,Grossbard,,False
+2000,Spring,Michelle,Haas,,False
+2000,Spring,Robert,Heekin,,False
+2000,Spring,Joanna,Helm,,False
+2000,Spring,Adam,Herbert,,True
+2000,Spring,Cary,High,,False
+2000,Spring,Alex,Hooper,,False
+2000,Spring,Richard,Hornsby,,False
+2000,Spring,Ava-G aye,Hue,,False
+2000,Spring,John,Humenik,,True
+2000,Spring,Lillian,Iverson,,False
+2000,Spring,Marni,Kahn,,False
+2000,Spring,Krista,Kozak,,False
+2000,Spring,Alexis,Lambert,,False
+2000,Spring,Connie,LaRossa,,False
+2000,Spring,Robyn,Lesser,,False
+2000,Spring,Michael,Lester,,False
+2000,Spring,Georgeana,Lewis,,False
+2000,Spring,Andrew,Love,,False
+2000,Spring,Francesca,Madeo,,False
+2000,Spring,Jamie,Marra,,False
+2000,Spring,Anthony,Martino,,False
+2000,Spring,Allison,McDonald,,False
+2000,Spring,Tammy,Murrietta,,False
+2000,Spring,Cara,Nobles,,False
+2000,Spring,Jason,Nochlmson,,False
+2000,Spring,Jowanna,Oates,,False
+2000,Spring,Mark,Oâ€™Grady,,False
+2000,Spring,Sonja,Parisek,,False
+2000,Spring,Jesse,Parrish,III,True
+2000,Spring,Juan,Perez,,False
+2000,Spring,Karen,Persis,,False
+2000,Spring,Phillip,Poisson,,False
+2000,Spring,Stacy,Reich,,False
+2000,Spring,Jackie,Rodriguez,,False
+2000,Spring,Louis,Roselli,,False
+2000,Spring,Chris,Salvador,,False
+2000,Spring,Derrick,Scott,,False
+2000,Spring,Anna,Shea,,False
+2000,Spring,Daniel,Simon,,False
+2000,Spring,Colin,Thompson,,False
+2000,Spring,Craig,Wells,,False
+2000,Spring,Willie,Wilder,,False
+2000,Spring,Rhys,Williams,,False
+2000,Spring,Sarah,Yohe,,False
+2000,Fall,Jacob,Adkins,,False
+2000,Fall,Jason,Bagwell,,False
+2000,Fall,Robert,Barkin,,False
+2000,Fall,Marlin,Cano,,False
+2000,Fall,Christopher,Carmody,,False
+2000,Fall,Frank,Casey,,False
+2000,Fall,Eric,Cochran,,False
+2000,Fall,Mary,Derrick,,False
+2000,Fall,Robert,DeVito,,False
+2000,Fall,Stephen,Evans,,False
+2000,Fall,Joel,Feldman,,False
+2000,Fall,Richard,Fobair,II,False
+2000,Fall,Michael,Ford,,False
+2000,Fall,Mindy,Freedman,,False
+2000,Fall,Wendy,Goldsmith,,False
+2000,Fall,David,Hammerschmidt,,False
+2000,Fall,Roberta,Hickman,,False
+2000,Fall,Rihannon,Hildebrand,,False
+2000,Fall,Craig,Jones,,False
+2000,Fall,Grayson,Kamm,,False
+2000,Fall,Scott,Kees,,False
+2000,Fall,Joy,Kunishge,,False
+2000,Fall,Lisa,Lea,,False
+2000,Fall,R. Kyle,Lindinsky,,False
+2000,Fall,Justin,Luna,,False
+2000,Fall,Dori,Marlin,,False
+2000,Fall,Heather,Marshall,,False
+2000,Fall,Mark,Masterson,,False
+2000,Fall,Suzette,Maylor,,False
+2000,Fall,Richard,Mockler,,False
+2000,Fall,Brian,Murphy,,False
+2000,Fall,Nicholas,Nanton,,False
+2000,Fall,Rafael,Nobo,III,False
+2000,Fall,Christina,Pescatrice,,False
+2000,Fall,Yohance,Pettis,,False
+2000,Fall,Christopher,Pezon,,False
+2000,Fall,Charlotte,Phillips,,False
+2000,Fall,Michael,Rettew,,False
+2000,Fall,Kelley,Richards,,False
+2000,Fall,Elizabeth,Roosevelt,,False
+2000,Fall,Richard,Rosenblatt,,False
+2000,Fall,Michael,Silver,,False
+2000,Fall,Stefanie,Simon,,False
+2000,Fall,Sara,Slovin,,False
+2000,Fall,Wesley,Snapp,,False
+2000,Fall,Jordan,Spak,,False
+2000,Fall,Rachel,Spencer,,False
+2000,Fall,William,Steube,,False
+2000,Fall,Micah,Strader,,False
+2001,Spring,Jamie,Ackerman,,False
+2001,Spring,Julia,Ackerman,,False
+2001,Spring,Kate,Berger,,False
+2001,Spring,Lawrence R.,Bevis,,True
+2001,Spring,Jonathan,Binder,,False
+2001,Spring,Patrick J.,Bird,,True
+2001,Spring,Pamela R.,Bourg,,True
+2001,Spring,David,Brown,,False
+2001,Spring,Becky,Burleigh,,True
+2001,Spring,Rhonda Chung-de,Cambre,,False
+2001,Spring,Susan,Chusyd,,False
+2001,Spring,Jennifer,DeVaughn,,False
+2001,Spring,Marc,Dodd,,False
+2001,Spring,Lewis,Dunton,,False
+2001,Spring,Maurice O.,Edmonds,,True
+2001,Spring,Rachel,Elias,,False
+2001,Spring,Sara,Evans,,False
+2001,Spring,Dev,Ghouse,,False
+2001,Spring,Andrew,Gibb,,False
+2001,Spring,Michael,Godwin,,False
+2001,Spring,Stephen,Halbrook,,False
+2001,Spring,Jenny,Hayes,,False
+2001,Spring,James,Halliburton,,True
+2001,Spring,David,Honeyman,,True
+2001,Spring,James,Howard,,False
+2001,Spring,Andrea,Kanar,,False
+2001,Spring,Patrick,Keegan,,False
+2001,Spring,Tiffany,LaCrosse,,False
+2001,Spring,Jason,Locker,,False
+2001,Spring,Craig,Meddin,,False
+2001,Spring,Dorsey,Miller,,True
+2001,Spring,Ryan,Mitchell,,False
+2001,Spring,Monique,Pardo,,False
+2001,Spring,Karen,Petty,,False
+2001,Spring,Rahim,Remtulla,,False
+2001,Spring,Matt,Rice,,False
+2001,Spring,Brian,Roof,,False
+2001,Spring,Joseph,Rousso,,False
+2001,Spring,Matthew,Sansbury,,False
+2001,Spring,Samantha,Schosberg,,False
+2001,Spring,Derek,Sirmans,,False
+2001,Spring,Michael,Sullivan,,False
+2001,Spring,Patrick,Sullivan,,False
+2001,Spring,Katie,Surguine,,False
+2001,Spring,Simon,VanBeek,,False
+2001,Spring,Freddie,Wehbe,,True
+2001,Spring,Jamie,Wicker,,False
+2001,Spring,Gregory,Williams,,True
+2001,Fall,Pedro,Allende,,False
+2001,Fall,Aaron,Bernstein,,False
+2001,Fall,Kaleen,Brown,,False
+2001,Fall,Regina,Brusso,,False
+2001,Fall,Allison,Buchholz,,False
+2001,Fall,Steven,Butler,,False
+2001,Fall,James,Clinard,Jr.,False
+2001,Fall,Mary,Coleman,,False
+2001,Fall,Wendy,Culpepper,,False
+2001,Fall,Paul,Davis,,False
+2001,Fall,Adam,Eiseman,,False
+2001,Fall,Katherine,Freeman,,False
+2001,Fall,Dayna,Gaff,,False
+2001,Fall,Jon,Gatto,,False
+2001,Fall,Enrique,Gomez,,False
+2001,Fall,Blair,Graham,,False
+2001,Fall,Tara,Higginbotham,,False
+2001,Fall,Melissa,Korn,,False
+2001,Fall,Allison,Lane,,False
+2001,Fall,Elizabeth,Lawton,,False
+2001,Fall,Leanna,Levin,,False
+2001,Fall,Jason,Malone,,False
+2001,Fall,Michael,Massari,,False
+2001,Fall,Kevin,McCoy,,False
+2001,Fall,Cecily,McLeod,,False
+2001,Fall,Andrew,Mitwol,,False
+2001,Fall,Aviram,Mizrahi,,False
+2001,Fall,Matthew,Montag,,False
+2001,Fall,Laura,Murray,,False
+2001,Fall,Kara,Neimark,,False
+2001,Fall,Nicole,Panitz,,False
+2001,Fall,Christopher,Paul,,False
+2001,Fall,Harrison,Pinckney,IV,False
+2001,Fall,Chad,Provost,,False
+2001,Fall,Jenny,Rosen,,False
+2001,Fall,Danielle,Sherman,,False
+2001,Fall,Dexter,Smith,,False
+2001,Fall,Jennifer,Spence,,False
+2001,Fall,Andrew,Storch,,False
+2001,Fall,Regan,Thompson,,False
+2001,Fall,Holly,Tuttle,,False
+2001,Fall,Patrick,Walsh,,False
+2001,Fall,Efrem,Weiss,,False
+2001,Fall,Charles,Wheeler,III,False
+2002,Spring,Jeremiah,Abiade,,False
+2002,Spring,Joshua,Adler,,False
+2002,Spring,Nathan,Allison,,False
+2002,Spring,Cathy,Amersley,,False
+2002,Spring,Laura,Barber,,False
+2002,Spring,Kevin,Benenfeld,,False
+2002,Spring,Donnell,Bowen,,False
+2002,Spring,Katherine,Brownlee,,False
+2002,Spring,Tobi,Butensky,,False
+2002,Spring,Andrew,Comiter,,False
+2002,Spring,Brandon,Crossland,,False
+2002,Spring,Ron,Curran,,False
+2002,Spring,Bennett,Davis,,False
+2002,Spring,Kelly,DeLucia,,False
+2002,Spring,John,Domeier,,False
+2002,Spring,Caroline,Felix,,False
+2002,Spring,Brooke,Fyler,,False
+2002,Spring,Michael,Gale,,False
+2002,Spring,Jessica,Gorman,,False
+2002,Spring,Gary,Haftel,,False
+2002,Spring,Jared,Hernandez,,False
+2002,Spring,Ryan,Hyde,,False
+2002,Spring,Duan,Johnson,,False
+2002,Spring,Kyle,Jones,,False
+2002,Spring,David,Kahn,,False
+2002,Spring,John,Kellner,,False
+2002,Spring,Joseph,Ketterer,,False
+2002,Spring,Gabriel,Kotch,,False
+2002,Spring,Cory,Kravit,,False
+2002,Spring,Rafal,Leszcynski,,False
+2002,Spring,Ben,Lieberman,,False
+2002,Spring,Robert,Luck,,False
+2002,Spring,Tarsha,Luke,,False
+2002,Spring,Michael,Martin,,True
+2002,Spring,Alyson,Miller,,False
+2002,Spring,Florence,Moss,,False
+2002,Spring,Geoffrey,Nadler,,False
+2002,Spring,Cynthia,O'Connell,,False
+2002,Spring,Michael,Pitt,,False
+2002,Spring,Kenneth,Poole,Jr.,False
+2002,Spring,Ed,Poppell,,False
+2002,Spring,Gail,Sasnett,,False
+2002,Spring,John,Shea,,False
+2002,Spring,Matthew,Urban,,False
+2002,Spring,Derrick,Valkenburg,,False
+2002,Spring,Adam,Vaughn,,False
+2002,Spring,Jared,Wilichinsky,,False
+2002,Spring,Paul,Willis,,False
+2002,Spring,Daniel,Williams,,False
+2002,Spring,Sarah,Zuckerman,,False
+2003,Spring,Carlos,Alfonso,,False
+2003,Spring,Charles,Appleby,,False
+2003,Spring,Jonathan,Benator,,False
+2003,Spring,Nava,Ben-Avraham,,False
+2003,Spring,Alexander,Bond,,False
+2003,Spring,Joslyn,Burciaga,,False
+2003,Spring,Teal,Chiabotti,,False
+2003,Spring,Michael,Coffey,,False
+2003,Spring,Colin,Colverson,,False
+2003,Spring,Lindsay,Conner,,False
+2003,Spring,Jon,Curran,,False
+2003,Spring,Benjamin,Diamond,,False
+2003,Spring,Juan,Diaz,,False
+2003,Spring,Paula,Dockery,,True
+2003,Spring,Megan,Dube,,False
+2003,Spring,William,Dukes,,False
+2003,Spring,Lauren,Fackender,,False
+2003,Spring,Manny,Fernandez,,True
+2003,Spring,Thomas,Fowler,,False
+2003,Spring,Katie,Fredericks,,False
+2003,Spring,Shema,Freeman,,False
+2003,Spring,Shane,Futchko,,False
+2003,Spring,Bradley,Goldfinger,,False
+2003,Spring,Erica,Gomez,,False
+2003,Spring,Adam,Hecht,,False
+2003,Spring,Whitney,Helms,,False
+2003,Spring,Todd,Herberghs,,False
+2003,Spring,Samuel,Hewitt,,False
+2003,Spring,Jarrett,Hoffman,,False
+2003,Spring,Robert,Holland,,False
+2003,Spring,Kate,Honey,,False
+2003,Spring,Joel,Howell,,False
+2003,Spring,Kyle,Jarvis,,False
+2003,Spring,Robert,Jones,,False
+2003,Spring,Kyle,Kaplan,,False
+2003,Spring,Jocelyn,Kaufman,,False
+2003,Spring,David,Kaye,,False
+2003,Spring,Kristin,Keiper,,False
+2003,Spring,Matthew,Klein,,False
+2003,Spring,Ryan,Kussell,,False
+2003,Spring,Ari,Luxenberg,,False
+2003,Spring,Diana,Morgan,,False
+2003,Spring,James,Morgan,,False
+2003,Spring,Patrick,Nutt,,False
+2003,Spring,David,Odige,,False
+2003,Spring,Cathryn,Outzen,,False
+2003,Spring,Jerry,Paul,,False
+2003,Spring,Timothy,Philpot,,False
+2003,Spring,Joshua,Pila,,False
+2003,Spring,Teresa,Porter,,False
+2003,Spring,Assaf,Regev,,False
+2003,Spring,Suezette,Robotham,,False
+2003,Spring,Michael,Rollo,,False
+2003,Spring,Zainabu,Rumala,,False
+2003,Spring,Matthew,Seymour,,False
+2003,Spring,Charles,Shovlin,,False
+2003,Spring,Crystal,Spearman,,False
+2003,Spring,Leonard,Spearman,Jr.,False
+2003,Spring,Matthew,Stein,,False
+2003,Spring,James,Stelling,III,False
+2003,Spring,Jennifer,Stuart,,False
+2003,Spring,Cynthia,Trevino,,False
+2003,Spring,Sandy,Vernon,,False
+2003,Spring,Frank,Vitalle,,False
+2003,Spring,Bradley,Viapando,,False
+2003,Spring,Aaron,Weiner,,False
+2003,Spring,Jorian,Weiner,,False
+2003,Spring,Darin,Weisemiller,,False
+2003,Fall,Andrea,Amparo,,False
+2003,Fall,Clayton,Archey,,False
+2003,Fall,David,Arnold,,False
+2003,Fall,John,Barfield,,False
+2003,Fall,Katherine,Burbank,,False
+2003,Fall,Daniel,Byrnes,,False
+2003,Fall,Michael,Chioffe,,False
+2003,Fall,Natalie,Coccia,,False
+2003,Fall,Robert,Davis,Jr.,False
+2003,Fall,Manuel,Dieguez,,False
+2003,Fall,James,Dunton,II,False
+2003,Fall,James,Ferraro,,False
+2003,Fall,Jason,Friedman,,False
+2003,Fall,Michael,Gorman,,False
+2003,Fall,John,Healy,,False
+2003,Fall,John,Heekin,,False
+2003,Fall,Lucas,Higman,,False
+2003,Fall,Jeremy,Katzman,,False
+2003,Fall,Scott,Kennelly,,False
+2003,Fall,Timothy,Koechlein,,False
+2003,Fall,Denise,Kim,,False
+2003,Fall,Kristin,Laneri,,False
+2003,Fall,Heather,Lietzke,,False
+2003,Fall,Antrameca,Mathis,,False
+2003,Fall,Bakari,McClendon,,False
+2003,Fall,Sarah,Morgan,,False
+2003,Fall,Claudel,Pressa,,False
+2003,Fall,Bryson,Ridgway,,False
+2003,Fall,John,Roberts,,False
+2003,Fall,Caroline,Rottensteiner,,False
+2003,Fall,Andre,Samuels,,False
+2003,Fall,John,Schrantz,,False
+2003,Fall,Kyle,Shaw,,False
+2003,Fall,Andrea,Shwayri,,False
+2003,Fall,LaQuinta,Smith,,False
+2003,Fall,Ariel,Stein,,False
+2003,Fall,David,Wallsh,,False
+2003,Fall,Joshua,Webb,,False
+2003,Fall,Glen,Wegel,,False
+2003,Fall,Matthew,Wein,,False
+2003,Fall,Ronald,Westover,,False
+2003,Fall,Jeffrey,Woodburn,,False
+2003,Fall,Kevin,Young,,False
+2004,Spring,Vanessa,Alonso,,False
+2004,Spring,Arturo,Armand,,False
+2004,Spring,Elda,Auriliaire,,False
+2004,Spring,Anthony,Battaglia,,True
+2004,Spring,Lohse,Beeland,,True
+2004,Spring,Jasmine,Bragg,,False
+2004,Spring,Dennis,Calfee,,True
+2004,Spring,Alexis,Chapin,,False
+2004,Spring,David,Colburn,,True
+2004,Spring,Lindsay,Cosimi,,False
+2004,Spring,Aaron,Davis,,False
+2004,Spring,Erin,Dee,,False
+2004,Spring,David,Duncan,,False
+2004,Spring,Meghan,Fowler,,False
+2004,Spring,Glenda,Frederick,,True
+2004,Spring,Ashley,Gaal,,False
+2004,Spring,Emily,Garfinkel,,False
+2004,Spring,Joe,Goldberg,,False
+2004,Spring,Lisa,Goldberg,,False
+2004,Spring,Joseph,Green,,False
+2004,Spring,Whitney,Harper,,False
+2004,Spring,Adam,Hoffman,,False
+2004,Spring,Megan,Hoot,,False
+2004,Spring,Brandon,Howes,,False
+2004,Spring,Brenda,Jean,,False
+2004,Spring,Lawrence,Kaplan,,False
+2004,Spring,Kathryn,Linder,,False
+2004,Spring,Cassie,Lougee,,False
+2004,Spring,Jared,Lyon,,False
+2004,Spring,Robert,Mack,,False
+2004,Spring,Robyn,Meyer,,False
+2004,Spring,Ari,Miller,,False
+2004,Spring,Robert,Miller,,True
+2004,Spring,Logan,Murphy,,False
+2004,Spring,Gordon,Oldam,,False
+2004,Spring,Meredith,Pelton,,False
+2004,Spring,Josh,Perry,,False
+2004,Spring,John,Pughe,,False
+2004,Spring,Carey,Richards,,False
+2004,Spring,Erika,Ronquillo,,False
+2004,Spring,Andrea,Rottensteiner,,False
+2004,Spring,Fred,Rozelle,,True
+2004,Spring,Marco,Rubio,,True
+2004,Spring,Christopher,Ruiz,,False
+2004,Spring,David,Runyon,,False
+2004,Spring,Russell,Semmel,,False
+2004,Spring,Courtney,Shannon,,False
+2004,Spring,Jamie,Sherman,,False
+2004,Spring,Samuel,Silver,,True
+2004,Spring,Jay,Singerman,,False
+2004,Spring,Cliff,Sterns,,True
+2004,Spring,Jonathan,Stewart,,False
+2004,Spring,Sarah,Strauss,,False
+2004,Spring,David,Susa-Salazar,,False
+2004,Spring,Erin,Swick,,False
+2004,Spring,Christina,Underhill,,False
+2004,Spring,Matthew,Waas,,False
+2004,Spring,Samuel,Wright,Sr.,True
+2004,Spring,Jeff,Yeatman,,False
+2004,Fall,Garret,Atkinson,,False
+2004,Fall,Brian,Aungst,Jr.,False
+2004,Fall,Adam,Begley,,False
+2004,Fall,Marissa,Berlin,,False
+2004,Fall,Denise,Bird,,False
+2004,Fall,Matthew,Brockway,,False
+2004,Fall,Christopher,Bucciarelli,,False
+2004,Fall,David,Buckhalter,,False
+2004,Fall,Crystal,Caesar,,False
+2004,Fall,Corey,Campbell,,False
+2004,Fall,Christopher,Carlisle,,False
+2004,Fall,Robert,Carmody,,False
+2004,Fall,Noelle,Casagrande,,False
+2004,Fall,Ian,Denison,,False
+2004,Fall,John,Dicks,II,False
+2004,Fall,Kari,Donaldson,,False
+2004,Fall,Tarrian,Ellis,,False
+2004,Fall,Allison,Fogt,,False
+2004,Fall,Lee,Friedlander,,False
+2004,Fall,Rebecca,Gaff,,False
+2004,Fall,Brian,Gibson,,False
+2004,Fall,Carlos,Gomez,,False
+2004,Fall,Pedro,Gonzalez,,False
+2004,Fall,Jillian,Gordon,,False
+2004,Fall,Harold,Greenberg,,False
+2004,Fall,Nicholas,Girmaudo,,False
+2004,Fall,Jennifer,Gustetic,,False
+2004,Fall,John,Harrison,,False
+2004,Fall,John,Hettinger,,False
+2004,Fall,Steven,Hoffman,,False
+2004,Fall,Anne,Imanuel,,False
+2004,Fall,Mary Katherine,Jackson,,False
+2004,Fall,Gregory,Johnson,,False
+2004,Fall,Kyle,Kelly,,False
+2004,Fall,Melissa,Kondor,,False
+2004,Fall,Michael,Leahy,,False
+2004,Fall,Michael,Levin,,False
+2004,Fall,Randi,Lieberman,,False
+2004,Fall,David,Luterman,,False
+2005,Spring,Jayson,Alfonso,,False
+2005,Spring,Cory,Andrews,,False
+2005,Spring,Christine,Anzevino,,False
+2005,Spring,Matthew,Armstrong,,False
+2005,Spring,Jessica,Back,,False
+2005,Spring,Kenneth,Barker,Jr.,False
+2005,Spring,Mark,Berman,,False
+2005,Spring,Kelly,Boyle,,False
+2005,Spring,John,Boyles,,False
+2005,Spring,Michael,Brevda,,False
+2005,Spring,Robert,Brockman,,False
+2005,Spring,Erin,Choy,,False
+2005,Spring,Jonathan,Clouser,,False
+2005,Spring,Heather,Cumming,,False
+2005,Spring,Bruce,DeLaney,,False
+2005,Spring,Kristin,Detweiler,,False
+2005,Spring,John,Dicks,I,False
+2005,Spring,Emily,Donelson,,False
+2005,Spring,Von,Fraser,,False
+2005,Spring,Sabina,Frederick,,False
+2005,Spring,Darren,Goldman,,False
+2005,Spring,Jason,Goldman,,False
+2005,Spring,Adi,Hecht,,False
+2005,Spring,Catherine,Hough,,False
+2005,Spring,Harrison,Hove,,False
+2005,Spring,Marni,Jacob,,False
+2005,Spring,Matt,Kynes,,False
+2005,Spring,Caridad,Lee,,True
+2005,Spring,Brett,Lieberman,,False
+2005,Spring,Suzy,Lieberman,,False
+2005,Spring,Ramon,Looby,,False
+2005,Spring,Jason,Lutin,,False
+2005,Spring,Daniel,Maland,,False
+2005,Spring,Steven,Metz,,False
+2005,Spring,Michael,Maxim,,False
+2005,Spring,Keith,McCartney,,False
+2005,Spring,Ashley,Meacham,,False
+2005,Spring,Joyce,Medina,,False
+2005,Spring,Monica,Medlicott,,False
+2005,Spring,Daniel,Miller,,False
+2005,Spring,Julie,Miller,,False
+2005,Spring,Amanda,Mulvey,,False
+2005,Spring,David,Nigliazzo,,False
+2005,Spring,Ryan,Nixon,,False
+2005,Spring,Christopher,Nofal,,False
+2005,Spring,Gordon,Owen,,False
+2005,Spring,Robert,Pickett,,False
+2005,Spring,Rosey,Pierre,,False
+2005,Spring,Thomas,Philpot,,False
+2005,Spring,Amy,Popper,,False
+2005,Spring,Mike,Provenzale,,False
+2005,Spring,Kellie,Roberts,,True
+2005,Spring,Jarod,Rouch,,False
+2005,Spring,Robert,Santos,,False
+2005,Spring,Richard,Shane,,False
+2005,Spring,Luis,Suarez-Isaza,,False
+2005,Spring,Nina,Vaghaiwalla,,False
+2005,Spring,Lydia,Washington,,False
+2005,Spring,Eric,White,,False
+2005,Spring,Kurt,Zaner,,False
+2005,Fall,Brian,Barry,,False
+2005,Fall,Elizabeth,Benitez,,False
+2005,Fall,Lindsay,Burgess,,False
+2005,Fall,Ruben,Calixte,,False
+2005,Fall,Robert,Caplen,,False
+2005,Fall,Clay,Carlton,,False
+2005,Fall,Anthony,Carter,,False
+2005,Fall,Griffin,Dalrymple,,False
+2005,Fall,Ricklie,Davis,,False
+2005,Fall,Charles,Douglas,,False
+2005,Fall,Jamison,Everet,,False
+2005,Fall,Chris,Ferrante,,False
+2005,Fall,Joe,Fleece,,False
+2005,Fall,Marty,Fulgueria,,False
+2005,Fall,Amy,Gagnon,,False
+2005,Fall,Mallory,Giordano,,False
+2005,Fall,Alex,Madjilogiou,,False
+2005,Fall,Ashley,Hinton,,False
+2005,Fall,Ian,Horowitz,,False
+2005,Fall,Andrew,Kosoy,,False
+2005,Fall,Amy,Lieberman,,False
+2005,Fall,Alli,Manis,,False
+2005,Fall,Kelliann,McDonald,,False
+2005,Fall,David,Mica,,False
+2005,Fall,Lauren,Mierley,,False
+2005,Fall,Jeff,Monson,,False
+2005,Fall,Ryan,Moseley,,False
+2005,Fall,Kelli,Murray,,False
+2005,Fall,Travis,Mydock,,False
+2005,Fall,Matt,Nobles,,False
+2005,Fall,Heather,Reihs,,False
+2005,Fall,Ann Marie,Rizzo,,False
+2005,Fall,Ariel,Ruiz,,False
+2005,Fall,Michael,Sanders,,False
+2005,Fall,Ryan,Sherry,,False
+2005,Fall,Ian,Shutlman,,False
+2005,Fall,Orley,Szmuch,,False
+2005,Fall,Ginny,Tillman,,False
+2005,Fall,Seth,Traub,,False
+2005,Fall,Nichole,Trueblood,,False
+2005,Fall,Evan,Tvroller,,False
+2005,Fall,Kelly,VanBuskirk,,False
+2005,Fall,Monica,Vila,,False
+2005,Fall,Aron,Weingard,,False
+2005,Fall,Courtney,Weir,,False
+2005,Fall,Jordan,Weiss,,False
+2005,Fall,Joshua,Weiss,,False
+2005,Fall,Robert,Yare,,False
+2006,Spring,George,Albright,III,True
+2006,Spring,Eric,Babbitt,,False
+2006,Spring,Michael,Blachley,,True
+2006,Spring,Steven,Blank,,False
+2006,Spring,Daniel,Boda,,False
+2006,Spring,William,Boyles,,True
+2006,Spring,Steven,Brotman,,False
+2006,Spring,Andrew,Brown,,False
+2006,Spring,Amanda,Carboni,,False
+2006,Spring,William,Cervone,,True
+2006,Spring,Matt,Chamoff,,False
+2006,Spring,Jimmy,Cheek,,True
+2006,Spring,Francesca,Chiapo,,False
+2006,Spring,Matthew Co,miter,,False
+2006,Spring,Michael,Contreas,,False
+2006,Spring,Joshua,Cossey,,False
+2006,Spring,Larry,Cretul,,True
+2006,Spring,Christina,Criser,,False
+2006,Spring,Dell,Daily,,False
+2006,Spring,Elizabeth,Davlantes,,False
+2006,Spring,Keith,Dvorchik,,True
+2006,Spring,Nathan,Easley,,False
+2006,Spring,Ryan,Eastmoore,,False
+2006,Spring,Kyle,Epting,,False
+2006,Spring,Yordanos,Eyoel,,False
+2006,Spring,Anitery,Flores,,True
+2006,Spring,Emily,Friend,,False
+2006,Spring,Heather,Gavan,,False
+2006,Spring,Justin,Giangrande,,False
+2006,Spring,Lander,Gold,,False
+2006,Spring,Gary,Goldberg,,False
+2006,Spring,Laura,Gonzalez,,False
+2006,Spring,Ashley,Greenwald,,False
+2006,Spring,Sara,Hanson,,False
+2006,Spring,Adam,Hasner,,True
+2006,Spring,Billy,Holcombe,,False
+2006,Spring,Teresa,Jacks,,False
+2006,Spring,Elizabeth,Jacks,,False
+2006,Spring,Robert,Jerry,II,True
+2006,Spring,Rolanda,Joanice,,False
+2006,Spring,Alexander,Karden,,False
+2006,Spring,Diane,Kassim,,False
+2006,Spring,Sara,Kennedy,,False
+2006,Spring,Max,Labrada,,False
+2006,Spring,Wenda,Lewis,,True
+2006,Spring,Stephen,Liverpool,,False
+2006,Spring,Margo,Lyon,,False
+2006,Spring,Kelly,Lyon,,False
+2006,Spring,Joshua,Manning,,False
+2006,Spring,Ryan,McIntyre,,False
+2006,Spring,Ezra,Merritt,,False
+2006,Spring,James,Modica,,False
+2006,Spring,Johnny,Morette,,False
+2006,Spring,Mackenzie,Moritz,,False
+2006,Spring,Jamie,Myette,,False
+2006,Spring,Joyce,Olushola,,False
+2006,Spring,Neil,Patel,,False
+2006,Spring,Michael,Patrone,,False
+2006,Spring,Alejandro,Piekarewicz,,False
+2006,Spring,William,Poe,Sr.,False
+2006,Spring,Jacob,Raburn,,False
+2006,Spring,Kevin,Reilly,,False
+2006,Spring,Catherine,Riggs,,False
+2006,Spring,Gillian,Russell,,False
+2006,Spring,Brian,Seel,,False
+2006,Spring,Rebecca,Seigel,,False
+2006,Spring,Allison,Sirica,,False
+2006,Spring,Alexandra,Slavens,,False
+2006,Spring,Laura,Smith,,False
+2006,Spring,Betty,Stewart-Dowdell,,False
+2006,Spring,Randy,Talbot,,False
+2006,Spring,Ryan,Ulloa,,False
+2006,Spring,Leslie,Veiga,,False
+2006,Spring,Ambar,Vyas,,False
+2006,Spring,Amanda,Waas,,False
+2006,Spring,Edward,Walicki,,False
+2006,Spring,Kevin,Wright,,False
+2006,Spring,Matt,Zaltsberg,,False
+2006,Fall,Tolu,Adebanjo,,False
+2006,Fall,Thomas,Allison,,False
+2006,Fall,Dominic,Alquilina,,False
+2006,Fall,William,Atkins,,False
+2006,Fall,Richard,Belizaire,,False
+2006,Fall,Ashley,Bittner,,False
+2006,Fall,John,Brett,,False
+2006,Fall,Georgia,Buckhalter,,False
+2006,Fall,Brandon,Bulliard,,False
+2006,Fall,Ivan,Ceballos,Jr.,False
+2006,Fall,Lisa,Clarke,,False
+2006,Fall,Jennifer,Cohen,,False
+2006,Fall,Justin,Cole,,False
+2006,Fall,Alexander,Cosimano,,False
+2006,Fall,Jack,Cowan,,False
+2006,Fall,Ruan,Cox,Jr.,False
+2006,Fall,Luis,Delgado,Jr.,False
+2006,Fall,Robert,Dix,,False
+2006,Fall,Daniel,Drescher,,False
+2006,Fall,David,Drescher,,False
+2006,Fall,Ashley,Ellis,,False
+2006,Fall,Jonathan,Fernandez,,False
+2006,Fall,Lynda,Figuerdo,,False
+2006,Fall,Jerry,Hanbery,,False
+2006,Fall,Phillip,Harden,,False
+2006,Fall,Keith,Hardwick,,False
+2006,Fall,Charles,Hart,Jr.,False
+2006,Fall,Sara,Hartmann,,False
+2006,Fall,Alexander,Hug,,False
+2006,Fall,Huy,Huynh,,False
+2006,Fall,Randall,Johnson,,False
+2006,Fall,Marisa,Kaplan,,False
+2006,Fall,Ian,Kirtman,,False
+2006,Fall,Jesse,Kirsch,,False
+2006,Fall,Jessica,Klahr,,False
+2006,Fall,Gabrielle,Leon,,False
+2006,Fall,Mary,Lorincz,,False
+2006,Fall,Ryan,Merkel,,False
+2006,Fall,Brett,Milke,,False
+2006,Fall,Robert,Moreno,,False
+2006,Fall,Daniel,Oney,,False
+2006,Fall,Dipesh,Patel,,False
+2006,Fall,Arthur,Portnoy,,False
+2006,Fall,Jeffrey,Rudner,,False
+2006,Fall,Robert,Seifert,,False
+2006,Fall,Javier,Sierra,,False
+2006,Fall,Jamie,Silverstein,,False
+2006,Fall,Justin,Stone,,False
+2006,Fall,Craig,Thompson,,False
+2006,Fall,Tanaz,Vaghaiwalla,,False
+2006,Fall,Laura,Vance,,False
+2006,Fall,Latia,Wade,,False
+2006,Fall,Whitney,Walker,,False
+2006,Fall,Jamie,Wathen,,False
+2006,Fall,Troy,Welti,,False
+2006,Fall,Alex,Whitman,,False
+2006,Fall,Joel,Witter,,False
+2007,Spring,Ann,Adams,,False
+2007,Spring,Robert,Agrusa,,False
+2007,Spring,Bryan,Arbeit,,False
+2007,Spring,Lauren,Asher,,False
+2007,Spring,Jeb,Bush,,True
+2007,Spring,Jason,Beutke,,False
+2007,Spring,Carl,Beyer,,False
+2007,Spring,Shana,Brand,,False
+2007,Spring,Matthew,Brooks,,False
+2007,Spring,C. David,Brown,II,True
+2007,Spring,James,Contestable,,False
+2007,Spring,Theodore,Czupryk,,False
+2007,Spring,Roland,Daniels,,True
+2007,Spring,Ana De,Lima,,False
+2007,Spring,Christina,Domerowsky,,False
+2007,Spring,Paul,Drayton,,False
+2007,Spring,Carly,Fain,,False
+2007,Spring,Shae,Ferguson,,False
+2007,Spring,Sharon,Fieldman,,False
+2007,Spring,Joshua,Freesman,,False
+2007,Spring,Jessica,Furst,,False
+2007,Spring,Jessica,Garvich,,False
+2007,Spring,Michael,Gehring,,False
+2007,Spring,Gary,Gerson,,True
+2007,Spring,Lisa,Goldberg,,False
+2007,Spring,James,Golden,,False
+2007,Spring,Vanessa,Goodwin,,False
+2007,Spring,Samuel,Green,Jr.,False
+2007,Spring,Farah,Gulaid,,False
+2007,Spring,Drew,Hennigan,,False
+2007,Spring,Edwyna,Hill,,False
+2007,Spring,Donald,Holley,,False
+2007,Spring,Erika,Kane,,False
+2007,Spring,Jeff,Kottkamp,,False
+2007,Spring,Nathaniel,Kramer,,False
+2007,Spring,Taylor,Kuhn,,False
+2007,Spring,Jordi,Kushner,,False
+2007,Spring,Carlos,Lacasa,,False
+2007,Spring,Alfred,Lojo,,False
+2007,Spring,Christopher,Marhefka,,False
+2007,Spring,Sarah,Martin,,False
+2007,Spring,Kevin,Mastaler,,False
+2007,Spring,Robert,McAleer,,False
+2007,Spring,Brittany,McCants,,False
+2007,Spring,NaTalla,McCoy,,False
+2007,Spring,W.A.,McGriff,III,True
+2007,Spring,David,Mealor,,True
+2007,Spring,Joelen,Merkel,,True
+2007,Spring,Laura,Milles,,False
+2007,Spring,Ashley,Mitchell,,False
+2007,Spring,Patrick,Nealis,,False
+2007,Spring,Fernando,Nin,,False
+2007,Spring,Matthew,Ochs,,False
+2007,Spring,Jaustin,Ohueri,,False
+2007,Spring,Steven,Olerich,,True
+2007,Spring,Natalie,Peters,,False
+2007,Spring,Earl,Powell,,True
+2007,Spring,Ken,Pruitt,,True
+2007,Spring,Peggy,Quince,,True
+2007,Spring,Fletcher,Rush,,False
+2007,Spring,David,Sams,,False
+2007,Spring,Jesus,Suarez,,False
+2007,Spring,Kimberly,Treadwell,,False
+2007,Spring,Katheine,Valle,,False
+2007,Spring,Schulyer,Whetstone,,False
+2007,Spring,Mitchell,Werthheimer,,False
+2007,Spring,Yooni,Yi,,False
+2007,Spring,Jacob,Young,,False
+2007,Fall,Ryan,Bentivegna,,False
+2007,Fall,Linda,Berns,,False
+2007,Fall,Matthew,Betz,,False
+2007,Fall,Alisha,Blinck,,False
+2007,Fall,Stefanie,Brown,,False
+2007,Fall,Perry,Chung,,False
+2007,Fall,Barbara,Cineas,,False
+2007,Fall,Whitney,Cole,,False
+2007,Fall,Molly,Cox,,False
+2007,Fall,Aviah,Crespin,,False
+2007,Fall,Kellie,Dale,,False
+2007,Fall,Jamie,Davis,,False
+2007,Fall,Denton,Dewrell,,False
+2007,Fall,Kelly,Dunberg,,False
+2007,Fall,Bradley,Ellis,,False
+2007,Fall,David,Ellis,,False
+2007,Fall,Brian,Finkel,,False
+2007,Fall,Michael,Ginsberg,,False
+2007,Fall,Andrew,Gottlieb,,False
+2007,Fall,Brett,Guido,,False
+2007,Fall,Brock,Hankins,,False
+2007,Fall,Paul,Hayman,,False
+2007,Fall,Christian,Hertenstein,,False
+2007,Fall,Josh,Jackson,,False
+2007,Fall,Michael,Jordan,,False
+2007,Fall,Erinn,Kellner,,False
+2007,Fall,Brian,Koffman,,False
+2007,Fall,Maryam,Laguna,,False
+2007,Fall,Kay,Lennon,,False
+2007,Fall,Zach,Levine,,False
+2007,Fall,Lacey,Logsdon,,False
+2007,Fall,Joe,Malca,,False
+2007,Fall,Alex,Marshall,,False
+2007,Fall,Seth,Mollitt,,False
+2007,Fall,Lory,Parker,,False
+2007,Fall,Marshal,Printy,,False
+2007,Fall,Tashiba,Robinson,,False
+2007,Fall,Adam,Rosen,,False
+2007,Fall,Craig,Runyon,,False
+2007,Fall,Lauren,Sholssberg,,False
+2007,Fall,Jordan,Schulman,,False
+2007,Fall,Matthew,Schwarz,,False
+2007,Fall,Tiffany,Scoggins,,False
+2007,Fall,Jordan,See,,False
+2007,Fall,Andrew,Shapiro,,False
+2007,Fall,Jason,Silver,,False
+2007,Fall,Ashley,Strickland,,False
+2007,Fall,Sam,Warfield,,False
+2007,Fall,Chase,Webb,,False
+2007,Fall,Jillian,Yoerges,,False
+2007,Fall,Franklin,Sands,,True
+2007,Fall,Ray,Sansom,,True
+2007,Fall,Jodi,Schneider,,False
+2007,Fall,William,Shwayri,,False
+2007,Fall,Robert,Schlesinger,,False
+2007,Fall,Alex,Sink,,True
+2007,Fall,Matthew,Sloan,,False
+2007,Fall,Dana,Somerstein,,False
+2007,Fall,Courtney,Stephenson,,False
+2007,Fall,Ashley,Sutton,,False
+2007,Fall,Brell,Tarich,,False
+2007,Fall,Max,Tyroler,,False
